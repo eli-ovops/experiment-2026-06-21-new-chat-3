@@ -1,0 +1,1182 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/bwrqq6",
+    "id": "bwrqq6",
+    "slide": 2,
+    "layoutId": "e04a6690-e229-4c02-9769-4a86552dc366",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "43e65835-90b8-4915-81d6-fb8cc23861cd",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F7F9FC",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "e04a6690-e229-4c02-9769-4a86552dc366",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "43e65835-90b8-4915-81d6-fb8cc23861cd",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "43e65835-90b8-4915-81d6-fb8cc23861cd",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xkf6dcbu",
+      "id": "1",
+      "bbox": [
+        58,
+        30,
+        46,
+        28
+      ],
+      "geometry": "rect",
+      "text": "02",
+      "textPreview": "02",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#28A6C7",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#28A6C7",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.12
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#28A6C7",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.12
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mtwra5gb",
+      "id": "2",
+      "bbox": [
+        108,
+        30,
+        180,
+        28
+      ],
+      "geometry": "rect",
+      "text": "QCC成果报告",
+      "textPreview": "QCC成果报告",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Microsoft YaHei",
+        "color": "#5B677A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "QCC成果报告"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "QCC成果报告",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Microsoft YaHei",
+            "color": "#5B677A",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.12
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "QCC成果报告",
+              "fontSize": 14,
+              "typeface": "Microsoft YaHei",
+              "color": "#5B677A",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.12
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fepkzupw",
+      "id": "3",
+      "bbox": [
+        58,
+        62,
+        850,
+        48
+      ],
+      "geometry": "rect",
+      "text": "小组与课题概况",
+      "textPreview": "小组与课题概况",
+      "resolvedFontSize": 36,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 36,
+        "typeface": "Microsoft YaHei",
+        "color": "#102033",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "小组与课题概况"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "小组与课题概况",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 36,
+            "typeface": "Microsoft YaHei",
+            "color": "#102033",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.12
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "小组与课题概况",
+              "fontSize": 36,
+              "typeface": "Microsoft YaHei",
+              "color": "#102033",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.12
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4r65wjud",
+      "id": "4",
+      "bbox": [
+        58,
+        118,
+        1164,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#D4DAE3",
+      "lineWidth": 1
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xc3ylc7u",
+      "id": "5",
+      "bbox": [
+        58,
+        682,
+        520,
+        22
+      ],
+      "geometry": "rect",
+      "text": "长空之王QC小组｜提高55/72黑丝优等率",
+      "textPreview": "长空之王QC小组｜提高55/72黑丝优等率",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "color": "#5B677A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "长空之王QC小组｜提高55/72黑丝优等率"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "长空之王QC小组｜提高55/72黑丝优等率",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Microsoft YaHei",
+            "color": "#5B677A",
+            "alignment": "left",
+            "lineSpacing": 1.12
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "长空之王QC小组｜提高55/72黑丝优等率",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#5B677A",
+              "alignment": "left",
+              "lineSpacing": 1.12
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mlkjm1cf",
+      "id": "6",
+      "bbox": [
+        1172,
+        682,
+        50,
+        22
+      ],
+      "geometry": "rect",
+      "text": "02",
+      "textPreview": "02",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "color": "#5B677A",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Microsoft YaHei",
+            "color": "#5B677A",
+            "alignment": "right",
+            "lineSpacing": 1.12
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#5B677A",
+              "alignment": "right",
+              "lineSpacing": 1.12
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/q1orytsv",
+      "id": "7",
+      "bbox": [
+        58,
+        150,
+        1164,
+        250
+      ],
+      "text": "项目 | 内容 | 项目 | 内容\n小组名称 | 长空之王QC小组 | QC类型 | 问题解决型\n课题名称 | 提高55/72黑丝优等率 | 机台/规格 | 10#机，DTY 55/72黑丝\n组长 | 褚新良 | 活动周期 | 2026年5月9日-6月14日\n组员 | 陈杰、曹子建、沈金金、沈佩东、沈小燕、何迪柯、沈忠韬、宋利梁、沈琴玉 | 经济效益 | 平台填报20万元；按公司财务核算口径确认",
+      "textPreview": "项目 | 内容 | 项目 | 内容 | 小组名称 | 长空之王QC小组 | QC类型 | 问题解决型 | 课题名称 | 提高55/72黑丝优等率 | 机台/规格 | 10#机，DTY 55/72黑丝 | 组长 | 褚新良 | 活动周期 | 2026年5月9日-6月14日 |...",
+      "rows": 5,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            58,
+            150,
+            291,
+            50
+          ],
+          "text": "项目",
+          "textPreview": "项目",
+          "fillColor": "#173B63",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "项目",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "项目"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            349,
+            150,
+            291,
+            50
+          ],
+          "text": "内容",
+          "textPreview": "内容",
+          "fillColor": "#173B63",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "内容",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "内容"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            640,
+            150,
+            291,
+            50
+          ],
+          "text": "项目",
+          "textPreview": "项目",
+          "fillColor": "#173B63",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "项目",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "项目"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            931,
+            150,
+            291,
+            50
+          ],
+          "text": "内容",
+          "textPreview": "内容",
+          "fillColor": "#173B63",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "内容",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "内容"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            58,
+            200,
+            291,
+            50
+          ],
+          "text": "小组名称",
+          "textPreview": "小组名称",
+          "fillColor": "#F2F5F8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "小组名称",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "小组名称"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            349,
+            200,
+            291,
+            50
+          ],
+          "text": "长空之王QC小组",
+          "textPreview": "长空之王QC小组",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "长空之王QC小组",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "长空之王QC小组"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            640,
+            200,
+            291,
+            50
+          ],
+          "text": "QC类型",
+          "textPreview": "QC类型",
+          "fillColor": "#F2F5F8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "QC类型",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "QC类型"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            931,
+            200,
+            291,
+            50
+          ],
+          "text": "问题解决型",
+          "textPreview": "问题解决型",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "问题解决型",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "问题解决型"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            58,
+            250,
+            291,
+            50
+          ],
+          "text": "课题名称",
+          "textPreview": "课题名称",
+          "fillColor": "#F2F5F8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "课题名称",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "课题名称"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            349,
+            250,
+            291,
+            50
+          ],
+          "text": "提高55/72黑丝优等率",
+          "textPreview": "提高55/72黑丝优等率",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "提高55/72黑丝优等率",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "提高55/72黑丝优等率"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            640,
+            250,
+            291,
+            50
+          ],
+          "text": "机台/规格",
+          "textPreview": "机台/规格",
+          "fillColor": "#F2F5F8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "机台/规格",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "机台/规格"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            931,
+            250,
+            291,
+            50
+          ],
+          "text": "10#机，DTY 55/72黑丝",
+          "textPreview": "10#机，DTY 55/72黑丝",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "10#机，DTY 55/72黑丝",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "10#机，DTY 55/72黑丝"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            58,
+            300,
+            291,
+            50
+          ],
+          "text": "组长",
+          "textPreview": "组长",
+          "fillColor": "#F2F5F8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "组长",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "组长"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            349,
+            300,
+            291,
+            50
+          ],
+          "text": "褚新良",
+          "textPreview": "褚新良",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "褚新良",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "褚新良"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            640,
+            300,
+            291,
+            50
+          ],
+          "text": "活动周期",
+          "textPreview": "活动周期",
+          "fillColor": "#F2F5F8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "活动周期",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "活动周期"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            931,
+            300,
+            291,
+            50
+          ],
+          "text": "2026年5月9日-6月14日",
+          "textPreview": "2026年5月9日-6月14日",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2026年5月9日-6月14日",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2026年5月9日-6月14日"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            58,
+            350,
+            291,
+            50
+          ],
+          "text": "组员",
+          "textPreview": "组员",
+          "fillColor": "#F2F5F8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "组员",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "组员"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            349,
+            350,
+            291,
+            50
+          ],
+          "text": "陈杰、曹子建、沈金金、沈佩东、沈小燕、何迪柯、沈忠韬、宋利梁、沈琴玉",
+          "textPreview": "陈杰、曹子建、沈金金、沈佩东、沈小燕、何迪柯、沈忠韬、宋利梁、沈琴玉",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "陈杰、曹子建、沈金金、沈佩东、沈小燕、何迪柯、沈忠韬、宋利梁、沈琴玉",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "陈杰、曹子建、沈金金、沈佩东、沈小燕、何迪柯、沈忠韬、宋利梁、沈琴玉"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            640,
+            350,
+            291,
+            50
+          ],
+          "text": "经济效益",
+          "textPreview": "经济效益",
+          "fillColor": "#F2F5F8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "经济效益",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "经济效益"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            931,
+            350,
+            291,
+            50
+          ],
+          "text": "平台填报20万元；按公司财务核算口径确认",
+          "textPreview": "平台填报20万元；按公司财务核算口径确认",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "平台填报20万元；按公司财务核算口径确认",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "平台填报20万元；按公司财务核算口径确认"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4fu18jqh",
+      "id": "8",
+      "bbox": [
+        58,
+        438,
+        1164,
+        138
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#E7ECF3",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x0nuxc3y",
+      "id": "9",
+      "bbox": [
+        82,
+        460,
+        160,
+        28
+      ],
+      "geometry": "rect",
+      "text": "课题主线",
+      "textPreview": "课题主线",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "color": "#2B6CB0",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "课题主线"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "课题主线",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#2B6CB0",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.12
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "课题主线",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#2B6CB0",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.12
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lkjm1cfa",
+      "id": "10",
+      "bbox": [
+        254,
+        456,
+        900,
+        100
+      ],
+      "geometry": "rect",
+      "text": "55/72黑丝上机后生产不稳定，断头和C切偏多，优等率不足60%。\n经车速下调、张力CV报警阈值调整、冷却板调整等DTY端排查后，问题未得到有效解决。\n最终确认主要原因为配套POY原丝含油率偏低，需从前道POY油剂控制进行改善。",
+      "textPreview": "55/72黑丝上机后生产不稳定，断头和C切偏多，优等率不足60%。 | 经车速下调、张力CV报警阈值调整、冷却板调整等DTY端排查后，问题未得到有效解决。 | 最终确认主要原因为配套POY原丝含油率偏低，需从前道POY油剂控制进行改善。",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Microsoft YaHei",
+        "color": "#102033",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "55/72黑丝上机后生产不稳定，断头和C切偏多，优等率不足60%。"
+          },
+          {
+            "index": 2,
+            "text": "经车速下调、张力CV报警阈值调整、冷却板调整等DTY端排查后，问题未得到有效解决。"
+          },
+          {
+            "index": 3,
+            "text": "最终确认主要原因为配套POY原丝含油率偏低，需从前道POY油剂控制进行改善。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "55/72黑丝上机后生产不稳定，断头和C切偏多，优等率不足60%。",
+          "bulletCharacter": "•",
+          "marginLeft": 22,
+          "indent": -12,
+          "lineSpacingPercent": 112000,
+          "spaceAfter": 6,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Microsoft YaHei",
+            "color": "#102033",
+            "lineSpacing": 1.12
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "55/72黑丝上机后生产不稳定，断头和C切偏多，优等率不足60%。",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#102033",
+              "lineSpacing": 1.12
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "经车速下调、张力CV报警阈值调整、冷却板调整等DTY端排查后，问题未得到有效解决。",
+          "bulletCharacter": "•",
+          "marginLeft": 22,
+          "indent": -12,
+          "lineSpacingPercent": 112000,
+          "spaceAfter": 6,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Microsoft YaHei",
+            "color": "#102033",
+            "lineSpacing": 1.12
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "经车速下调、张力CV报警阈值调整、冷却板调整等DTY端排查后，问题未得到有效解决。",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#102033",
+              "lineSpacing": 1.12
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "最终确认主要原因为配套POY原丝含油率偏低，需从前道POY油剂控制进行改善。",
+          "bulletCharacter": "•",
+          "marginLeft": 22,
+          "indent": -12,
+          "lineSpacingPercent": 112000,
+          "spaceAfter": 6,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Microsoft YaHei",
+            "color": "#102033",
+            "lineSpacing": 1.12
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "最终确认主要原因为配套POY原丝含油率偏低，需从前道POY油剂控制进行改善。",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#102033",
+              "lineSpacing": 1.12
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

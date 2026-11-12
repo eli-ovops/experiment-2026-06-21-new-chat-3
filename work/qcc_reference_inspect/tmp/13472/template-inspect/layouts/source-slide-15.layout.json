@@ -1,0 +1,748 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/7y1kre1w",
+    "id": "7y1kre1w",
+    "slide": 15,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "5_标题和内容",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1350,
+      "height": 759.33
+    }
+  },
+  "theme": {
+    "colorSchemeName": "自定义 360",
+    "colors": {
+      "accent1": "#02994F",
+      "accent2": "#92D050",
+      "accent3": "#02994F",
+      "accent4": "#92D050",
+      "accent5": "#02994F",
+      "accent6": "#92D050",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#02994F",
+      "folHlink": "#92D050"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "+mn-ea",
+      "Calibri",
+      "Calibri Light",
+      "华文新魏",
+      "华文行楷"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "5_标题和内容",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "标题占位符 1",
+          "bbox": [
+            92.83,
+            40.5,
+            1164.33,
+            146.67
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版标题样式",
+          "textPreview": "单击此处编辑母版标题样式",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版标题样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版标题样式"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "文本占位符 2",
+          "bbox": [
+            92.83,
+            202.17,
+            1164.33,
+            481.83
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版文本样式\n第二级\n第三级\n第四级\n第五级",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版文本样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版文本样式"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "第二级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第二级"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "第三级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第三级"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "第四级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第四级"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "第五级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第五级"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "日期占位符 3",
+          "bbox": [
+            92.83,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "2021-04-13",
+          "textPreview": "2021-04-13",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2021-04-13",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2021-04-13"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "页脚占位符 4",
+          "bbox": [
+            447.17,
+            703.83,
+            455.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            953.5,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "kind": "image",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/10",
+          "id": "10",
+          "name": "图片 6",
+          "bbox": [
+            -0.18,
+            1.67,
+            221.53,
+            83.16
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 56029
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 56029
+          }
+        },
+        {
+          "order": 7,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/9",
+          "id": "9",
+          "name": "TextBox 8",
+          "bbox": [
+            0,
+            715.66,
+            1350,
+            42.01
+          ],
+          "geometry": "rect",
+          "text": "提供优质纤维         创造美好生活",
+          "textPreview": "提供优质纤维         创造美好生活",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "提供优质纤维         创造美好生活",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "提供优质纤维         创造美好生活",
+                  "fontSize": 26.67,
+                  "typeface": "华文行楷"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6xkf6dcb",
+      "id": "26",
+      "name": "Rectangle 3",
+      "bbox": [
+        0,
+        20.28,
+        1350,
+        53.1
+      ],
+      "geometry": "rect",
+      "text": "要因确认",
+      "textPreview": "要因确认",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "要因确认"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "要因确认",
+          "lineSpacingPercent": 90000,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "要因确认",
+              "fontSize": 42.67,
+              "typeface": "华文新魏",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cvixczed",
+      "id": "11",
+      "name": "矩形 10",
+      "bbox": [
+        70.21,
+        183.11,
+        566.99,
+        58.77
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "   "
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "lineSpacingPercent": 150000,
+          "spaceBefore": 0,
+          "spaceAfter": 0,
+          "runs": [
+            {
+              "index": 1,
+              "text": "   ",
+              "fontSize": 32,
+              "typeface": "+mn-ea"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g3ex0nux",
+      "id": "8",
+      "name": "Oval 88",
+      "bbox": [
+        9.73,
+        99.95,
+        408.23,
+        54.53
+      ],
+      "geometry": "ellipse",
+      "text": "因素五：聚酯原料异常",
+      "textPreview": "因素五：聚酯原料异常",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "因素五：聚酯原料异常"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "因素五：聚酯原料异常",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "因素五：聚酯原料异常",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#00B0F0",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5o7qpg3e",
+      "id": "9",
+      "name": "Rectangle 10",
+      "bbox": [
+        24.85,
+        651.82,
+        506.6,
+        48.47
+      ],
+      "geometry": "rect",
+      "text": "结论：聚酯原料异常，属非要因。",
+      "textPreview": "结论：聚酯原料异常，属非要因。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "结论：聚酯原料异常，属非要因。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "结论：聚酯原料异常，属非要因。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "结论",
+              "fontSize": 32,
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "：",
+              "fontSize": 32,
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "聚酯原料异常",
+              "fontSize": 32,
+              "typeface": "+mn-ea",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "，",
+              "fontSize": 32,
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 5,
+              "text": "属",
+              "fontSize": 32,
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 6,
+              "text": "非要因",
+              "fontSize": 32,
+              "color": "#FF0000",
+              "bold": true
+            },
+            {
+              "index": 7,
+              "text": "。",
+              "fontSize": 32,
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cj6tovah",
+      "id": "15",
+      "name": "矩形 14",
+      "bbox": [
+        39.97,
+        217.56,
+        234.36,
+        358.67
+      ],
+      "geometry": "rect",
+      "text": "查看近期聚酯无油丝指标：粘度、端羧基等各项指标均正常，符合工艺要求",
+      "textPreview": "查看近期聚酯无油丝指标：粘度、端羧基等各项指标均正常，符合工艺要求",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 6,
+        "lines": [
+          {
+            "index": 1,
+            "text": "查看近期聚酯"
+          },
+          {
+            "index": 2,
+            "text": "无油丝指标："
+          },
+          {
+            "index": 3,
+            "text": "粘度、端羧基"
+          },
+          {
+            "index": 4,
+            "text": "等各项指标均"
+          },
+          {
+            "index": 5,
+            "text": "正常，符合工"
+          },
+          {
+            "index": 6,
+            "text": "艺要求"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "查看近期聚酯无油丝指标：粘度、端羧基等各项指标均正常，符合工艺要求",
+          "lineSpacingPercent": 150000,
+          "spaceBefore": 0,
+          "spaceAfter": 0,
+          "runs": [
+            {
+              "index": 1,
+              "text": "查看近期聚酯无油丝指标：粘度、端羧基等各项指标均正常，符合工艺要求",
+              "fontSize": 32,
+              "typeface": "+mn-ea"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": {
+        "type": "theme",
+        "value": "accent1",
+        "transform": {
+          "lighten": 0.8
+        }
+      }
+    },
+    {
+      "order": 6,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/w3m94fu1",
+      "id": "27",
+      "name": "图片 2",
+      "bbox": [
+        312.13,
+        175.55,
+        973.49,
+        439.86
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image12.tmp",
+        "contentType": "image/png",
+        "byteLength": 49611
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image12.tmp",
+        "contentType": "image/png",
+        "byteLength": 49611
+      }
+    }
+  ],
+  "composeRuns": []
+}

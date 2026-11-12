@@ -1,0 +1,1657 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/lwval87e",
+    "id": "lwval87e",
+    "slide": 13,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "5_标题和内容",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1350,
+      "height": 759.33
+    }
+  },
+  "theme": {
+    "colorSchemeName": "自定义 360",
+    "colors": {
+      "accent1": "#02994F",
+      "accent2": "#92D050",
+      "accent3": "#02994F",
+      "accent4": "#92D050",
+      "accent5": "#02994F",
+      "accent6": "#92D050",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#02994F",
+      "folHlink": "#92D050"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "+mn-ea",
+      "Calibri",
+      "Calibri Light",
+      "华文新魏",
+      "华文行楷"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "5_标题和内容",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "标题占位符 1",
+          "bbox": [
+            92.83,
+            40.5,
+            1164.33,
+            146.67
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版标题样式",
+          "textPreview": "单击此处编辑母版标题样式",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版标题样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版标题样式"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "文本占位符 2",
+          "bbox": [
+            92.83,
+            202.17,
+            1164.33,
+            481.83
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版文本样式\n第二级\n第三级\n第四级\n第五级",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版文本样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版文本样式"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "第二级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第二级"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "第三级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第三级"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "第四级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第四级"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "第五级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第五级"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "日期占位符 3",
+          "bbox": [
+            92.83,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "2021-04-13",
+          "textPreview": "2021-04-13",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2021-04-13",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2021-04-13"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "页脚占位符 4",
+          "bbox": [
+            447.17,
+            703.83,
+            455.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            953.5,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "kind": "image",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/10",
+          "id": "10",
+          "name": "图片 6",
+          "bbox": [
+            -0.18,
+            1.67,
+            221.53,
+            83.16
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 56029
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 56029
+          }
+        },
+        {
+          "order": 7,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/9",
+          "id": "9",
+          "name": "TextBox 8",
+          "bbox": [
+            0,
+            715.66,
+            1350,
+            42.01
+          ],
+          "geometry": "rect",
+          "text": "提供优质纤维         创造美好生活",
+          "textPreview": "提供优质纤维         创造美好生活",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "提供优质纤维         创造美好生活",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "提供优质纤维         创造美好生活",
+                  "fontSize": 26.67,
+                  "typeface": "华文行楷"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3q5o7qpg",
+      "id": "26",
+      "name": "Rectangle 3",
+      "bbox": [
+        0,
+        20.28,
+        1350,
+        53.1
+      ],
+      "geometry": "rect",
+      "text": "要因确认",
+      "textPreview": "要因确认",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "要因确认"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "要因确认",
+          "lineSpacingPercent": 90000,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "要因确认",
+              "fontSize": 42.67,
+              "typeface": "华文新魏",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x4nap4r6",
+      "id": "11",
+      "name": "矩形 10",
+      "bbox": [
+        70.21,
+        183.11,
+        566.99,
+        58.77
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "   "
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "lineSpacingPercent": 150000,
+          "spaceBefore": 0,
+          "spaceAfter": 0,
+          "runs": [
+            {
+              "index": 1,
+              "text": "   ",
+              "fontSize": 32,
+              "typeface": "+mn-ea"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qd4vmtwr",
+      "id": "12",
+      "name": "Oval 88",
+      "bbox": [
+        9.73,
+        99.95,
+        408.23,
+        54.53
+      ],
+      "geometry": "ellipse",
+      "text": "因素三：风筒出风不匀",
+      "textPreview": "因素三：风筒出风不匀",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "因素三：风筒出风不匀"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "因素三：风筒出风不匀",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "因素三：风筒出风不匀",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#00B0F0",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fyxobm58",
+      "id": "13",
+      "name": "Rectangle 10",
+      "bbox": [
+        70.21,
+        636.7,
+        474.12,
+        48.47
+      ],
+      "geometry": "rect",
+      "text": "结论：风筒出风不匀，属要因。",
+      "textPreview": "结论：风筒出风不匀，属要因。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "结论：风筒出风不匀，属要因。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "结论：风筒出风不匀，属要因。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "结论",
+              "fontSize": 32,
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "：",
+              "fontSize": 32,
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "风筒出风不匀",
+              "fontSize": 32,
+              "typeface": "+mn-ea",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "，属",
+              "fontSize": 32,
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 5,
+              "text": "要",
+              "fontSize": 32,
+              "color": "#FF0000",
+              "bold": true
+            },
+            {
+              "index": 6,
+              "text": "因",
+              "fontSize": 32,
+              "color": "#FF0000",
+              "bold": true
+            },
+            {
+              "index": 7,
+              "text": "。",
+              "fontSize": 32,
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8v6psfil",
+      "id": "14",
+      "name": "矩形 13",
+      "bbox": [
+        70.21,
+        162.75,
+        498.95,
+        58.16
+      ],
+      "geometry": "rect",
+      "text": "选择1#～6#更换风筒，试验结果如下",
+      "textPreview": "选择1#～6#更换风筒，试验结果如下",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "选择1#～6#更换风筒，试验结果如下"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "选择1#～6#更换风筒，试验结果如下",
+          "lineSpacingPercent": 150000,
+          "spaceBefore": 0,
+          "spaceAfter": 0,
+          "runs": [
+            {
+              "index": 1,
+              "text": "选择",
+              "fontSize": 26.67,
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 2,
+              "text": "1#",
+              "fontSize": 26.67,
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 3,
+              "text": "～",
+              "fontSize": 26.67,
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 4,
+              "text": "6#",
+              "fontSize": 26.67,
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 5,
+              "text": "更换风筒，试验结果如下",
+              "fontSize": 26.67,
+              "typeface": "+mn-ea"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/dcbulwva",
+      "id": "27",
+      "name": "表格 15",
+      "bbox": [
+        74.13,
+        228.47,
+        850.35,
+        196.56
+      ],
+      "text": "更换风筒后丝束打转统计表\n位号 | 1#06 | 1#07 | 2#01 | 3#03 | 3#05 | 4#13 | 5#04 | 5#08 | 6#09\n更换\n风筒 | 好 | 未好 | 未好 | 好 | 未好 | 好 | 未好 | 好 | 好",
+      "textPreview": "更换风筒后丝束打转统计表 | 位号 | 1#06 | 1#07 | 2#01 | 3#03 | 3#05 | 4#13 | 5#04 | 5#08 | 6#09 | 更换 | 风筒 | 好 | 未好 | 未好 | 好 | 未好 | 好 | 未好 | 好 | 好",
+      "rows": 3,
+      "cols": 10,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "colSpan": 10,
+          "bbox": [
+            74.13,
+            228.47,
+            850.34,
+            69.93
+          ],
+          "text": "更换风筒后丝束打转统计表",
+          "textPreview": "更换风筒后丝束打转统计表",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "更换风筒后丝束打转统计表",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "更换风筒后丝束打转统计表",
+                  "fontSize": 29.33
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            178.92,
+            228.47,
+            82.84,
+            69.93
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            261.76,
+            228.47,
+            82.84,
+            69.93
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            344.6,
+            228.47,
+            82.84,
+            69.93
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 5,
+          "bbox": [
+            427.44,
+            228.47,
+            82.84,
+            69.93
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 6,
+          "bbox": [
+            510.28,
+            228.47,
+            82.84,
+            69.93
+          ]
+        },
+        {
+          "index": 7,
+          "row": 1,
+          "column": 7,
+          "bbox": [
+            593.12,
+            228.47,
+            82.84,
+            69.93
+          ]
+        },
+        {
+          "index": 8,
+          "row": 1,
+          "column": 8,
+          "bbox": [
+            675.96,
+            228.47,
+            82.84,
+            69.93
+          ]
+        },
+        {
+          "index": 9,
+          "row": 1,
+          "column": 9,
+          "bbox": [
+            758.8,
+            228.47,
+            82.84,
+            69.93
+          ]
+        },
+        {
+          "index": 10,
+          "row": 1,
+          "column": 10,
+          "bbox": [
+            841.64,
+            228.47,
+            82.84,
+            69.93
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            74.13,
+            298.4,
+            104.78,
+            56.7
+          ],
+          "text": "位号",
+          "textPreview": "位号",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "位号",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "位号",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            178.92,
+            298.4,
+            82.84,
+            56.7
+          ],
+          "text": "1#06",
+          "textPreview": "1#06",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1#06",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1#06",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            261.76,
+            298.4,
+            82.84,
+            56.7
+          ],
+          "text": "1#07",
+          "textPreview": "1#07",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1#07",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1#07",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            344.6,
+            298.4,
+            82.84,
+            56.7
+          ],
+          "text": "2#01",
+          "textPreview": "2#01",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2#01",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2#01",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 2,
+          "column": 5,
+          "bbox": [
+            427.44,
+            298.4,
+            82.84,
+            56.7
+          ],
+          "text": "3#03",
+          "textPreview": "3#03",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3#03",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3#03",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 2,
+          "column": 6,
+          "bbox": [
+            510.28,
+            298.4,
+            82.84,
+            56.7
+          ],
+          "text": "3#05",
+          "textPreview": "3#05",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3#05",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3#05",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 2,
+          "column": 7,
+          "bbox": [
+            593.12,
+            298.4,
+            82.84,
+            56.7
+          ],
+          "text": "4#13",
+          "textPreview": "4#13",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4#13",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4#13",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 2,
+          "column": 8,
+          "bbox": [
+            675.96,
+            298.4,
+            82.84,
+            56.7
+          ],
+          "text": "5#04",
+          "textPreview": "5#04",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5#04",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5#04",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 2,
+          "column": 9,
+          "bbox": [
+            758.8,
+            298.4,
+            82.84,
+            56.7
+          ],
+          "text": "5#08",
+          "textPreview": "5#08",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5#08",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5#08",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 2,
+          "column": 10,
+          "bbox": [
+            841.64,
+            298.4,
+            82.84,
+            56.7
+          ],
+          "text": "6#09",
+          "textPreview": "6#09",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "6#09",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "6#09",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            74.13,
+            355.1,
+            104.78,
+            69.93
+          ],
+          "text": "更换\n风筒",
+          "textPreview": "更换 | 风筒",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "更换",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "更换",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "风筒",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "风筒",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            178.92,
+            355.1,
+            82.84,
+            69.93
+          ],
+          "text": "好",
+          "textPreview": "好",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "好",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "好",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            261.76,
+            355.1,
+            82.84,
+            69.93
+          ],
+          "text": "未好",
+          "textPreview": "未好",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "未好",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "未好",
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            344.6,
+            355.1,
+            82.84,
+            69.93
+          ],
+          "text": "未好",
+          "textPreview": "未好",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "未好",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "未好",
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 3,
+          "column": 5,
+          "bbox": [
+            427.44,
+            355.1,
+            82.84,
+            69.93
+          ],
+          "text": "好",
+          "textPreview": "好",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "好",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "好",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 3,
+          "column": 6,
+          "bbox": [
+            510.28,
+            355.1,
+            82.84,
+            69.93
+          ],
+          "text": "未好",
+          "textPreview": "未好",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "未好",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "未好",
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 3,
+          "column": 7,
+          "bbox": [
+            593.12,
+            355.1,
+            82.84,
+            69.93
+          ],
+          "text": "好",
+          "textPreview": "好",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "好",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "好",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 3,
+          "column": 8,
+          "bbox": [
+            675.96,
+            355.1,
+            82.84,
+            69.93
+          ],
+          "text": "未好",
+          "textPreview": "未好",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "未好",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "未好",
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 29,
+          "row": 3,
+          "column": 9,
+          "bbox": [
+            758.8,
+            355.1,
+            82.84,
+            69.93
+          ],
+          "text": "好",
+          "textPreview": "好",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "好",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "好",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "row": 3,
+          "column": 10,
+          "bbox": [
+            841.64,
+            355.1,
+            82.84,
+            69.93
+          ],
+          "text": "好",
+          "textPreview": "好",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "好",
+              "marginLeft": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "好",
+                  "fontSize": 24,
+                  "typeface": "Calibri",
+                  "color": "dk1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fa9w3m94",
+      "id": "17",
+      "name": "矩形 16",
+      "bbox": [
+        947.16,
+        183.11,
+        340.2,
+        315.05
+      ],
+      "horizontalFlip": true,
+      "geometry": "rect",
+      "text": "    更换风筒，成功率为55.5% ，考虑为要因。\n    对于为什么更换风筒后还是没有好转的问题，由于没有好的设备检测其原因，而且时间紧迫，并未深究，但可以判断为要因。",
+      "textPreview": "更换风筒，成功率为55.5% ，考虑为要因。 |     对于为什么更换风筒后还是没有好转的问题，由于没有好的设备检测其原因，而且时间紧迫，并未深究，但可以判断为要因。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 8,
+        "lines": [
+          {
+            "index": 1,
+            "text": "    更换风筒，成功率为55.5%"
+          },
+          {
+            "index": 2,
+            "text": "，考虑为要因。"
+          },
+          {
+            "index": 3,
+            "text": "    "
+          },
+          {
+            "index": 4,
+            "text": "对于为什么更换风筒后还是没"
+          },
+          {
+            "index": 5,
+            "text": "有好转的问题，由于没有好的"
+          },
+          {
+            "index": 6,
+            "text": "设备检测其原因，而且时间紧"
+          },
+          {
+            "index": 7,
+            "text": "迫，并未深究，但可以判断为"
+          },
+          {
+            "index": 8,
+            "text": "要因。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "    更换风筒，成功率为55.5% ，考虑为要因。",
+          "lineSpacingPercent": 150000,
+          "spaceBefore": 0,
+          "spaceAfter": 0,
+          "runs": [
+            {
+              "index": 1,
+              "text": "    更换风筒，成功率为",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 2,
+              "text": "55.5%",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 3,
+              "text": " ，考虑为要因。",
+              "typeface": "+mn-ea"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "    对于为什么更换风筒后还是没有好转的问题，由于没有好的设备检测其原因，而且时间紧迫，并未深究，但可以判断为要因。",
+          "lineSpacingPercent": 150000,
+          "spaceBefore": 0,
+          "spaceAfter": 0,
+          "runs": [
+            {
+              "index": 1,
+              "text": "    对于为什么更换风筒后还是没有好转的问题，由于没有好的设备检测其原因，而且时间紧迫，并未深究，但可以判断为要因。",
+              "typeface": "+mn-ea"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": {
+        "type": "theme",
+        "value": "accent1",
+        "transform": {
+          "lighten": 0.8
+        }
+      }
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wfyxobm5",
+      "id": "3",
+      "name": "TextBox 2",
+      "bbox": [
+        947.16,
+        523.3,
+        340.2,
+        126.02
+      ],
+      "geometry": "rect",
+      "text": "备注：正常锭位陆续也会有丝束打转的情况出现，所以完全靠更换风筒来解决还是比较困难的。",
+      "textPreview": "备注：正常锭位陆续也会有丝束打转的情况出现，所以完全靠更换风筒来解决还是比较困难的。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "备注：正常锭位陆续也会有丝"
+          },
+          {
+            "index": 2,
+            "text": "束打转的情况出现，所以完全"
+          },
+          {
+            "index": 3,
+            "text": "靠更换风筒来解决还是比较困"
+          },
+          {
+            "index": 4,
+            "text": "难的。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "备注：正常锭位陆续也会有丝束打转的情况出现，所以完全靠更换风筒来解决还是比较困难的。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "备注：正常锭位陆续也会有丝束打转的情况出现，所以完全靠更换风筒来解决还是比较困难的。",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFF00"
+    }
+  ],
+  "composeRuns": []
+}

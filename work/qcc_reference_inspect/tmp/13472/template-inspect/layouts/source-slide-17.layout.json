@@ -1,0 +1,923 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/54zidony",
+    "id": "54zidony",
+    "slide": 17,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "5_标题和内容",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1350,
+      "height": 759.33
+    }
+  },
+  "theme": {
+    "colorSchemeName": "自定义 360",
+    "colors": {
+      "accent1": "#02994F",
+      "accent2": "#92D050",
+      "accent3": "#02994F",
+      "accent4": "#92D050",
+      "accent5": "#02994F",
+      "accent6": "#92D050",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#02994F",
+      "folHlink": "#92D050"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "+mn-ea",
+      "Calibri",
+      "Calibri Light",
+      "华文新魏",
+      "华文行楷"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "5_标题和内容",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "标题占位符 1",
+          "bbox": [
+            92.83,
+            40.5,
+            1164.33,
+            146.67
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版标题样式",
+          "textPreview": "单击此处编辑母版标题样式",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版标题样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版标题样式"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "文本占位符 2",
+          "bbox": [
+            92.83,
+            202.17,
+            1164.33,
+            481.83
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版文本样式\n第二级\n第三级\n第四级\n第五级",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版文本样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版文本样式"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "第二级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第二级"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "第三级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第三级"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "第四级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第四级"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "第五级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第五级"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "日期占位符 3",
+          "bbox": [
+            92.83,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "2021-04-13",
+          "textPreview": "2021-04-13",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2021-04-13",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2021-04-13"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "页脚占位符 4",
+          "bbox": [
+            447.17,
+            703.83,
+            455.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            953.5,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "kind": "image",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/10",
+          "id": "10",
+          "name": "图片 6",
+          "bbox": [
+            -0.18,
+            1.67,
+            221.53,
+            83.16
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 56029
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 56029
+          }
+        },
+        {
+          "order": 7,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/9",
+          "id": "9",
+          "name": "TextBox 8",
+          "bbox": [
+            0,
+            715.66,
+            1350,
+            42.01
+          ],
+          "geometry": "rect",
+          "text": "提供优质纤维         创造美好生活",
+          "textPreview": "提供优质纤维         创造美好生活",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "提供优质纤维         创造美好生活",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "提供优质纤维         创造美好生活",
+                  "fontSize": 26.67,
+                  "typeface": "华文行楷"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j6tovaho",
+      "id": "26",
+      "name": "Rectangle 3",
+      "bbox": [
+        0,
+        20.28,
+        1350,
+        53.1
+      ],
+      "geometry": "rect",
+      "text": "要因确认",
+      "textPreview": "要因确认",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "要因确认"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "要因确认",
+          "lineSpacingPercent": 90000,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "要因确认",
+              "fontSize": 42.67,
+              "typeface": "华文新魏",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d4vmtwra",
+      "id": "11",
+      "name": "矩形 10",
+      "bbox": [
+        62.65,
+        167.99,
+        347.76,
+        184.18
+      ],
+      "geometry": "rect",
+      "text": "无风区的大小很大程度上影响产品的纺速、指标染色，员工铲板的难易程度等等，一般情况下很少改动。",
+      "textPreview": "无风区的大小很大程度上影响产品的纺速、指标染色，员工铲板的难易程度等等，一般情况下很少改动。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "无"
+          },
+          {
+            "index": 2,
+            "text": "风区的大小很大程度上影响产"
+          },
+          {
+            "index": 3,
+            "text": "品的纺速、指标染色，员工铲"
+          },
+          {
+            "index": 4,
+            "text": "板的难易程度等等，一般情况"
+          },
+          {
+            "index": 5,
+            "text": "下很少改动。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "无风区的大小很大程度上影响产品的纺速、指标染色，员工铲板的难易程度等等，一般情况下很少改动。",
+          "lineSpacingPercent": 150000,
+          "spaceBefore": 0,
+          "spaceAfter": 0,
+          "runs": [
+            {
+              "index": 1,
+              "text": "无",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 2,
+              "text": "风区的大小很大程度上影响产品的纺速、指标染色，员工铲板的难易程度等等，一般情况下很少改动。",
+              "typeface": "+mn-ea"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFCC"
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6dcbulwv",
+      "id": "12",
+      "name": "Oval 88",
+      "bbox": [
+        9.73,
+        99.95,
+        438.47,
+        54.53
+      ],
+      "geometry": "ellipse",
+      "text": "因素七：无风区太深",
+      "textPreview": "因素七：无风区太深",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "因素七：无风区太深"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "因素七：无风区太深",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "因素七：无风区太深",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#00B0F0",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vy90je9c",
+      "id": "13",
+      "name": "Rectangle 10",
+      "bbox": [
+        51.92,
+        666.94,
+        441.64,
+        48.47
+      ],
+      "geometry": "rect",
+      "text": "结论：无风区太深，属要因。",
+      "textPreview": "结论：无风区太深，属要因。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "结论：无风区太深，属要因。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "结论：无风区太深，属要因。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "结论",
+              "fontSize": 32,
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "：",
+              "fontSize": 32,
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "无",
+              "fontSize": 32,
+              "typeface": "+mn-ea",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "风区太深",
+              "fontSize": 32,
+              "typeface": "+mn-ea",
+              "bold": true
+            },
+            {
+              "index": 5,
+              "text": "，属",
+              "fontSize": 32,
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 6,
+              "text": "要",
+              "fontSize": 32,
+              "color": "#FF0000",
+              "bold": true
+            },
+            {
+              "index": 7,
+              "text": "因",
+              "fontSize": 32,
+              "color": "#FF0000",
+              "bold": true
+            },
+            {
+              "index": 8,
+              "text": "。",
+              "fontSize": 32,
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x0nuxc3y",
+      "id": "2",
+      "name": "TextBox 1",
+      "bbox": [
+        62.65,
+        364.55,
+        347.76,
+        184.18
+      ],
+      "geometry": "rect",
+      "text": "了解到兄弟公司中盈CP8在纺的140/72品种（组件相同）采用的无风区为60mm，而我们CP6采用的是75mm，考虑到无风区的深度可能对丝束打转有所影响。",
+      "textPreview": "了解到兄弟公司中盈CP8在纺的140/72品种（组件相同）采用的无风区为60mm，而我们CP6采用的是75mm，考虑到无风区的深度可能对丝束打转有所影响。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 7,
+        "lines": [
+          {
+            "index": 1,
+            "text": "了解到兄弟公司中盈CP8"
+          },
+          {
+            "index": 2,
+            "text": "在纺的140/72"
+          },
+          {
+            "index": 3,
+            "text": "品种（组件相同）采用的无风"
+          },
+          {
+            "index": 4,
+            "text": "区为60mm，而我们CP6"
+          },
+          {
+            "index": 5,
+            "text": "采用的是75mm"
+          },
+          {
+            "index": 6,
+            "text": "，考虑到无风区的深度可能对"
+          },
+          {
+            "index": 7,
+            "text": "丝束打转有所影响。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "了解到兄弟公司中盈CP8在纺的140/72品种（组件相同）采用的无风区为60mm，而我们CP6采用的是75mm，考虑到无风区的深度可能对丝束打转有所影响。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "了解到兄弟公司中盈"
+            },
+            {
+              "index": 2,
+              "text": "CP8"
+            },
+            {
+              "index": 3,
+              "text": "在纺的"
+            },
+            {
+              "index": 4,
+              "text": "140/72"
+            },
+            {
+              "index": 5,
+              "text": "品种（组件相同）采用的无风区为"
+            },
+            {
+              "index": 6,
+              "text": "60mm"
+            },
+            {
+              "index": 7,
+              "text": "，而我们"
+            },
+            {
+              "index": 8,
+              "text": "CP6"
+            },
+            {
+              "index": 9,
+              "text": "采用的是"
+            },
+            {
+              "index": 10,
+              "text": "75mm"
+            },
+            {
+              "index": 11,
+              "text": "，考虑到无风区的深度可能对丝束打转有所影响。"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": {
+        "type": "theme",
+        "value": "accent5",
+        "transform": {
+          "lighten": 0.8
+        }
+      }
+    },
+    {
+      "order": 6,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/p4r65wju",
+      "id": "27",
+      "name": "图片 2",
+      "bbox": [
+        467.2,
+        99.95,
+        797.88,
+        459.67
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image15.tmp",
+        "contentType": "image/png",
+        "byteLength": 54394
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image15.tmp",
+        "contentType": "image/png",
+        "byteLength": 54394
+      }
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fil0rqd4",
+      "id": "4",
+      "name": "TextBox 3",
+      "bbox": [
+        62.65,
+        568.66,
+        1202.43,
+        96.94
+      ],
+      "geometry": "rect",
+      "text": "选定了4线21#丝束打转较多的位做无风区试验，而且其中07.17.18三个锭位丝束打转比较严重，用来做试验更有意义，最终通过试验证明：降低无风区深度对丝束打转改善效果良好。最后综合考虑：打转情况、纺速、物理指标等因素，确定使用65mm的无风区深度。",
+      "textPreview": "选定了4线21#丝束打转较多的位做无风区试验，而且其中07.17.18三个锭位丝束打转比较严重，用来做试验更有意义，最终通过试验证明：降低无风区深度对丝束打转改善效果良好。最后综合考虑：打转情况、纺速、物理指标等因素，确定使用65mm的无风区深度。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "选定了4线21#丝束打转较多的位做无风区试验，而且其中07.17.18"
+          },
+          {
+            "index": 2,
+            "text": "三个锭位丝束打转比较严重，用来做试验更有意义，最终通过试验证明：降低无风区深度对丝束打转改善效果良"
+          },
+          {
+            "index": 3,
+            "text": "好。最后综合考虑：打转情况、纺速、物理指标等因素，确定使用65mm的无风区深度。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "选定了4线21#丝束打转较多的位做无风区试验，而且其中07.17.18三个锭位丝束打转比较严重，用来做试验更有意义，最终通过试验证明：降低无风区深度对丝束打转改善效果良好。最后综合考虑：打转情况、纺速、物理指标等因素，确定使用65mm的无风区深度。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "选定了"
+            },
+            {
+              "index": 2,
+              "text": "4"
+            },
+            {
+              "index": 3,
+              "text": "线"
+            },
+            {
+              "index": 4,
+              "text": "21#"
+            },
+            {
+              "index": 5,
+              "text": "丝"
+            },
+            {
+              "index": 6,
+              "text": "束打转较多的位做无风区试验，而且其中"
+            },
+            {
+              "index": 7,
+              "text": "07.17.18"
+            },
+            {
+              "index": 8,
+              "text": "三个锭位丝束打转比较严重，用来做试验更有意义，最终通过试验证明：降低无风区深度对丝束打转改善效果良好。最后综合考虑：打转情况、纺速、物理指标等因素，确定使用"
+            },
+            {
+              "index": 9,
+              "text": "65mm"
+            },
+            {
+              "index": 10,
+              "text": "的无风区深度。"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": {
+        "type": "theme",
+        "value": "bg1",
+        "transform": {
+          "darken": 0.15
+        }
+      }
+    }
+  ],
+  "composeRuns": []
+}

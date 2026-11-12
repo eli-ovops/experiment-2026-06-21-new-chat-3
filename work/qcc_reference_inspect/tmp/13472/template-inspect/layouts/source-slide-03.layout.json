@@ -1,0 +1,1064 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/s72x4nap",
+    "id": "s72x4nap",
+    "slide": 3,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "5_标题和内容",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1350,
+      "height": 759.33
+    }
+  },
+  "theme": {
+    "colorSchemeName": "自定义 360",
+    "colors": {
+      "accent1": "#02994F",
+      "accent2": "#92D050",
+      "accent3": "#02994F",
+      "accent4": "#92D050",
+      "accent5": "#02994F",
+      "accent6": "#92D050",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#02994F",
+      "folHlink": "#92D050"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "+mn-ea",
+      "Calibri",
+      "Calibri Light",
+      "华文新魏",
+      "华文行楷"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "5_标题和内容",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "标题占位符 1",
+          "bbox": [
+            92.83,
+            40.5,
+            1164.33,
+            146.67
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版标题样式",
+          "textPreview": "单击此处编辑母版标题样式",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版标题样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版标题样式"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "文本占位符 2",
+          "bbox": [
+            92.83,
+            202.17,
+            1164.33,
+            481.83
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版文本样式\n第二级\n第三级\n第四级\n第五级",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版文本样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版文本样式"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "第二级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第二级"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "第三级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第三级"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "第四级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第四级"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "第五级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第五级"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "日期占位符 3",
+          "bbox": [
+            92.83,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "2021-04-13",
+          "textPreview": "2021-04-13",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2021-04-13",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2021-04-13"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "页脚占位符 4",
+          "bbox": [
+            447.17,
+            703.83,
+            455.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            953.5,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "kind": "image",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/10",
+          "id": "10",
+          "name": "图片 6",
+          "bbox": [
+            -0.18,
+            1.67,
+            221.53,
+            83.16
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 56029
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 56029
+          }
+        },
+        {
+          "order": 7,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/9",
+          "id": "9",
+          "name": "TextBox 8",
+          "bbox": [
+            0,
+            715.66,
+            1350,
+            42.01
+          ],
+          "geometry": "rect",
+          "text": "提供优质纤维         创造美好生活",
+          "textPreview": "提供优质纤维         创造美好生活",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "提供优质纤维         创造美好生活",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "提供优质纤维         创造美好生活",
+                  "fontSize": 26.67,
+                  "typeface": "华文行楷"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4byhgn29",
+      "id": "31",
+      "name": "矩形 1",
+      "bbox": [
+        127.33,
+        120.17,
+        436.77,
+        510.46
+      ],
+      "rotation": 22.03,
+      "geometry": "custom",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "accent1",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bq1oryts",
+      "id": "32",
+      "name": "矩形 31",
+      "bbox": [
+        141,
+        121.35,
+        375.24,
+        526.04
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "accent2",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1kre1w7m",
+      "id": "41",
+      "name": "矩形 40",
+      "bbox": [
+        659.88,
+        133.28,
+        566.99,
+        242.34
+      ],
+      "geometry": "rect",
+      "text": "    为进一步确认该情况的准确性，统计了所有丝束打转的锭位并制作了表格，安排分级人员参照表格加强巡检，观察丝饼毛丝情况。",
+      "textPreview": "为进一步确认该情况的准确性，统计了所有丝束打转的锭位并制作了表格，安排分级人员参照表格加强巡检，观察丝饼毛丝情况。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "    为进一步确认该情况的准确性"
+          },
+          {
+            "index": 2,
+            "text": "，统计了所有丝束打转的锭位并制作了"
+          },
+          {
+            "index": 3,
+            "text": "表格，安排"
+          },
+          {
+            "index": 4,
+            "text": "分级人员参照表格加强巡检，观察丝饼"
+          },
+          {
+            "index": 5,
+            "text": "毛丝情况。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "    为进一步确认该情况的准确性，统计了所有丝束打转的锭位并制作了表格，安排分级人员参照表格加强巡检，观察丝饼毛丝情况。",
+          "lineSpacingPercent": 150000,
+          "spaceBefore": 0,
+          "spaceAfter": 0,
+          "runs": [
+            {
+              "index": 1,
+              "text": "    为",
+              "fontSize": 32,
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 2,
+              "text": "进一步确认该情况的准确性",
+              "fontSize": 32,
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 3,
+              "text": "，统计了所有丝束打转的锭位并制作了表格",
+              "fontSize": 32,
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 4,
+              "text": "，安排",
+              "fontSize": 32,
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 5,
+              "text": "分级人员参照表格加强巡检，观察丝饼毛丝情况。",
+              "fontSize": 32,
+              "typeface": "+mn-ea"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o7qpg3ex",
+      "id": "2",
+      "name": "矩形 1",
+      "bbox": [
+        140.27,
+        122.01,
+        375.97,
+        449.08
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "lineWidth": 0,
+      "fillImage": {
+        "assetId": "/ppt/media/image4.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 30233
+      }
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w7mp0bi9",
+      "id": "26",
+      "name": "Rectangle 3",
+      "bbox": [
+        0,
+        20.28,
+        1350,
+        53.1
+      ],
+      "geometry": "rect",
+      "text": "课题背景",
+      "textPreview": "课题背景",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "课题背景"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "课题背景",
+          "lineSpacingPercent": 90000,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "课题背景",
+              "fontSize": 42.67,
+              "typeface": "华文新魏",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vy90je9c",
+      "id": "5",
+      "name": "TextBox 4",
+      "bbox": [
+        233.13,
+        582.87,
+        192.39,
+        61.39
+      ],
+      "geometry": "rect",
+      "text": "外检结果",
+      "textPreview": "外检结果",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "外检结果"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "外检结果",
+          "runs": [
+            {
+              "index": 1,
+              "text": "外检",
+              "fontSize": 42.67,
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "结果",
+              "fontSize": 42.67,
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/5kb6xkf6",
+      "id": "42",
+      "name": "表格 5",
+      "bbox": [
+        659.88,
+        379.67,
+        582.11,
+        133.02
+      ],
+      "text": "打转丝饼总数 | 毛丝个数 | 毛丝占比\n90 | 29 | 32.22%",
+      "textPreview": "打转丝饼总数 | 毛丝个数 | 毛丝占比 | 90 | 29 | 32.22%",
+      "rows": 2,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            659.88,
+            379.67,
+            194.04,
+            66.05
+          ],
+          "text": "打转丝饼总数",
+          "textPreview": "打转丝饼总数",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "打转丝饼总数",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "打转丝饼总数",
+                  "fontSize": 26.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            853.92,
+            379.67,
+            194.04,
+            66.05
+          ],
+          "text": "毛丝个数",
+          "textPreview": "毛丝个数",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "毛丝个数",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "毛丝个数",
+                  "fontSize": 26.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            1047.95,
+            379.67,
+            194.04,
+            66.05
+          ],
+          "text": "毛丝占比",
+          "textPreview": "毛丝占比",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "毛丝占比",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "毛丝占比",
+                  "fontSize": 26.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            659.88,
+            445.72,
+            194.04,
+            66.97
+          ],
+          "text": "90",
+          "textPreview": "90",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "90",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "90",
+                  "fontSize": 26.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            853.92,
+            445.72,
+            194.04,
+            66.97
+          ],
+          "text": "29",
+          "textPreview": "29",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "29",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "29",
+                  "fontSize": 26.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            1047.95,
+            445.72,
+            194.04,
+            66.97
+          ],
+          "text": "32.22%",
+          "textPreview": "32.22%",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "32.22%",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "32.22%",
+                  "fontSize": 26.67
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d4vmtwra",
+      "id": "7",
+      "name": "矩形 6",
+      "bbox": [
+        665.57,
+        543.82,
+        576.43,
+        132.48
+      ],
+      "geometry": "rect",
+      "text": "外检结果表明：\n丝束打转及其容易引起毛丝，影响产品质量",
+      "textPreview": "外检结果表明： | 丝束打转及其容易引起毛丝，影响产品质量",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "外检结果表明："
+          },
+          {
+            "index": 2,
+            "text": "丝"
+          },
+          {
+            "index": 3,
+            "text": "束打转及其容易引起毛丝，影响产品质"
+          },
+          {
+            "index": 4,
+            "text": "量"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "外检结果表明：",
+          "runs": [
+            {
+              "index": 1,
+              "text": "外",
+              "fontSize": 37.33,
+              "bold": true,
+              "textTransform": "uppercase"
+            },
+            {
+              "index": 2,
+              "text": "检结果表明：",
+              "fontSize": 37.33,
+              "bold": true,
+              "textTransform": "uppercase"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "丝束打转及其容易引起毛丝，影响产品质量",
+          "runs": [
+            {
+              "index": 1,
+              "text": "丝",
+              "fontSize": 32,
+              "bold": true,
+              "textTransform": "uppercase"
+            },
+            {
+              "index": 2,
+              "text": "束打转及其容易引起毛丝，影响产品质量",
+              "fontSize": 32,
+              "bold": true,
+              "textTransform": "uppercase"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6hcrmhk3",
+      "id": "8",
+      "name": "矩形 7",
+      "bbox": [
+        665.3,
+        331.2,
+        19.39,
+        96.94
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 10,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/83itgfml",
+      "id": "43",
+      "name": "图片 8",
+      "bbox": [
+        139.12,
+        120.54,
+        377.12,
+        459.73
+      ],
+      "contentType": "image/jpeg",
+      "asset": {
+        "assetId": "/ppt/media/image5.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 238393
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image5.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 238393
+      }
+    }
+  ],
+  "composeRuns": []
+}

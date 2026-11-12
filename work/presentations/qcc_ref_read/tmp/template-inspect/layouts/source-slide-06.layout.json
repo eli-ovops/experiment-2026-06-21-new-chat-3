@@ -1,0 +1,931 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/58z25kb6",
+    "id": "58z25kb6",
+    "slide": 6,
+    "layoutId": "/ppt/slideLayouts/slideLayout4.xml",
+    "layoutName": "3_标题幻灯片",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1209.67,
+      "height": 718.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "华文细黑",
+      "宋体",
+      "微软雅黑",
+      "方正舒体",
+      "黑体"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout4.xml",
+      "name": "3_标题幻灯片",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "image",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/13",
+          "id": "13",
+          "name": "Picture 2",
+          "bbox": [
+            0.01,
+            -0.01,
+            1216.04,
+            721.04
+          ],
+          "contentType": "image/png",
+          "imageCrop": {
+            "left": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "asset": {
+            "assetId": "/ppt/media/image3.png",
+            "contentType": "image/png",
+            "byteLength": 338438
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image3.png",
+            "contentType": "image/png",
+            "byteLength": 338438
+          }
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/3",
+          "id": "3",
+          "name": "直接连接符 2",
+          "bbox": [
+            1118.91,
+            86.93,
+            143.64,
+            0
+          ],
+          "geometry": "line",
+          "lineColor": "#009AC4",
+          "lineWidth": 3
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/4",
+          "id": "4",
+          "name": "直接连接符 3",
+          "bbox": [
+            -45.41,
+            86.93,
+            831.68,
+            0
+          ],
+          "geometry": "line",
+          "lineColor": "#009AC4",
+          "lineWidth": 3
+        },
+        {
+          "order": 4,
+          "kind": "image",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/14",
+          "id": "14",
+          "name": "图片 5",
+          "bbox": [
+            19.93,
+            3.77,
+            63.79,
+            98.28
+          ],
+          "rotation": 0,
+          "contentType": "image/png",
+          "imageCrop": {
+            "left": 0,
+            "top": 0,
+            "right": 0.71896,
+            "bottom": 0
+          },
+          "asset": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 205301
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 205301
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/8",
+          "id": "8",
+          "name": "TextBox 4",
+          "bbox": [
+            69.81,
+            18.63,
+            271.16,
+            37.16
+          ],
+          "rotation": 0,
+          "geometry": "rect",
+          "text": "桐乡市中维化纤有限公司",
+          "textPreview": "桐乡市中维化纤有限公司",
+          "resolvedTextStyle": {
+            "wrap": "none",
+            "autoFit": "resizeShapeToFitText"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "桐乡市中维化纤有限公司",
+              "spaceAfter": 0,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "桐乡市中维化纤有限公司",
+                  "fontSize": 22.67,
+                  "typeface": "宋体",
+                  "color": "bg1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/9",
+          "id": "9",
+          "name": "TextBox 6",
+          "bbox": [
+            73.98,
+            52.99,
+            553.54,
+            24.23
+          ],
+          "rotation": 0,
+          "geometry": "rect",
+          "text": "TONGXIANG ZHONGWEI CHEMICAL FIBER CO.,LTD.",
+          "textPreview": "TONGXIANG ZHONGWEI CHEMICAL FIBER CO.,LTD.",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "TONGXIANG ZHONGWEI CHEMICAL FIBER CO.,LTD.",
+              "spaceAfter": 0,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "TONGXIANG ZHONGWEI CHEMICAL FIBER CO.,LTD.",
+                  "fontSize": 12,
+                  "typeface": "Calibri",
+                  "color": "bg1",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/12",
+          "id": "12",
+          "name": "TextBox 11",
+          "bbox": [
+            1.14,
+            671.87,
+            1216.04,
+            50.08
+          ],
+          "geometry": "rect",
+          "text": "提供优质纤维       创造美好生活",
+          "textPreview": "提供优质纤维       创造美好生活",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "提供优质纤维       创造美好生活",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "提供优质纤维",
+                  "fontSize": 33.33,
+                  "typeface": "方正舒体",
+                  "color": {
+                    "type": "theme",
+                    "value": "tx2",
+                    "transform": {
+                      "lighten": 0.8
+                    }
+                  }
+                },
+                {
+                  "index": 2,
+                  "text": "       创造美好生活",
+                  "fontSize": 33.33,
+                  "typeface": "方正舒体",
+                  "color": {
+                    "type": "theme",
+                    "value": "tx2",
+                    "transform": {
+                      "lighten": 0.8
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "标题占位符 1",
+          "bbox": [
+            60.48,
+            28.76,
+            1088.7,
+            119.69
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版标题样式",
+          "textPreview": "单击此处编辑母版标题样式",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.51,
+              "right": 9.02,
+              "bottom": 4.51,
+              "left": 9.02
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版标题样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版标题样式"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "文本占位符 2",
+          "bbox": [
+            60.48,
+            167.57,
+            1088.7,
+            473.96
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版文本样式\n第二级\n第三级\n第四级\n第五级",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.51,
+              "right": 9.02,
+              "bottom": 4.51,
+              "left": 9.02
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版文本样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版文本样式"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "第二级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第二级"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "第三级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第三级"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "第四级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第四级"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "第五级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第五级"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "日期占位符 3",
+          "bbox": [
+            60.48,
+            665.63,
+            282.26,
+            38.24
+          ],
+          "geometry": "rect",
+          "text": "2020-07-08",
+          "textPreview": "2020-07-08",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.51,
+              "right": 9.02,
+              "bottom": 4.51,
+              "left": 9.02
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2020-07-08",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2020-07-08"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "页脚占位符 4",
+          "bbox": [
+            413.3,
+            665.63,
+            383.06,
+            38.24
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.51,
+              "right": 9.02,
+              "bottom": 4.51,
+              "left": 9.02
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            866.93,
+            665.63,
+            282.26,
+            38.24
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.51,
+              "right": 9.02,
+              "bottom": 4.51,
+              "left": 9.02
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xc3ylc7u",
+      "id": "175",
+      "name": "文本框 176",
+      "bbox": [
+        786.27,
+        41.57,
+        332.64,
+        71.81
+      ],
+      "horizontalFlip": true,
+      "geometry": "rect",
+      "text": "3、现状调查",
+      "textPreview": "3、现状调查",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 22.67,
+        "typeface": "微软雅黑",
+        "color": "#45D8FF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 7.56,
+          "right": 9.6,
+          "bottom": 7.56,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "3、现状调查"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "3、现状调查",
+          "runs": [
+            {
+              "index": 1,
+              "text": "3",
+              "fontSize": 46.67,
+              "color": "bg1"
+            },
+            {
+              "index": 2,
+              "text": "、现状调查",
+              "fontSize": 46.67,
+              "color": "bg1"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/j6tovaho",
+      "id": "176",
+      "name": "图片 2",
+      "bbox": [
+        513.07,
+        170.09,
+        628.41,
+        344.56
+      ],
+      "contentType": "image/png",
+      "imageCrop": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "asset": {
+        "assetId": "/ppt/media/image11.png",
+        "contentType": "image/png",
+        "byteLength": 67298
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image11.png",
+        "contentType": "image/png",
+        "byteLength": 67298
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5o7qpg3e",
+      "id": "5",
+      "name": "文本框 124",
+      "bbox": [
+        52.52,
+        298.6,
+        446.47,
+        246.15
+      ],
+      "geometry": "rect",
+      "text": "    从统计的数据可以看出，4月份影响退绕的DTY不良丝中，DTY破管数量最多，总数达111只，连续4个周期在此类不良丝中占比最大；并且DTY破管的数量呈明显的上升趋势。",
+      "textPreview": "从统计的数据可以看出，4月份影响退绕的DTY不良丝中，DTY破管数量最多，总数达111只，连续4个周期在此类不良丝中占比最大；并且DTY破管的数量呈明显的上升趋势。",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "fontSize": 22.67,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 7,
+        "lines": [
+          {
+            "index": 1,
+            "text": "    从统计的数据可以看出，4"
+          },
+          {
+            "index": 2,
+            "text": "月份影响退绕的DTY不良丝中，DTY"
+          },
+          {
+            "index": 3,
+            "text": "破管数量最多，总数达111只，连续"
+          },
+          {
+            "index": 4,
+            "text": "4"
+          },
+          {
+            "index": 5,
+            "text": "个周期在此类不良丝中占比最大；并"
+          },
+          {
+            "index": 6,
+            "text": "且DTY破管"
+          },
+          {
+            "index": 7,
+            "text": "的数量呈明显的上升趋势。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "    从统计的数据可以看出，4月份影响退绕的DTY不良丝中，DTY破管数量最多，总数达111只，连续4个周期在此类不良丝中占比最大；并且DTY破管的数量呈明显的上升趋势。",
+          "lineSpacingPercent": 150000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "    从统计的数据可以看出，",
+              "fontSize": 26.67,
+              "typeface": "黑体",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "4",
+              "fontSize": 26.67,
+              "typeface": "黑体",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "月份影响退绕的",
+              "fontSize": 26.67,
+              "typeface": "黑体",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "DTY",
+              "fontSize": 26.67,
+              "typeface": "华文细黑",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 5,
+              "text": "不良丝中，",
+              "fontSize": 26.67,
+              "typeface": "华文细黑",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 6,
+              "text": "DTY",
+              "fontSize": 26.67,
+              "typeface": "华文细黑",
+              "color": "#FFFF00",
+              "bold": true
+            },
+            {
+              "index": 7,
+              "text": "破管",
+              "fontSize": 26.67,
+              "typeface": "华文细黑",
+              "color": "#FFFF00",
+              "bold": true
+            },
+            {
+              "index": 8,
+              "text": "数量最多，总数达",
+              "fontSize": 26.67,
+              "typeface": "华文细黑",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 9,
+              "text": "111",
+              "fontSize": 26.67,
+              "typeface": "华文细黑",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 10,
+              "text": "只，连续",
+              "fontSize": 26.67,
+              "typeface": "华文细黑",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 11,
+              "text": "4",
+              "fontSize": 26.67,
+              "typeface": "华文细黑",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 12,
+              "text": "个周期在此类不良丝中占比最大；并且",
+              "fontSize": 26.67,
+              "typeface": "华文细黑",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 13,
+              "text": "DTY",
+              "fontSize": 26.67,
+              "typeface": "华文细黑",
+              "color": "#FFFF00",
+              "bold": true
+            },
+            {
+              "index": 14,
+              "text": "破管",
+              "fontSize": 26.67,
+              "typeface": "华文细黑",
+              "color": "#FFFF00",
+              "bold": true
+            },
+            {
+              "index": 15,
+              "text": "的数量呈明显的上升趋势。",
+              "fontSize": 26.67,
+              "typeface": "华文细黑",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yxobm58z",
+      "id": "6",
+      "name": "半闭框 5",
+      "bbox": [
+        226.84,
+        313.72,
+        94.49,
+        18.9
+      ],
+      "rotation": 90,
+      "geometry": "halfFrame",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 22.67,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#00FFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nih4byhg",
+      "id": "7",
+      "name": "半闭框 6",
+      "bbox": [
+        215.58,
+        506.51,
+        94.49,
+        18.9
+      ],
+      "rotation": 270,
+      "geometry": "halfFrame",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 22.67,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#00FFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ulwval87",
+      "id": "177",
+      "name": "图片 7",
+      "bbox": [
+        498.99,
+        168.31,
+        656.56,
+        381.54
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image12.png",
+        "contentType": "image/png",
+        "byteLength": 42133
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image12.png",
+        "contentType": "image/png",
+        "byteLength": 42133
+      }
+    }
+  ],
+  "composeRuns": []
+}

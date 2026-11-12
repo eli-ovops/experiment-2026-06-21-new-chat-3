@@ -1,0 +1,1027 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/a1gvy90j",
+    "id": "a1gvy90j",
+    "slide": 29,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "垂直排列标题与\n文本",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1350,
+      "height": 759.33
+    }
+  },
+  "theme": {
+    "colorSchemeName": "自定义 360",
+    "colors": {
+      "accent1": "#02994F",
+      "accent2": "#92D050",
+      "accent3": "#02994F",
+      "accent4": "#92D050",
+      "accent5": "#02994F",
+      "accent6": "#92D050",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#02994F",
+      "folHlink": "#92D050"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Open Sans",
+      "华文新魏",
+      "华文行楷",
+      "宋体"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "垂直排列标题与\n文本",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "标题占位符 1",
+          "bbox": [
+            92.83,
+            40.5,
+            1164.33,
+            146.67
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版标题样式",
+          "textPreview": "单击此处编辑母版标题样式",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版标题样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版标题样式"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "文本占位符 2",
+          "bbox": [
+            92.83,
+            202.17,
+            1164.33,
+            481.83
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版文本样式\n第二级\n第三级\n第四级\n第五级",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版文本样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版文本样式"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "第二级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第二级"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "第三级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第三级"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "第四级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第四级"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "第五级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第五级"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "日期占位符 3",
+          "bbox": [
+            92.83,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "2021-04-13",
+          "textPreview": "2021-04-13",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2021-04-13",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2021-04-13"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "页脚占位符 4",
+          "bbox": [
+            447.17,
+            703.83,
+            455.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            953.5,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "kind": "image",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/10",
+          "id": "10",
+          "name": "图片 6",
+          "bbox": [
+            -0.18,
+            1.67,
+            221.53,
+            83.16
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 56029
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 56029
+          }
+        },
+        {
+          "order": 7,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/9",
+          "id": "9",
+          "name": "TextBox 8",
+          "bbox": [
+            0,
+            715.66,
+            1350,
+            42.01
+          ],
+          "geometry": "rect",
+          "text": "提供优质纤维         创造美好生活",
+          "textPreview": "提供优质纤维         创造美好生活",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "提供优质纤维         创造美好生活",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "提供优质纤维         创造美好生活",
+                  "fontSize": 26.67,
+                  "typeface": "华文行楷"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c3ylc7u5",
+      "id": "2",
+      "name": "Shape 1452",
+      "bbox": [
+        126.23,
+        319.72,
+        253.82,
+        289.18
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 2.11,
+          "right": 2.11,
+          "bottom": 2.11,
+          "left": 2.11
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "lineColor": "#A6AAA9",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1kre1w7m",
+      "id": "3",
+      "name": "Shape 1454",
+      "bbox": [
+        408.22,
+        319.72,
+        253.82,
+        289.18
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 2.11,
+          "right": 2.11,
+          "bottom": 2.11,
+          "left": 2.11
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "lineColor": "#A6AAA9",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ulwval87",
+      "id": "4",
+      "name": "Shape 1456",
+      "bbox": [
+        687.96,
+        319.72,
+        253.82,
+        289.18
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 2.11,
+          "right": 2.11,
+          "bottom": 2.11,
+          "left": 2.11
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "lineColor": "#A6AAA9",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j6tovaho",
+      "id": "5",
+      "name": "Shape 1458",
+      "bbox": [
+        969.95,
+        319.72,
+        253.82,
+        289.18
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 2.11,
+          "right": 2.11,
+          "bottom": 2.11,
+          "left": 2.11
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "lineColor": "#A6AAA9",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/orytsvu9",
+      "id": "22",
+      "name": "Text Placeholder 6",
+      "bbox": [
+        145.22,
+        443.79,
+        227.39,
+        125.56
+      ],
+      "geometry": "rect",
+      "text": "员工严格按照作业指导书规范操作；\n巡检发现丝束打转，立刻联系保全更换",
+      "textPreview": "员工严格按照作业指导书规范操作； | 巡检发现丝束打转，立刻联系保全更换",
+      "resolvedFontSize": 42.67,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 42.67,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "员工严格按照作业"
+          },
+          {
+            "index": 2,
+            "text": "指导书规范操作；"
+          },
+          {
+            "index": 3,
+            "text": "巡检发现丝束打转"
+          },
+          {
+            "index": 4,
+            "text": "，立刻联系保全更"
+          },
+          {
+            "index": 5,
+            "text": "换"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "员工严格按照作业指导书规范操作；",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 120000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "员工严格按照作业指导书规范操作；",
+              "fontSize": 24,
+              "typeface": "宋体"
+            }
+          ],
+          "bulletCharacter": "•",
+          "spaceBefore": 0
+        },
+        {
+          "index": 2,
+          "text": "巡检发现丝束打转，立刻联系保全更换",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 120000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "巡检发现丝束打转，立刻联系保全更换",
+              "fontSize": 24,
+              "typeface": "宋体"
+            }
+          ],
+          "bulletCharacter": "•",
+          "spaceBefore": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zupwb2hw",
+      "id": "25",
+      "name": "Text Placeholder 6",
+      "bbox": [
+        436.25,
+        443.79,
+        200.95,
+        125.56
+      ],
+      "geometry": "rect",
+      "text": "制定《风筒清洗组装作业指导书》，并严格执行，间断性更新、优化",
+      "textPreview": "制定《风筒清洗组装作业指导书》，并严格执行，间断性更新、优化",
+      "resolvedFontSize": 13.33,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "vertical": 1,
+        "fontSize": 13.33,
+        "typeface": "Open Sans",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 6,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": "制定《"
+          },
+          {
+            "index": 3,
+            "text": "风筒清洗组装作业"
+          },
+          {
+            "index": 4,
+            "text": "指导书》"
+          },
+          {
+            "index": 5,
+            "text": "，并严格执行，间"
+          },
+          {
+            "index": 6,
+            "text": "断性更新、优化"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "制定《风筒清洗组装作业指导书》，并严格执行，间断性更新、优化",
+          "lineSpacingPercent": 120000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "制定",
+              "fontSize": 24,
+              "typeface": "宋体"
+            },
+            {
+              "index": 2,
+              "text": "《",
+              "fontSize": 24,
+              "typeface": "宋体"
+            },
+            {
+              "index": 3,
+              "text": "风筒清洗组装作业指导书",
+              "fontSize": 24,
+              "typeface": "宋体"
+            },
+            {
+              "index": 4,
+              "text": "》",
+              "fontSize": 24,
+              "typeface": "宋体"
+            },
+            {
+              "index": 5,
+              "text": "，并严格执行，间断性更新、优化",
+              "fontSize": 24,
+              "typeface": "宋体"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "spaceBefore": 1000
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sfil0rqd",
+      "id": "26",
+      "name": "Text Placeholder 6",
+      "bbox": [
+        719.63,
+        443.79,
+        200.95,
+        125.56
+      ],
+      "geometry": "rect",
+      "text": "制定《风筒更换作业指导书》，并严格执行，间断性更新、优化",
+      "textPreview": "制定《风筒更换作业指导书》，并严格执行，间断性更新、优化",
+      "resolvedFontSize": 13.33,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "vertical": 1,
+        "fontSize": 13.33,
+        "typeface": "Open Sans",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": "制定《风筒更换"
+          },
+          {
+            "index": 3,
+            "text": "作业指导书》"
+          },
+          {
+            "index": 4,
+            "text": "，并严格执行，间"
+          },
+          {
+            "index": 5,
+            "text": "断性更新、优化"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "制定《风筒更换作业指导书》，并严格执行，间断性更新、优化",
+          "lineSpacingPercent": 120000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "制定",
+              "fontSize": 24,
+              "typeface": "宋体"
+            },
+            {
+              "index": 2,
+              "text": "《",
+              "fontSize": 24,
+              "typeface": "宋体"
+            },
+            {
+              "index": 3,
+              "text": "风筒",
+              "fontSize": 24,
+              "typeface": "宋体"
+            },
+            {
+              "index": 4,
+              "text": "更换",
+              "fontSize": 24,
+              "typeface": "宋体"
+            },
+            {
+              "index": 5,
+              "text": "作业",
+              "fontSize": 24,
+              "typeface": "宋体"
+            },
+            {
+              "index": 6,
+              "text": "指导书",
+              "fontSize": 24,
+              "typeface": "宋体"
+            },
+            {
+              "index": 7,
+              "text": "》",
+              "fontSize": 24,
+              "typeface": "宋体"
+            },
+            {
+              "index": 8,
+              "text": "，并严格执行，间断性更新、",
+              "fontSize": 24,
+              "typeface": "宋体"
+            },
+            {
+              "index": 9,
+              "text": "优化",
+              "fontSize": 24,
+              "typeface": "宋体"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "spaceBefore": 1000
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h0fepkzu",
+      "id": "27",
+      "name": "Text Placeholder 6",
+      "bbox": [
+        998.65,
+        443.79,
+        200.95,
+        125.56
+      ],
+      "geometry": "rect",
+      "text": "优化定期作业时间与要求：       时间：每周三1次要求：35pa±1pa",
+      "textPreview": "优化定期作业时间与要求：       时间：每周三1次要求：35pa±1pa",
+      "resolvedFontSize": 13.33,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "vertical": 1,
+        "fontSize": 13.33,
+        "typeface": "Open Sans",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 6,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": "优化定期作业时间"
+          },
+          {
+            "index": 3,
+            "text": "与要求："
+          },
+          {
+            "index": 4,
+            "text": "时间：每周三1"
+          },
+          {
+            "index": 5,
+            "text": "次要求："
+          },
+          {
+            "index": 6,
+            "text": "35pa±1pa"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "优化定期作业时间与要求：       时间：每周三1次要求：35pa±1pa",
+          "lineSpacingPercent": 120000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "优化定期作业时间与要求：",
+              "fontSize": 24,
+              "typeface": "宋体"
+            },
+            {
+              "index": 2,
+              "text": " ",
+              "fontSize": 24,
+              "typeface": "宋体"
+            },
+            {
+              "index": 3,
+              "text": "      ",
+              "fontSize": 24,
+              "typeface": "宋体"
+            },
+            {
+              "index": 4,
+              "text": "时间：每周三",
+              "fontSize": 24,
+              "typeface": "宋体"
+            },
+            {
+              "index": 5,
+              "text": "1",
+              "fontSize": 24,
+              "typeface": "宋体"
+            },
+            {
+              "index": 6,
+              "text": "次要求：",
+              "fontSize": 24,
+              "typeface": "宋体"
+            },
+            {
+              "index": 7,
+              "text": "35pa±1pa",
+              "fontSize": 24,
+              "typeface": "宋体"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "spaceBefore": 1000
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wval87ed",
+      "id": "35",
+      "name": "Rectangle 3",
+      "bbox": [
+        0,
+        20.28,
+        1350,
+        53.1
+      ],
+      "geometry": "rect",
+      "text": "巩固措施",
+      "textPreview": "巩固措施",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "巩固措施"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "巩固措施",
+          "lineSpacingPercent": 90000,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "巩固措施",
+              "fontSize": 42.67,
+              "typeface": "华文新魏",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

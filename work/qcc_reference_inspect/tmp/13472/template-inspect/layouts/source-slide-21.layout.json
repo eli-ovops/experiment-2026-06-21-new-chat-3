@@ -1,0 +1,1459 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/mhk3q5o7",
+    "id": "mhk3q5o7",
+    "slide": 21,
+    "layoutId": "/ppt/slideLayouts/slideLayout4.xml",
+    "layoutName": "空白页",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1350,
+      "height": 759.33
+    }
+  },
+  "theme": {
+    "colorSchemeName": "自定义 360",
+    "colors": {
+      "accent1": "#02994F",
+      "accent2": "#92D050",
+      "accent3": "#02994F",
+      "accent4": "#92D050",
+      "accent5": "#02994F",
+      "accent6": "#92D050",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#02994F",
+      "folHlink": "#92D050"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "华文新魏",
+      "华文行楷"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout4.xml",
+      "name": "空白页",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "标题占位符 1",
+          "bbox": [
+            92.83,
+            40.5,
+            1164.33,
+            146.67
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版标题样式",
+          "textPreview": "单击此处编辑母版标题样式",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版标题样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版标题样式"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "文本占位符 2",
+          "bbox": [
+            92.83,
+            202.17,
+            1164.33,
+            481.83
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版文本样式\n第二级\n第三级\n第四级\n第五级",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版文本样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版文本样式"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "第二级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第二级"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "第三级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第三级"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "第四级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第四级"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "第五级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第五级"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "日期占位符 3",
+          "bbox": [
+            92.83,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "2021-04-13",
+          "textPreview": "2021-04-13",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2021-04-13",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2021-04-13"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "页脚占位符 4",
+          "bbox": [
+            447.17,
+            703.83,
+            455.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            953.5,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "kind": "image",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/10",
+          "id": "10",
+          "name": "图片 6",
+          "bbox": [
+            -0.18,
+            1.67,
+            221.53,
+            83.16
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 56029
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 56029
+          }
+        },
+        {
+          "order": 7,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/9",
+          "id": "9",
+          "name": "TextBox 8",
+          "bbox": [
+            0,
+            715.66,
+            1350,
+            42.01
+          ],
+          "geometry": "rect",
+          "text": "提供优质纤维         创造美好生活",
+          "textPreview": "提供优质纤维         创造美好生活",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "提供优质纤维         创造美好生活",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "提供优质纤维         创造美好生活",
+                  "fontSize": 26.67,
+                  "typeface": "华文行楷"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8bat47y1",
+      "id": "22",
+      "name": "任意多边形 21",
+      "bbox": [
+        -0.2,
+        613.28,
+        833.55,
+        145.96
+      ],
+      "geometry": "custom",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "rgba(146, 208, 80, 0.8)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cvixcze",
+      "id": "81",
+      "name": "Rectangle 3",
+      "bbox": [
+        0,
+        20.28,
+        1350,
+        53.1
+      ],
+      "geometry": "rect",
+      "text": "制定对策",
+      "textPreview": "制定对策",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "制定对策"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "制定对策",
+          "lineSpacingPercent": 90000,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "制定对策",
+              "fontSize": 42.67,
+              "typeface": "华文新魏",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/tcj6tova",
+      "id": "82",
+      "name": "表格 1",
+      "bbox": [
+        92.89,
+        152.87,
+        1141.54,
+        461.15
+      ],
+      "text": "对策制定表\n序号 | 要因内容 | 对策 | 场所 | 责任人 | 完成时间\n1 | 风筒出风不匀 | 1.优化风筒清洗组装、并制定相关作业指导书。 | 超声波清洗间\n无尘间 | 忻旭东 | 5-11\n2.风筒安装标准化，并制定作业指导书。 | 纺丝车间4线 | 忻旭东 | 5-13\n2 | 无风区太深 | 更换无风区深度，确保无风区安装时深度一致。 | 纺丝车间4线 | 钟杰 | 5-12\n3 | 风压太大 | 风压逐一缓慢调整至35pa，中间过渡风压37pa。 | 纺丝车间4线 | 周志华 | 5-12",
+      "textPreview": "对策制定表 | 序号 | 要因内容 | 对策 | 场所 | 责任人 | 完成时间 | 1 | 风筒出风不匀 | 1.优化风筒清洗组装、并制定相关作业指导书。 | 超声波清洗间 | 无尘间 | 忻旭东 | 5-11 | 2.风筒安装标准化，并制定作业指导书。 | 纺丝车间4线...",
+      "rows": 6,
+      "cols": 6,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "colSpan": 6,
+          "bbox": [
+            92.89,
+            152.87,
+            1141.54,
+            62.59
+          ],
+          "text": "对策制定表",
+          "textPreview": "对策制定表",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "对策制定表",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "对策制定表",
+                  "fontSize": 37.33
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            185.76,
+            152.87,
+            237.78,
+            62.59
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            423.54,
+            152.87,
+            291.29,
+            62.59
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            714.83,
+            152.87,
+            196.82,
+            62.59
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 5,
+          "bbox": [
+            911.65,
+            152.87,
+            159.91,
+            62.59
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 6,
+          "bbox": [
+            1071.56,
+            152.87,
+            162.87,
+            62.59
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            92.89,
+            215.46,
+            92.87,
+            51.43
+          ],
+          "text": "序号",
+          "textPreview": "序号",
+          "fillColor": "accent5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "序号",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "序号",
+                  "color": "bg1",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            185.76,
+            215.46,
+            237.78,
+            51.43
+          ],
+          "text": "要因内容",
+          "textPreview": "要因内容",
+          "fillColor": "accent5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "要因内容",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "要因内容",
+                  "color": "bg1",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            423.54,
+            215.46,
+            291.29,
+            51.43
+          ],
+          "text": "对策",
+          "textPreview": "对策",
+          "fillColor": "accent5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "对策",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "对策",
+                  "color": "bg1",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            714.83,
+            215.46,
+            196.82,
+            51.43
+          ],
+          "text": "场所",
+          "textPreview": "场所",
+          "fillColor": "accent5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "场所",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "场所",
+                  "color": "bg1",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 5,
+          "bbox": [
+            911.65,
+            215.46,
+            159.91,
+            51.43
+          ],
+          "text": "责任人",
+          "textPreview": "责任人",
+          "fillColor": "accent5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "责任人",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "责任人",
+                  "color": "bg1",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 6,
+          "bbox": [
+            1071.56,
+            215.46,
+            162.87,
+            51.43
+          ],
+          "text": "完成时间",
+          "textPreview": "完成时间",
+          "fillColor": "accent5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "完成时间",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "完成时间",
+                  "color": "bg1",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 3,
+          "column": 1,
+          "rowSpan": 2,
+          "bbox": [
+            92.89,
+            266.89,
+            92.87,
+            156.57
+          ],
+          "text": "1",
+          "textPreview": "1",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 3,
+          "column": 2,
+          "rowSpan": 2,
+          "bbox": [
+            185.76,
+            266.89,
+            237.78,
+            156.57
+          ],
+          "text": "风筒出风不匀",
+          "textPreview": "风筒出风不匀",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "风筒出风不匀",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "风筒出风不匀",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            423.54,
+            266.89,
+            291.29,
+            77.32
+          ],
+          "text": "1.优化风筒清洗组装、并制定相关作业指导书。",
+          "textPreview": "1.优化风筒清洗组装、并制定相关作业指导书。",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1.优化风筒清洗组装、并制定相关作业指导书。",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1."
+                },
+                {
+                  "index": 2,
+                  "text": "优化风筒清洗组装、并制定相关作业指导书。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            714.83,
+            266.89,
+            196.82,
+            77.32
+          ],
+          "text": "超声波清洗间\n无尘间",
+          "textPreview": "超声波清洗间 | 无尘间",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "超声波清洗间",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "超声波清洗间"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "无尘间",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "无尘间"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 3,
+          "column": 5,
+          "bbox": [
+            911.65,
+            266.89,
+            159.91,
+            77.32
+          ],
+          "text": "忻旭东",
+          "textPreview": "忻旭东",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "忻旭东",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "忻旭东",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 3,
+          "column": 6,
+          "bbox": [
+            1071.56,
+            266.89,
+            162.87,
+            77.32
+          ],
+          "text": "5-11",
+          "textPreview": "5-11",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5-11",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5-11",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            92.89,
+            344.21,
+            92.87,
+            79.25
+          ]
+        },
+        {
+          "index": 20,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            185.76,
+            344.21,
+            237.78,
+            79.25
+          ]
+        },
+        {
+          "index": 21,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            423.54,
+            344.21,
+            291.29,
+            79.25
+          ],
+          "text": "2.风筒安装标准化，并制定作业指导书。",
+          "textPreview": "2.风筒安装标准化，并制定作业指导书。",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2.风筒安装标准化，并制定作业指导书。",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2."
+                },
+                {
+                  "index": 2,
+                  "text": "风筒安装标准化，并制定作业指导书。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            714.83,
+            344.21,
+            196.82,
+            79.25
+          ],
+          "text": "纺丝车间4线",
+          "textPreview": "纺丝车间4线",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "纺丝车间4线",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "纺丝车间"
+                },
+                {
+                  "index": 2,
+                  "text": "4"
+                },
+                {
+                  "index": 3,
+                  "text": "线"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 4,
+          "column": 5,
+          "bbox": [
+            911.65,
+            344.21,
+            159.91,
+            79.25
+          ],
+          "text": "忻旭东",
+          "textPreview": "忻旭东",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "忻旭东",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "忻旭东",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 4,
+          "column": 6,
+          "bbox": [
+            1071.56,
+            344.21,
+            162.87,
+            79.25
+          ],
+          "text": "5-13",
+          "textPreview": "5-13",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5-13",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5-13",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            92.89,
+            423.46,
+            92.87,
+            113.24
+          ],
+          "text": "2",
+          "textPreview": "2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            185.76,
+            423.46,
+            237.78,
+            113.24
+          ],
+          "text": "无风区太深",
+          "textPreview": "无风区太深",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "无风区太深",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "无风区太深",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            423.54,
+            423.46,
+            291.29,
+            113.24
+          ],
+          "text": "更换无风区深度，确保无风区安装时深度一致。",
+          "textPreview": "更换无风区深度，确保无风区安装时深度一致。",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "更换无风区深度，确保无风区安装时深度一致。",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "更换无风区深度，确保无风区安装时深度一致。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            714.83,
+            423.46,
+            196.82,
+            113.24
+          ],
+          "text": "纺丝车间4线",
+          "textPreview": "纺丝车间4线",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "纺丝车间4线",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "纺丝车间",
+                  "alignment": "left"
+                },
+                {
+                  "index": 2,
+                  "text": "4",
+                  "alignment": "left"
+                },
+                {
+                  "index": 3,
+                  "text": "线",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 29,
+          "row": 5,
+          "column": 5,
+          "bbox": [
+            911.65,
+            423.46,
+            159.91,
+            113.24
+          ],
+          "text": "钟杰",
+          "textPreview": "钟杰",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "钟杰",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "钟杰",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "row": 5,
+          "column": 6,
+          "bbox": [
+            1071.56,
+            423.46,
+            162.87,
+            113.24
+          ],
+          "text": "5-12",
+          "textPreview": "5-12",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5-12",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5-12",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 31,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            92.89,
+            536.7,
+            92.87,
+            77.32
+          ],
+          "text": "3",
+          "textPreview": "3",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            185.76,
+            536.7,
+            237.78,
+            77.32
+          ],
+          "text": "风压太大",
+          "textPreview": "风压太大",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "风压太大",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "风压太大",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 33,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            423.54,
+            536.7,
+            291.29,
+            77.32
+          ],
+          "text": "风压逐一缓慢调整至35pa，中间过渡风压37pa。",
+          "textPreview": "风压逐一缓慢调整至35pa，中间过渡风压37pa。",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "风压逐一缓慢调整至35pa，中间过渡风压37pa。",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "风压逐一缓慢调整至"
+                },
+                {
+                  "index": 2,
+                  "text": "35pa"
+                },
+                {
+                  "index": 3,
+                  "text": "，中间过渡风压"
+                },
+                {
+                  "index": 4,
+                  "text": "37pa"
+                },
+                {
+                  "index": 5,
+                  "text": "。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 34,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            714.83,
+            536.7,
+            196.82,
+            77.32
+          ],
+          "text": "纺丝车间4线",
+          "textPreview": "纺丝车间4线",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "纺丝车间4线",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "纺丝车间",
+                  "alignment": "left"
+                },
+                {
+                  "index": 2,
+                  "text": "4",
+                  "alignment": "left"
+                },
+                {
+                  "index": 3,
+                  "text": "线",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 35,
+          "row": 6,
+          "column": 5,
+          "bbox": [
+            911.65,
+            536.7,
+            159.91,
+            77.32
+          ],
+          "text": "周志华",
+          "textPreview": "周志华",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "周志华",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "周志华",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 36,
+          "row": 6,
+          "column": 6,
+          "bbox": [
+            1071.56,
+            536.7,
+            162.87,
+            77.32
+          ],
+          "text": "5-12",
+          "textPreview": "5-12",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5-12",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5-12",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

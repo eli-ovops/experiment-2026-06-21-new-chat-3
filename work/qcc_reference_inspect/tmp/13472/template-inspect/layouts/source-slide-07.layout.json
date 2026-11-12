@@ -1,0 +1,2123 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/0z61032l",
+    "id": "0z61032l",
+    "slide": 7,
+    "layoutId": "/ppt/slideLayouts/slideLayout3.xml",
+    "layoutName": "空白",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1350,
+      "height": 759.33
+    }
+  },
+  "theme": {
+    "colorSchemeName": "自定义 360",
+    "colors": {
+      "accent1": "#02994F",
+      "accent2": "#92D050",
+      "accent3": "#02994F",
+      "accent4": "#92D050",
+      "accent5": "#02994F",
+      "accent6": "#92D050",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#02994F",
+      "folHlink": "#92D050"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "华文新魏",
+      "华文行楷"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout3.xml",
+      "name": "空白",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout3.xml/2",
+          "id": "2",
+          "name": "日期占位符 3",
+          "bbox": [
+            67.51,
+            703.83,
+            315.04,
+            40.5
+          ],
+          "geometry": "rect",
+          "text": "2021-04-13",
+          "textPreview": "2021-04-13",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2021-04-13",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2021-04-13"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout3.xml/3",
+          "id": "3",
+          "name": "页脚占位符 4",
+          "bbox": [
+            461.22,
+            703.83,
+            427.55,
+            40.5
+          ],
+          "geometry": "rect"
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout3.xml/4",
+          "id": "4",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            967.45,
+            703.83,
+            315.04,
+            40.5
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "标题占位符 1",
+          "bbox": [
+            92.83,
+            40.5,
+            1164.33,
+            146.67
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版标题样式",
+          "textPreview": "单击此处编辑母版标题样式",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版标题样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版标题样式"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "文本占位符 2",
+          "bbox": [
+            92.83,
+            202.17,
+            1164.33,
+            481.83
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版文本样式\n第二级\n第三级\n第四级\n第五级",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版文本样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版文本样式"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "第二级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第二级"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "第三级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第三级"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "第四级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第四级"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "第五级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第五级"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "日期占位符 3",
+          "bbox": [
+            92.83,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "2021-04-13",
+          "textPreview": "2021-04-13",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2021-04-13",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2021-04-13"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "页脚占位符 4",
+          "bbox": [
+            447.17,
+            703.83,
+            455.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            953.5,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "kind": "image",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/10",
+          "id": "10",
+          "name": "图片 6",
+          "bbox": [
+            -0.18,
+            1.67,
+            221.53,
+            83.16
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 56029
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 56029
+          }
+        },
+        {
+          "order": 7,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/9",
+          "id": "9",
+          "name": "TextBox 8",
+          "bbox": [
+            0,
+            715.66,
+            1350,
+            42.01
+          ],
+          "geometry": "rect",
+          "text": "提供优质纤维         创造美好生活",
+          "textPreview": "提供优质纤维         创造美好生活",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "提供优质纤维         创造美好生活",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "提供优质纤维         创造美好生活",
+                  "fontSize": 26.67,
+                  "typeface": "华文行楷"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpg3ex0n",
+      "id": "5",
+      "name": "Rectangle 3",
+      "bbox": [
+        0,
+        20.28,
+        1350,
+        53.1
+      ],
+      "geometry": "rect",
+      "text": "现状调查",
+      "textPreview": "现状调查",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "现状调查"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "现状调查",
+          "lineSpacingPercent": 90000,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "现状调查",
+              "fontSize": 42.67,
+              "typeface": "华文新魏",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/6xkf6dcb",
+      "id": "8",
+      "name": "表格 1",
+      "bbox": [
+        92.89,
+        137.75,
+        1171.78,
+        349.65
+      ],
+      "text": "CP6对比兄弟车间CP5一周内每天丝束打转统计表\n车间 | 位数 | 第1天 | 第2天 | 第3天 | 第4天 | 第5天 | 第6天 | 第7天 | 平均\nCP6（自身） | 36 | 90 | 87 | 88 | 92 | 93 | 89 | 91 | 90\nCP5（兄弟） | 26 | 13 | 15 | 16 | 16 | 14 | 14 | 17 | 15\nCP5（兄弟） | 折合成36个位 | 18 | 20.8 | 22.2 | 22.2 | 19.4 | 19.4 | 23.5 | 20.8",
+      "textPreview": "CP6对比兄弟车间CP5一周内每天丝束打转统计表 | 车间 | 位数 | 第1天 | 第2天 | 第3天 | 第4天 | 第5天 | 第6天 | 第7天 | 平均 | CP6（自身） | 36 | 90 | 87 | 88 | 92 | 93 | 89 | 91 | 90 ...",
+      "rows": 5,
+      "cols": 10,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "colSpan": 10,
+          "bbox": [
+            92.89,
+            137.75,
+            1171.78,
+            69.93
+          ],
+          "text": "CP6对比兄弟车间CP5一周内每天丝束打转统计表",
+          "textPreview": "CP6对比兄弟车间CP5一周内每天丝束打转统计表",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "CP6对比兄弟车间CP5一周内每天丝束打转统计表",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "CP6",
+                  "fontSize": 29.33
+                },
+                {
+                  "index": 2,
+                  "text": "对比兄弟车间",
+                  "fontSize": 29.33
+                },
+                {
+                  "index": 3,
+                  "text": "CP5",
+                  "fontSize": 29.33
+                },
+                {
+                  "index": 4,
+                  "text": "一周内每天丝束打转统计表",
+                  "fontSize": 29.33
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            237.28,
+            137.75,
+            114.15,
+            69.93
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            351.44,
+            137.75,
+            114.15,
+            69.93
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            465.59,
+            137.75,
+            114.15,
+            69.93
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 5,
+          "bbox": [
+            579.75,
+            137.75,
+            114.15,
+            69.93
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 6,
+          "bbox": [
+            693.9,
+            137.75,
+            114.15,
+            69.93
+          ]
+        },
+        {
+          "index": 7,
+          "row": 1,
+          "column": 7,
+          "bbox": [
+            808.05,
+            137.75,
+            114.15,
+            69.93
+          ]
+        },
+        {
+          "index": 8,
+          "row": 1,
+          "column": 8,
+          "bbox": [
+            922.21,
+            137.75,
+            114.15,
+            69.93
+          ]
+        },
+        {
+          "index": 9,
+          "row": 1,
+          "column": 9,
+          "bbox": [
+            1036.36,
+            137.75,
+            114.15,
+            69.93
+          ]
+        },
+        {
+          "index": 10,
+          "row": 1,
+          "column": 10,
+          "bbox": [
+            1150.52,
+            137.75,
+            114.15,
+            69.93
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            92.89,
+            207.68,
+            144.39,
+            69.93
+          ],
+          "text": "车间",
+          "textPreview": "车间",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "车间",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "车间",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            237.28,
+            207.68,
+            114.15,
+            69.93
+          ],
+          "text": "位数",
+          "textPreview": "位数",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "位数",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "位数",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            351.44,
+            207.68,
+            114.15,
+            69.93
+          ],
+          "text": "第1天",
+          "textPreview": "第1天",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第1天",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第",
+                  "alignment": "center"
+                },
+                {
+                  "index": 2,
+                  "text": "1",
+                  "alignment": "center"
+                },
+                {
+                  "index": 3,
+                  "text": "天",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            465.59,
+            207.68,
+            114.15,
+            69.93
+          ],
+          "text": "第2天",
+          "textPreview": "第2天",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第2天",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第",
+                  "alignment": "center"
+                },
+                {
+                  "index": 2,
+                  "text": "2",
+                  "alignment": "center"
+                },
+                {
+                  "index": 3,
+                  "text": "天",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 2,
+          "column": 5,
+          "bbox": [
+            579.75,
+            207.68,
+            114.15,
+            69.93
+          ],
+          "text": "第3天",
+          "textPreview": "第3天",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第3天",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第",
+                  "alignment": "center"
+                },
+                {
+                  "index": 2,
+                  "text": "3",
+                  "alignment": "center"
+                },
+                {
+                  "index": 3,
+                  "text": "天",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 2,
+          "column": 6,
+          "bbox": [
+            693.9,
+            207.68,
+            114.15,
+            69.93
+          ],
+          "text": "第4天",
+          "textPreview": "第4天",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第4天",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第",
+                  "alignment": "center"
+                },
+                {
+                  "index": 2,
+                  "text": "4",
+                  "alignment": "center"
+                },
+                {
+                  "index": 3,
+                  "text": "天",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 2,
+          "column": 7,
+          "bbox": [
+            808.05,
+            207.68,
+            114.15,
+            69.93
+          ],
+          "text": "第5天",
+          "textPreview": "第5天",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第5天",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第",
+                  "alignment": "center"
+                },
+                {
+                  "index": 2,
+                  "text": "5",
+                  "alignment": "center"
+                },
+                {
+                  "index": 3,
+                  "text": "天",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 2,
+          "column": 8,
+          "bbox": [
+            922.21,
+            207.68,
+            114.15,
+            69.93
+          ],
+          "text": "第6天",
+          "textPreview": "第6天",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第6天",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第",
+                  "alignment": "center"
+                },
+                {
+                  "index": 2,
+                  "text": "6",
+                  "alignment": "center"
+                },
+                {
+                  "index": 3,
+                  "text": "天",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 2,
+          "column": 9,
+          "bbox": [
+            1036.36,
+            207.68,
+            114.15,
+            69.93
+          ],
+          "text": "第7天",
+          "textPreview": "第7天",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "第7天",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第",
+                  "alignment": "center"
+                },
+                {
+                  "index": 2,
+                  "text": "7",
+                  "alignment": "center"
+                },
+                {
+                  "index": 3,
+                  "text": "天",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 2,
+          "column": 10,
+          "bbox": [
+            1150.52,
+            207.68,
+            114.15,
+            69.93
+          ],
+          "text": "平均",
+          "textPreview": "平均",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "平均",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "平均",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            92.89,
+            277.61,
+            144.39,
+            69.93
+          ],
+          "text": "CP6（自身）",
+          "textPreview": "CP6（自身）",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "CP6（自身）",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "CP6",
+                  "bold": true
+                },
+                {
+                  "index": 2,
+                  "text": "（自身）",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            237.28,
+            277.61,
+            114.15,
+            69.93
+          ],
+          "text": "36",
+          "textPreview": "36",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "36",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "36",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            351.44,
+            277.61,
+            114.15,
+            69.93
+          ],
+          "text": "90",
+          "textPreview": "90",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "90",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "90",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            465.59,
+            277.61,
+            114.15,
+            69.93
+          ],
+          "text": "87",
+          "textPreview": "87",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "87",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "87",
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 3,
+          "column": 5,
+          "bbox": [
+            579.75,
+            277.61,
+            114.15,
+            69.93
+          ],
+          "text": "88",
+          "textPreview": "88",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "88",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "88",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 3,
+          "column": 6,
+          "bbox": [
+            693.9,
+            277.61,
+            114.15,
+            69.93
+          ],
+          "text": "92",
+          "textPreview": "92",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "92",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "92",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 3,
+          "column": 7,
+          "bbox": [
+            808.05,
+            277.61,
+            114.15,
+            69.93
+          ],
+          "text": "93",
+          "textPreview": "93",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "93",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "93",
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 3,
+          "column": 8,
+          "bbox": [
+            922.21,
+            277.61,
+            114.15,
+            69.93
+          ],
+          "text": "89",
+          "textPreview": "89",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "89",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "89",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 29,
+          "row": 3,
+          "column": 9,
+          "bbox": [
+            1036.36,
+            277.61,
+            114.15,
+            69.93
+          ],
+          "text": "91",
+          "textPreview": "91",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "91",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "91",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "row": 3,
+          "column": 10,
+          "bbox": [
+            1150.52,
+            277.61,
+            114.15,
+            69.93
+          ],
+          "text": "90",
+          "textPreview": "90",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "90",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "90",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 31,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            92.89,
+            347.54,
+            144.39,
+            69.93
+          ],
+          "text": "CP5（兄弟）",
+          "textPreview": "CP5（兄弟）",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "CP5（兄弟）",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "CP5",
+                  "bold": true
+                },
+                {
+                  "index": 2,
+                  "text": "（兄弟）",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            237.28,
+            347.54,
+            114.15,
+            69.93
+          ],
+          "text": "26",
+          "textPreview": "26",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "26",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "26",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 33,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            351.44,
+            347.54,
+            114.15,
+            69.93
+          ],
+          "text": "13",
+          "textPreview": "13",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "13",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "13",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 34,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            465.59,
+            347.54,
+            114.15,
+            69.93
+          ],
+          "text": "15",
+          "textPreview": "15",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "15",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "15",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 35,
+          "row": 4,
+          "column": 5,
+          "bbox": [
+            579.75,
+            347.54,
+            114.15,
+            69.93
+          ],
+          "text": "16",
+          "textPreview": "16",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "16",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "16",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 36,
+          "row": 4,
+          "column": 6,
+          "bbox": [
+            693.9,
+            347.54,
+            114.15,
+            69.93
+          ],
+          "text": "16",
+          "textPreview": "16",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "16",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "16",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 37,
+          "row": 4,
+          "column": 7,
+          "bbox": [
+            808.05,
+            347.54,
+            114.15,
+            69.93
+          ],
+          "text": "14",
+          "textPreview": "14",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "14",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "14",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 38,
+          "row": 4,
+          "column": 8,
+          "bbox": [
+            922.21,
+            347.54,
+            114.15,
+            69.93
+          ],
+          "text": "14",
+          "textPreview": "14",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "14",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "14",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 39,
+          "row": 4,
+          "column": 9,
+          "bbox": [
+            1036.36,
+            347.54,
+            114.15,
+            69.93
+          ],
+          "text": "17",
+          "textPreview": "17",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "17",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "17",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 40,
+          "row": 4,
+          "column": 10,
+          "bbox": [
+            1150.52,
+            347.54,
+            114.15,
+            69.93
+          ],
+          "text": "15",
+          "textPreview": "15",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "15",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "15",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 41,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            92.89,
+            417.47,
+            144.39,
+            69.93
+          ],
+          "text": "CP5（兄弟）",
+          "textPreview": "CP5（兄弟）",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "CP5（兄弟）",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "CP5",
+                  "bold": true
+                },
+                {
+                  "index": 2,
+                  "text": "（兄弟）",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 42,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            237.28,
+            417.47,
+            114.15,
+            69.93
+          ],
+          "text": "折合成36个位",
+          "textPreview": "折合成36个位",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "折合成36个位",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "折合成",
+                  "bold": true
+                },
+                {
+                  "index": 2,
+                  "text": "36",
+                  "bold": true
+                },
+                {
+                  "index": 3,
+                  "text": "个位",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 43,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            351.44,
+            417.47,
+            114.15,
+            69.93
+          ],
+          "text": "18",
+          "textPreview": "18",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "18",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "18",
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 44,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            465.59,
+            417.47,
+            114.15,
+            69.93
+          ],
+          "text": "20.8",
+          "textPreview": "20.8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "20.8",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "20.8",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 45,
+          "row": 5,
+          "column": 5,
+          "bbox": [
+            579.75,
+            417.47,
+            114.15,
+            69.93
+          ],
+          "text": "22.2",
+          "textPreview": "22.2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "22.2",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "22.2",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 46,
+          "row": 5,
+          "column": 6,
+          "bbox": [
+            693.9,
+            417.47,
+            114.15,
+            69.93
+          ],
+          "text": "22.2",
+          "textPreview": "22.2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "22.2",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "22.2",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 47,
+          "row": 5,
+          "column": 7,
+          "bbox": [
+            808.05,
+            417.47,
+            114.15,
+            69.93
+          ],
+          "text": "19.4",
+          "textPreview": "19.4",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "19.4",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "19.4",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 48,
+          "row": 5,
+          "column": 8,
+          "bbox": [
+            922.21,
+            417.47,
+            114.15,
+            69.93
+          ],
+          "text": "19.4",
+          "textPreview": "19.4",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "19.4",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "19.4",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 49,
+          "row": 5,
+          "column": 9,
+          "bbox": [
+            1036.36,
+            417.47,
+            114.15,
+            69.93
+          ],
+          "text": "23.5",
+          "textPreview": "23.5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "23.5",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "23.5",
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 50,
+          "row": 5,
+          "column": 10,
+          "bbox": [
+            1150.52,
+            417.47,
+            114.15,
+            69.93
+          ],
+          "text": "20.8",
+          "textPreview": "20.8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "20.8",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "20.8",
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8v6psfil",
+      "id": "7",
+      "name": "TextBox 6",
+      "bbox": [
+        124.83,
+        537.63,
+        1018.89,
+        106.63
+      ],
+      "geometry": "rect",
+      "text": "通过一周的统计可以看出：\nCP6长丝车间36个位丝束打转的锭位平均每天90个，最高93个，最低87个\nCP5长丝车间丝束打转的锭位折合成36个位：平均每天20.8个，最高23.5个，最低18个",
+      "textPreview": "通过一周的统计可以看出： | CP6长丝车间36个位丝束打转的锭位平均每天90个，最高93个，最低87个 | CP5长丝车间丝束打转的锭位折合成36个位：平均每天20.8个，最高23.5个，最低18个",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "通过一周的统计可以看出："
+          },
+          {
+            "index": 2,
+            "text": "CP6长丝车间36个位丝束打转的锭位平均每天90个，最高93个，最低87个"
+          },
+          {
+            "index": 3,
+            "text": "CP5长丝车间丝束打转的锭位折合成36个位：平均每天20.8个，最高23.5个，最低18个"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "通过一周的统计可以看出：",
+          "runs": [
+            {
+              "index": 1,
+              "text": "通过一周的统计可以看出：",
+              "fontSize": 26.67
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "CP6长丝车间36个位丝束打转的锭位平均每天90个，最高93个，最低87个",
+          "runs": [
+            {
+              "index": 1,
+              "text": "CP6",
+              "fontSize": 26.67
+            },
+            {
+              "index": 2,
+              "text": "长丝车间",
+              "fontSize": 26.67
+            },
+            {
+              "index": 3,
+              "text": "36",
+              "fontSize": 26.67
+            },
+            {
+              "index": 4,
+              "text": "个位丝束打转的锭位平均每天",
+              "fontSize": 26.67
+            },
+            {
+              "index": 5,
+              "text": "90",
+              "fontSize": 26.67
+            },
+            {
+              "index": 6,
+              "text": "个，最高",
+              "fontSize": 26.67
+            },
+            {
+              "index": 7,
+              "text": "93",
+              "fontSize": 26.67
+            },
+            {
+              "index": 8,
+              "text": "个，最低",
+              "fontSize": 26.67
+            },
+            {
+              "index": 9,
+              "text": "87",
+              "fontSize": 26.67
+            },
+            {
+              "index": 10,
+              "text": "个",
+              "fontSize": 26.67
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "CP5长丝车间丝束打转的锭位折合成36个位：平均每天20.8个，最高23.5个，最低18个",
+          "runs": [
+            {
+              "index": 1,
+              "text": "CP5",
+              "fontSize": 26.67
+            },
+            {
+              "index": 2,
+              "text": "长",
+              "fontSize": 26.67
+            },
+            {
+              "index": 3,
+              "text": "丝车间丝束打转的锭",
+              "fontSize": 26.67
+            },
+            {
+              "index": 4,
+              "text": "位折合成",
+              "fontSize": 26.67
+            },
+            {
+              "index": 5,
+              "text": "36",
+              "fontSize": 26.67
+            },
+            {
+              "index": 6,
+              "text": "个位：平均每天",
+              "fontSize": 26.67
+            },
+            {
+              "index": 7,
+              "text": "20.8",
+              "fontSize": 26.67
+            },
+            {
+              "index": 8,
+              "text": "个",
+              "fontSize": 26.67
+            },
+            {
+              "index": 9,
+              "text": "，",
+              "fontSize": 26.67
+            },
+            {
+              "index": 10,
+              "text": "最高",
+              "fontSize": 26.67
+            },
+            {
+              "index": 11,
+              "text": "23.5",
+              "fontSize": 26.67
+            },
+            {
+              "index": 12,
+              "text": "个",
+              "fontSize": 26.67
+            },
+            {
+              "index": 13,
+              "text": "，",
+              "fontSize": 26.67
+            },
+            {
+              "index": 14,
+              "text": "最低",
+              "fontSize": 26.67
+            },
+            {
+              "index": 15,
+              "text": "18",
+              "fontSize": 26.67
+            },
+            {
+              "index": 16,
+              "text": "个",
+              "fontSize": 26.67
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

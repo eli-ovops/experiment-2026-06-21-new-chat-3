@@ -1,0 +1,2210 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/fu18jqh0",
+    "id": "fu18jqh0",
+    "slide": 8,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "标题和内容",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 960,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "凸显",
+    "colors": {
+      "accent1": "#FE8637",
+      "accent2": "#7598D9",
+      "accent3": "#B32C16",
+      "accent4": "#F5CD2D",
+      "accent5": "#AEBAD5",
+      "accent6": "#777C84",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#575F6D",
+      "lt2": "#FFF39D",
+      "hlink": "#D2611C",
+      "folHlink": "#3B435B"
+    },
+    "fontScheme": {
+      "name": "凸显",
+      "majorFont": {
+        "latinTypeface": "Century Schoolbook"
+      },
+      "minorFont": {
+        "latinTypeface": "Century Schoolbook"
+      }
+    },
+    "typefaces": [
+      "+mn-ea",
+      "Arial",
+      "Century Schoolbook",
+      "华文行楷"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "标题和内容",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "image",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/13",
+          "id": "13",
+          "name": "图片 10",
+          "bbox": [
+            0,
+            0,
+            181.27,
+            110.52
+          ],
+          "contentType": "image/png",
+          "imageCrop": {
+            "left": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "asset": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 28068
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 28068
+          }
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/12",
+          "id": "12",
+          "name": "艺术字 4",
+          "bbox": [
+            268.32,
+            677.52,
+            415.79,
+            33.48
+          ],
+          "geometry": "rect",
+          "text": "提供优质纤维   创造美好生活",
+          "textPreview": "提供优质纤维   创造美好生活",
+          "resolvedTextStyle": {
+            "wrap": "none"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "提供优质纤维   创造美好生活",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "提供优质纤维   创造美好生活",
+                  "fontSize": 21.33,
+                  "typeface": "华文行楷",
+                  "color": "#000000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/16",
+          "id": "16",
+          "name": "直接连接符 15",
+          "bbox": [
+            920,
+            0,
+            0,
+            720
+          ],
+          "geometry": "line",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "lineColor": {
+            "type": "theme",
+            "value": "accent1",
+            "transform": {
+              "opacity": 0.93,
+              "lighten": 0.4
+            }
+          },
+          "lineWidth": 4
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/22",
+          "id": "22",
+          "name": "标题占位符 21",
+          "bbox": [
+            48,
+            28.83,
+            784,
+            120
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版标题样式",
+          "textPreview": "单击此处编辑母版标题样式",
+          "resolvedTextStyle": {
+            "anchor": 3,
+            "vertical": 1,
+            "verticalAlignment": "bottom",
+            "autoFit": "shrinkText"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版标题样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版标题样式"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/13",
+          "id": "13",
+          "name": "文本占位符 12",
+          "bbox": [
+            48,
+            168,
+            784,
+            511.68
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版文本样式\n第二级\n第三级\n第四级\n第五级",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版文本样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版文本样式"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "第二级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第二级"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "第三级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第三级"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "第四级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第四级"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "第五级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第五级"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/14",
+          "id": "14",
+          "name": "日期占位符 13",
+          "bbox": [
+            796.8,
+            113.58,
+            211.2,
+            40.32
+          ],
+          "rotation": 90,
+          "geometry": "rect",
+          "text": "2018-06-07",
+          "textPreview": "2018-06-07",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2018-06-07",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2018-06-07"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "页脚占位符 2",
+          "bbox": [
+            733.88,
+            392.36,
+            336,
+            38.4
+          ],
+          "rotation": 90,
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle"
+          }
+        },
+        {
+          "order": 6,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/7",
+          "id": "7",
+          "name": "直接连接符 6",
+          "bbox": [
+            8,
+            0,
+            0,
+            720
+          ],
+          "geometry": "line",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "lineColor": {
+            "type": "theme",
+            "value": "accent1",
+            "transform": {
+              "lighten": 0.4
+            }
+          },
+          "lineWidth": 6
+        },
+        {
+          "order": 7,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/9",
+          "id": "9",
+          "name": "直接连接符 8",
+          "bbox": [
+            944,
+            0,
+            0,
+            720
+          ],
+          "geometry": "line",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "lineColor": "accent1",
+          "lineWidth": 2
+        },
+        {
+          "order": 8,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/10",
+          "id": "10",
+          "name": "矩形 9",
+          "bbox": [
+            928,
+            0,
+            32,
+            720
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "accent1",
+            "transform": {
+              "opacity": 0.87,
+              "lighten": 0.4
+            }
+          },
+          "lineWidth": 4
+        },
+        {
+          "order": 9,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/11",
+          "id": "11",
+          "name": "直接连接符 10",
+          "bbox": [
+            936,
+            0,
+            0,
+            720
+          ],
+          "geometry": "line",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "lineColor": "accent1",
+          "lineWidth": 1
+        },
+        {
+          "order": 10,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/12",
+          "id": "12",
+          "name": "椭圆 11",
+          "bbox": [
+            856.32,
+            600,
+            57.6,
+            57.6
+          ],
+          "geometry": "ellipse",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "lineWidth": 4
+        },
+        {
+          "order": 11,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/23",
+          "id": "23",
+          "name": "灯片编号占位符 22",
+          "bbox": [
+            853.44,
+            602,
+            64,
+            54.72
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u9knih4b",
+      "id": "2",
+      "name": "TextBox 1",
+      "bbox": [
+        253.2,
+        27.36,
+        430.91,
+        61.39
+      ],
+      "geometry": "rect",
+      "text": "五、要因分析",
+      "textPreview": "五、要因分析",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "fontSize": 18.67,
+        "typeface": "Century Schoolbook",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "五、要因分析"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "五、要因分析",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "五、",
+              "fontSize": 42.67,
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "要",
+              "fontSize": 42.67,
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "因分析",
+              "fontSize": 42.67,
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/ih4byhgn",
+      "id": "3",
+      "name": "Group 1018",
+      "bbox": [
+        71.77,
+        140.76,
+        801.35,
+        446.03
+      ],
+      "text": "序号 | 原因 | 确认方法 | 判断标准 | 负责人 | 完成日期\n1 | 操作人员未按规范操作 | 现场检查 | 按照IGV安全操作规程 | 朱昌波 | 2018-4-25\n2 | IGV主轴位置不准 | 现场检查 | 检查IGV主轴的位置 | 王峰杰 | 2018-5-5\n3 | 卷绕机震动大 | 现场检查 | 卷绕机是否震动 | 周志华 | 2018-5-10\n4 | 卷绕机保养超期 | 调查 | 卷绕机是否定期按要求保养 | 郭文明 | 2018-5-15\n5 | 卷绕机维修保养质量差 | 调查 | 按照卷绕机保养SOP | 钟  杰 | 2018-5-15\n6 | 现场地面不平 | 现场检查 | 现场地面平整情况 | 徐振天 | 2018-5-20",
+      "textPreview": "序号 | 原因 | 确认方法 | 判断标准 | 负责人 | 完成日期 | 1 | 操作人员未按规范操作 | 现场检查 | 按照IGV安全操作规程 | 朱昌波 | 2018-4-25 | 2 | IGV主轴位置不准 | 现场检查 | 检查IGV主轴的位置 | 王峰杰 | 20...",
+      "rows": 7,
+      "cols": 6,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            71.77,
+            140.76,
+            60.48,
+            57.28
+          ],
+          "text": "序号",
+          "textPreview": "序号",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "序号",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "序号",
+                  "fontSize": 16,
+                  "color": "bg1",
+                  "bold": true,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            132.24,
+            140.76,
+            219.24,
+            57.28
+          ],
+          "text": "原因",
+          "textPreview": "原因",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "原因",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "原因",
+                  "fontSize": 16,
+                  "typeface": "Arial",
+                  "color": "bg1",
+                  "bold": true,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            351.48,
+            140.76,
+            113.4,
+            57.28
+          ],
+          "text": "确认方法",
+          "textPreview": "确认方法",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "确认方法",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "确认方法",
+                  "fontSize": 16,
+                  "color": "bg1",
+                  "bold": true,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            464.88,
+            140.76,
+            242.28,
+            57.28
+          ],
+          "text": "判断标准",
+          "textPreview": "判断标准",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "判断标准",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "判断标准",
+                  "fontSize": 16,
+                  "typeface": "Arial",
+                  "color": "bg1",
+                  "bold": true,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 5,
+          "bbox": [
+            707.16,
+            140.76,
+            72.58,
+            57.28
+          ],
+          "text": "负责人",
+          "textPreview": "负责人",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "负责人",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "负责人",
+                  "fontSize": 16,
+                  "color": "bg1",
+                  "bold": true,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 6,
+          "bbox": [
+            779.75,
+            140.76,
+            93.37,
+            57.28
+          ],
+          "text": "完成日期",
+          "textPreview": "完成日期",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "完成日期",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "完成日期",
+                  "fontSize": 16,
+                  "color": "bg1",
+                  "bold": true,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            71.77,
+            198.05,
+            60.48,
+            64.86
+          ],
+          "text": "1",
+          "textPreview": "1",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            132.24,
+            198.05,
+            219.24,
+            64.86
+          ],
+          "text": "操作人员未按规范操作",
+          "textPreview": "操作人员未按规范操作",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "操作人员未按规范操作",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "操作人员未按规范操作",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            351.48,
+            198.05,
+            113.4,
+            64.86
+          ],
+          "text": "现场检查",
+          "textPreview": "现场检查",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "现场检查",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "现场检查",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            464.88,
+            198.05,
+            242.28,
+            64.86
+          ],
+          "text": "按照IGV安全操作规程",
+          "textPreview": "按照IGV安全操作规程",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "按照IGV安全操作规程",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "按照",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                },
+                {
+                  "index": 2,
+                  "text": "IGV",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                },
+                {
+                  "index": 3,
+                  "text": "安全操作规程",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 5,
+          "bbox": [
+            707.16,
+            198.05,
+            72.58,
+            64.86
+          ],
+          "text": "朱昌波",
+          "textPreview": "朱昌波",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "朱昌波",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "朱昌波",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 6,
+          "bbox": [
+            779.75,
+            198.05,
+            93.37,
+            64.86
+          ],
+          "text": "2018-4-25",
+          "textPreview": "2018-4-25",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2018-4-25",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2018-4-25",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            71.77,
+            262.9,
+            60.48,
+            65.05
+          ],
+          "text": "2",
+          "textPreview": "2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            132.24,
+            262.9,
+            219.24,
+            65.05
+          ],
+          "text": "IGV主轴位置不准",
+          "textPreview": "IGV主轴位置不准",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "IGV主轴位置不准",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "IGV",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                },
+                {
+                  "index": 2,
+                  "text": "主轴位置不准",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            351.48,
+            262.9,
+            113.4,
+            65.05
+          ],
+          "text": "现场检查",
+          "textPreview": "现场检查",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "现场检查",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "现场检查",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            464.88,
+            262.9,
+            242.28,
+            65.05
+          ],
+          "text": "检查IGV主轴的位置",
+          "textPreview": "检查IGV主轴的位置",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "检查IGV主轴的位置",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "检查",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                },
+                {
+                  "index": 2,
+                  "text": "IGV",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                },
+                {
+                  "index": 3,
+                  "text": "主轴的位置",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 3,
+          "column": 5,
+          "bbox": [
+            707.16,
+            262.9,
+            72.58,
+            65.05
+          ],
+          "text": "王峰杰",
+          "textPreview": "王峰杰",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "王峰杰",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "王峰杰",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 3,
+          "column": 6,
+          "bbox": [
+            779.75,
+            262.9,
+            93.37,
+            65.05
+          ],
+          "text": "2018-5-5",
+          "textPreview": "2018-5-5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2018-5-5",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2018-5-5",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            71.77,
+            327.95,
+            60.48,
+            64.86
+          ],
+          "text": "3",
+          "textPreview": "3",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            132.24,
+            327.95,
+            219.24,
+            64.86
+          ],
+          "text": "卷绕机震动大",
+          "textPreview": "卷绕机震动大",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "卷绕机震动大",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "卷绕机震动大",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            351.48,
+            327.95,
+            113.4,
+            64.86
+          ],
+          "text": "现场检查",
+          "textPreview": "现场检查",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "现场检查",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "现场检查",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            464.88,
+            327.95,
+            242.28,
+            64.86
+          ],
+          "text": "卷绕机是否震动",
+          "textPreview": "卷绕机是否震动",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "卷绕机是否震动",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "卷绕机是否震动",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 4,
+          "column": 5,
+          "bbox": [
+            707.16,
+            327.95,
+            72.58,
+            64.86
+          ],
+          "text": "周志华",
+          "textPreview": "周志华",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "周志华",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "周志华",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 4,
+          "column": 6,
+          "bbox": [
+            779.75,
+            327.95,
+            93.37,
+            64.86
+          ],
+          "text": "2018-5-10",
+          "textPreview": "2018-5-10",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2018-5-10",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2018-5-10",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            71.77,
+            392.81,
+            60.48,
+            64.66
+          ],
+          "text": "4",
+          "textPreview": "4",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            132.24,
+            392.81,
+            219.24,
+            64.66
+          ],
+          "text": "卷绕机保养超期",
+          "textPreview": "卷绕机保养超期",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "卷绕机保养超期",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "卷绕机保养超期",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            351.48,
+            392.81,
+            113.4,
+            64.66
+          ],
+          "text": "调查",
+          "textPreview": "调查",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "调查",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "调查",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            464.88,
+            392.81,
+            242.28,
+            64.66
+          ],
+          "text": "卷绕机是否定期按要求保养",
+          "textPreview": "卷绕机是否定期按要求保养",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "卷绕机是否定期按要求保养",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "卷绕机是否定期按要求保养",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 29,
+          "row": 5,
+          "column": 5,
+          "bbox": [
+            707.16,
+            392.81,
+            72.58,
+            64.66
+          ],
+          "text": "郭文明",
+          "textPreview": "郭文明",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "郭文明",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "郭文明",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "row": 5,
+          "column": 6,
+          "bbox": [
+            779.75,
+            392.81,
+            93.37,
+            64.66
+          ],
+          "text": "2018-5-15",
+          "textPreview": "2018-5-15",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2018-5-15",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2018-5-15",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 31,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            71.77,
+            457.47,
+            60.48,
+            64.66
+          ],
+          "text": "5",
+          "textPreview": "5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            132.24,
+            457.47,
+            219.24,
+            64.66
+          ],
+          "text": "卷绕机维修保养质量差",
+          "textPreview": "卷绕机维修保养质量差",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "卷绕机维修保养质量差",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "卷绕机维修保养质量差",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 33,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            351.48,
+            457.47,
+            113.4,
+            64.66
+          ],
+          "text": "调查",
+          "textPreview": "调查",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "调查",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "调查",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 34,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            464.88,
+            457.47,
+            242.28,
+            64.66
+          ],
+          "text": "按照卷绕机保养SOP",
+          "textPreview": "按照卷绕机保养SOP",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "按照卷绕机保养SOP",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "按照卷绕机保养",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                },
+                {
+                  "index": 2,
+                  "text": "SOP",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 35,
+          "row": 6,
+          "column": 5,
+          "bbox": [
+            707.16,
+            457.47,
+            72.58,
+            64.66
+          ],
+          "text": "钟  杰",
+          "textPreview": "钟  杰",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "钟  杰",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "钟  杰",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 36,
+          "row": 6,
+          "column": 6,
+          "bbox": [
+            779.75,
+            457.47,
+            93.37,
+            64.66
+          ],
+          "text": "2018-5-15",
+          "textPreview": "2018-5-15",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2018-5-15",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2018-5-15",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 37,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            71.77,
+            522.13,
+            60.48,
+            64.66
+          ],
+          "text": "6",
+          "textPreview": "6",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "6",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "6",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 38,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            132.24,
+            522.13,
+            219.24,
+            64.66
+          ],
+          "text": "现场地面不平",
+          "textPreview": "现场地面不平",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "现场地面不平",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "现场地面不平",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 39,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            351.48,
+            522.13,
+            113.4,
+            64.66
+          ],
+          "text": "现场检查",
+          "textPreview": "现场检查",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "现场检查",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "现场检查",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 40,
+          "row": 7,
+          "column": 4,
+          "bbox": [
+            464.88,
+            522.13,
+            242.28,
+            64.66
+          ],
+          "text": "现场地面平整情况",
+          "textPreview": "现场地面平整情况",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "现场地面平整情况",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "现场地面平整情况",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 41,
+          "row": 7,
+          "column": 5,
+          "bbox": [
+            707.16,
+            522.13,
+            72.58,
+            64.66
+          ],
+          "text": "徐振天",
+          "textPreview": "徐振天",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "徐振天",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "徐振天",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 42,
+          "row": 7,
+          "column": 6,
+          "bbox": [
+            779.75,
+            522.13,
+            93.37,
+            64.66
+          ],
+          "text": "2018-5-20",
+          "textPreview": "2018-5-20",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2018-5-20",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2018-5-20",
+                  "fontSize": 16,
+                  "typeface": "+mn-ea",
+                  "color": "bg1",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

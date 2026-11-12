@@ -1,0 +1,5401 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/2x4nap4r",
+    "id": "2x4nap4r",
+    "slide": 1,
+    "layoutId": "/ppt/slideLayouts/slideLayout5.xml",
+    "layoutName": "1_标题幻灯片",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1209.67,
+      "height": 718.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "+mn-ea",
+      "Arial",
+      "Calibri",
+      "华文新魏",
+      "幼圆",
+      "微软雅黑"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout5.xml",
+      "name": "1_标题幻灯片",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "image",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1488",
+          "id": "1488",
+          "name": "Picture 2",
+          "bbox": [
+            0,
+            -4.78,
+            1216.04,
+            737.31
+          ],
+          "contentType": "image/jpeg",
+          "imageCrop": {
+            "left": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "asset": {
+            "assetId": "/ppt/media/image1.jpeg",
+            "contentType": "image/jpeg",
+            "byteLength": 230739
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image1.jpeg",
+            "contentType": "image/jpeg",
+            "byteLength": 230739
+          }
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1323",
+          "id": "1323",
+          "name": "Freeform 57",
+          "bbox": [
+            247.91,
+            411.9,
+            65.86,
+            131.58
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1324",
+          "id": "1324",
+          "name": "Freeform 58",
+          "bbox": [
+            116.73,
+            411.9,
+            132.04,
+            63.25
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1325",
+          "id": "1325",
+          "name": "Freeform 59",
+          "bbox": [
+            247.91,
+            315.41,
+            55.44,
+            97.36
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1326",
+          "id": "1326",
+          "name": "Freeform 60",
+          "bbox": [
+            302.38,
+            315.41,
+            160.84,
+            115.06
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 6,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1327",
+          "id": "1327",
+          "name": "Freeform 61",
+          "bbox": [
+            339.45,
+            429.61,
+            123.66,
+            9.07
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 7,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1328",
+          "id": "1328",
+          "name": "Freeform 62",
+          "bbox": [
+            461.93,
+            348.65,
+            1.18,
+            81.82
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 8,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1329",
+          "id": "1329",
+          "name": "Freeform 63",
+          "bbox": [
+            302.38,
+            263.59,
+            132.8,
+            52.67
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 9,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1330",
+          "id": "1330",
+          "name": "Freeform 64",
+          "bbox": [
+            398.97,
+            249.99,
+            36.21,
+            14.46
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 10,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1331",
+          "id": "1331",
+          "name": "Freeform 65",
+          "bbox": [
+            434.32,
+            263.59,
+            28.47,
+            85.92
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 11,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1332",
+          "id": "1332",
+          "name": "Freeform 66",
+          "bbox": [
+            302.38,
+            315.41,
+            160.41,
+            34.11
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 12,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1333",
+          "id": "1333",
+          "name": "Freeform 67",
+          "bbox": [
+            302.38,
+            315.41,
+            38.03,
+            123.27
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 13,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1334",
+          "id": "1334",
+          "name": "Freeform 68",
+          "bbox": [
+            302.38,
+            249.99,
+            97.45,
+            66.28
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 14,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1335",
+          "id": "1335",
+          "name": "Freeform 69",
+          "bbox": [
+            398.97,
+            115.72,
+            46.63,
+            135.14
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 15,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1336",
+          "id": "1336",
+          "name": "Freeform 70",
+          "bbox": [
+            444.63,
+            115.72,
+            69.73,
+            132.87
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 16,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1337",
+          "id": "1337",
+          "name": "Freeform 71",
+          "bbox": [
+            513.5,
+            171.52,
+            6.45,
+            77.07
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 17,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1338",
+          "id": "1338",
+          "name": "Freeform 72",
+          "bbox": [
+            513.5,
+            247.73,
+            75.21,
+            10.79
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 18,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1339",
+          "id": "1339",
+          "name": "Freeform 73",
+          "bbox": [
+            587.85,
+            257.55,
+            138.38,
+            76.21
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 19,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1340",
+          "id": "1340",
+          "name": "Freeform 74",
+          "bbox": [
+            669.61,
+            189.01,
+            56.62,
+            144.75
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 20,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1341",
+          "id": "1341",
+          "name": "Freeform 75",
+          "bbox": [
+            587.85,
+            189.01,
+            82.62,
+            69.51
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 21,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1342",
+          "id": "1342",
+          "name": "Freeform 76",
+          "bbox": [
+            461.82,
+            257.55,
+            126.99,
+            91.96
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 22,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1343",
+          "id": "1343",
+          "name": "Freeform 77",
+          "bbox": [
+            513.39,
+            189.01,
+            157.08,
+            59.58
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 23,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1344",
+          "id": "1344",
+          "name": "Freeform 78",
+          "bbox": [
+            519.2,
+            171.52,
+            151.28,
+            18.24
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 24,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1345",
+          "id": "1345",
+          "name": "Freeform 79",
+          "bbox": [
+            444.63,
+            115.72,
+            75.42,
+            56.56
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 25,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1346",
+          "id": "1346",
+          "name": "Freeform 80",
+          "bbox": [
+            461.82,
+            247.73,
+            52.54,
+            101.79
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 26,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1347",
+          "id": "1347",
+          "name": "Freeform 81",
+          "bbox": [
+            198.92,
+            283.46,
+            104.43,
+            32.81
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 27,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1348",
+          "id": "1348",
+          "name": "Freeform 82",
+          "bbox": [
+            19.71,
+            283.46,
+            180.07,
+            188.25
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 28,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1349",
+          "id": "1349",
+          "name": "Freeform 83",
+          "bbox": [
+            19.71,
+            470.84,
+            97.99,
+            4.32
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 29,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1350",
+          "id": "1350",
+          "name": "Freeform 84",
+          "bbox": [
+            116.73,
+            283.46,
+            83.05,
+            191.7
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 30,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1351",
+          "id": "1351",
+          "name": "Freeform 85",
+          "bbox": [
+            312.8,
+            437.81,
+            27.61,
+            105.67
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 31,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1352",
+          "id": "1352",
+          "name": "Freeform 86",
+          "bbox": [
+            116.73,
+            474.18,
+            197.04,
+            69.3
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 32,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1353",
+          "id": "1353",
+          "name": "Freeform 87",
+          "bbox": [
+            302.38,
+            315.41,
+            11.28,
+            228.08
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 33,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1354",
+          "id": "1354",
+          "name": "Freeform 5",
+          "bbox": [
+            336.33,
+            352.1,
+            38.57,
+            61.2
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 34,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1355",
+          "id": "1355",
+          "name": "Freeform 6",
+          "bbox": [
+            335.9,
+            388.59,
+            39,
+            24.72
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 35,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1356",
+          "id": "1356",
+          "name": "Freeform 7",
+          "bbox": [
+            336.01,
+            352.1,
+            0.97,
+            37.13
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 36,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1357",
+          "id": "1357",
+          "name": "Freeform 8",
+          "bbox": [
+            259.51,
+            386.11,
+            77.03,
+            3.13
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 37,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1358",
+          "id": "1358",
+          "name": "Freeform 9",
+          "bbox": [
+            248.66,
+            386.11,
+            11.39,
+            44.04
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 38,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1359",
+          "id": "1359",
+          "name": "Freeform 10",
+          "bbox": [
+            236.84,
+            377.58,
+            12.36,
+            52.57
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 39,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1360",
+          "id": "1360",
+          "name": "Freeform 11",
+          "bbox": [
+            186.24,
+            429.5,
+            62.96,
+            11.12
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 40,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1361",
+          "id": "1361",
+          "name": "Freeform 12",
+          "bbox": [
+            236.84,
+            319.83,
+            25.89,
+            58.29
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 41,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1362",
+          "id": "1362",
+          "name": "Freeform 13",
+          "bbox": [
+            191.93,
+            319.83,
+            70.8,
+            11.98
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 42,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1363",
+          "id": "1363",
+          "name": "Freeform 14",
+          "bbox": [
+            191.93,
+            331.16,
+            45.45,
+            46.95
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 43,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1364",
+          "id": "1364",
+          "name": "Freeform 15",
+          "bbox": [
+            192.04,
+            331.27,
+            3.01,
+            31.73
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 44,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1365",
+          "id": "1365",
+          "name": "Freeform 16",
+          "bbox": [
+            194.41,
+            362.36,
+            42.98,
+            15.76
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 45,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1366",
+          "id": "1366",
+          "name": "Freeform 17",
+          "bbox": [
+            180.55,
+            377.58,
+            56.84,
+            39.72
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 46,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1367",
+          "id": "1367",
+          "name": "Freeform 18",
+          "bbox": [
+            186.24,
+            377.58,
+            51.14,
+            63.04
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 47,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1368",
+          "id": "1368",
+          "name": "Freeform 19",
+          "bbox": [
+            88.79,
+            362.36,
+            106.26,
+            19.32
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 48,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1369",
+          "id": "1369",
+          "name": "Freeform 20",
+          "bbox": [
+            88.79,
+            381.03,
+            92.4,
+            36.27
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 49,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1370",
+          "id": "1370",
+          "name": "Freeform 21",
+          "bbox": [
+            180.55,
+            416.65,
+            6.34,
+            23.96
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 50,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1371",
+          "id": "1371",
+          "name": "Freeform 22",
+          "bbox": [
+            262.09,
+            319.83,
+            39.54,
+            30.76
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 51,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1372",
+          "id": "1372",
+          "name": "Freeform 23",
+          "bbox": [
+            259.41,
+            349.95,
+            42.22,
+            36.81
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 52,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1373",
+          "id": "1373",
+          "name": "Freeform 24",
+          "bbox": [
+            301.09,
+            350.05,
+            35.88,
+            2.59
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 53,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1374",
+          "id": "1374",
+          "name": "Freeform 25",
+          "bbox": [
+            300.99,
+            301.16,
+            56.73,
+            49.44
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 54,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1375",
+          "id": "1375",
+          "name": "Freeform 26",
+          "bbox": [
+            336.33,
+            301.16,
+            21.38,
+            51.49
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 55,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1376",
+          "id": "1376",
+          "name": "Freeform 27",
+          "bbox": [
+            357.07,
+            301.16,
+            17.84,
+            40.59
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 56,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1377",
+          "id": "1377",
+          "name": "Freeform 28",
+          "bbox": [
+            357.07,
+            301.16,
+            79.29,
+            12.09
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 57,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1378",
+          "id": "1378",
+          "name": "Freeform 29",
+          "bbox": [
+            355.35,
+            262.62,
+            81.01,
+            50.62
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 58,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1379",
+          "id": "1379",
+          "name": "Freeform 30",
+          "bbox": [
+            355.35,
+            256.36,
+            58.45,
+            6.8
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 59,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1380",
+          "id": "1380",
+          "name": "Freeform 31",
+          "bbox": [
+            413.15,
+            202.18,
+            9.67,
+            54.73
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 60,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1381",
+          "id": "1381",
+          "name": "Freeform 32",
+          "bbox": [
+            422.18,
+            202.18,
+            14.18,
+            111.07
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 61,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1382",
+          "id": "1382",
+          "name": "Freeform 33",
+          "bbox": [
+            413.15,
+            256.36,
+            23.21,
+            56.88
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 62,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1383",
+          "id": "1383",
+          "name": "Freeform 34",
+          "bbox": [
+            435.72,
+            264.46,
+            23.21,
+            48.79
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 63,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1384",
+          "id": "1384",
+          "name": "Freeform 35",
+          "bbox": [
+            435.72,
+            312.71,
+            50.71,
+            12.41
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 64,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1385",
+          "id": "1385",
+          "name": "Freeform 36",
+          "bbox": [
+            422.18,
+            202.18,
+            36.74,
+            62.93
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 65,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1386",
+          "id": "1386",
+          "name": "Freeform 37",
+          "bbox": [
+            422.18,
+            202.18,
+            93.9,
+            27.96
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 66,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1387",
+          "id": "1387",
+          "name": "Freeform 38",
+          "bbox": [
+            458.39,
+            229.49,
+            57.7,
+            35.62
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 67,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1388",
+          "id": "1388",
+          "name": "Freeform 39",
+          "bbox": [
+            485.78,
+            229.49,
+            30.3,
+            95.63
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 68,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1389",
+          "id": "1389",
+          "name": "Freeform 40",
+          "bbox": [
+            515.44,
+            229.49,
+            10.64,
+            45.33
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 69,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1390",
+          "id": "1390",
+          "name": "Freeform 41",
+          "bbox": [
+            525.54,
+            265.65,
+            68.12,
+            9.17
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 70,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1391",
+          "id": "1391",
+          "name": "Freeform 42",
+          "bbox": [
+            525.54,
+            202.61,
+            23.21,
+            72.21
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 71,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1392",
+          "id": "1392",
+          "name": "Freeform 43",
+          "bbox": [
+            548.1,
+            196.56,
+            60.7,
+            6.69
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 72,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1393",
+          "id": "1393",
+          "name": "Freeform 44",
+          "bbox": [
+            548.1,
+            202.61,
+            45.55,
+            63.58
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 73,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1394",
+          "id": "1394",
+          "name": "Freeform 45",
+          "bbox": [
+            548.1,
+            202.61,
+            69.84,
+            44.9
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 74,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1395",
+          "id": "1395",
+          "name": "Freeform 46",
+          "bbox": [
+            608.26,
+            196.56,
+            9.67,
+            50.95
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 75,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1396",
+          "id": "1396",
+          "name": "Freeform 47",
+          "bbox": [
+            593.11,
+            246.97,
+            24.82,
+            19.21
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 76,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1397",
+          "id": "1397",
+          "name": "Freeform 48",
+          "bbox": [
+            485.78,
+            274.17,
+            40.29,
+            50.95
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 77,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1398",
+          "id": "1398",
+          "name": "Freeform 49",
+          "bbox": [
+            374.26,
+            341.1,
+            17.51,
+            6.58
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 78,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1399",
+          "id": "1399",
+          "name": "Freeform 50",
+          "bbox": [
+            374.26,
+            347.03,
+            17.51,
+            66.28
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 79,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1400",
+          "id": "1400",
+          "name": "Freeform 51",
+          "bbox": [
+            391.24,
+            312.71,
+            45.12,
+            34.97
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 80,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1401",
+          "id": "1401",
+          "name": "Freeform 52",
+          "bbox": [
+            374.26,
+            312.71,
+            62.1,
+            29.04
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 81,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1402",
+          "id": "1402",
+          "name": "Freeform 53",
+          "bbox": [
+            259.41,
+            352.11,
+            77.57,
+            34.65
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 82,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1403",
+          "id": "1403",
+          "name": "Freeform 111",
+          "bbox": [
+            189.79,
+            329.22,
+            5.05,
+            5.07
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 83,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1404",
+          "id": "1404",
+          "name": "Freeform 112",
+          "bbox": [
+            192.26,
+            360.42,
+            5.05,
+            5.07
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 84,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1405",
+          "id": "1405",
+          "name": "Freeform 113",
+          "bbox": [
+            178.61,
+            414.49,
+            5.05,
+            5.07
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 85,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1406",
+          "id": "1406",
+          "name": "Freeform 114",
+          "bbox": [
+            85.68,
+            377.9,
+            7.09,
+            7.02
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 86,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1407",
+          "id": "1407",
+          "name": "Freeform 115",
+          "bbox": [
+            232.76,
+            374.02,
+            8.17,
+            8.2
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 87,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1408",
+          "id": "1408",
+          "name": "Freeform 116",
+          "bbox": [
+            183.55,
+            437.16,
+            8.17,
+            8.2
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 88,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1409",
+          "id": "1409",
+          "name": "Freeform 117",
+          "bbox": [
+            246.62,
+            427.45,
+            4.94,
+            4.97
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 89,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1410",
+          "id": "1410",
+          "name": "Freeform 118",
+          "bbox": [
+            257.37,
+            384.16,
+            4.83,
+            4.97
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 90,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1411",
+          "id": "1411",
+          "name": "Freeform 119",
+          "bbox": [
+            298.94,
+            348,
+            4.94,
+            4.97
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 91,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1412",
+          "id": "1412",
+          "name": "Freeform 120",
+          "bbox": [
+            256.61,
+            315.3,
+            11.39,
+            11.33
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 92,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1413",
+          "id": "1413",
+          "name": "Freeform 121",
+          "bbox": [
+            332.68,
+            349.08,
+            7.95,
+            7.99
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 93,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1414",
+          "id": "1414",
+          "name": "Freeform 122",
+          "bbox": [
+            431.53,
+            308.5,
+            7.95,
+            7.99
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 94,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1415",
+          "id": "1415",
+          "name": "Freeform 123",
+          "bbox": [
+            333.86,
+            386.43,
+            4.94,
+            4.97
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 95,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1416",
+          "id": "1416",
+          "name": "Freeform 124",
+          "bbox": [
+            370.28,
+            408.77,
+            8.49,
+            8.53
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 96,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1417",
+          "id": "1417",
+          "name": "Freeform 125",
+          "bbox": [
+            388.76,
+            344.66,
+            5.05,
+            5.18
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 97,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1418",
+          "id": "1418",
+          "name": "Freeform 126",
+          "bbox": [
+            354.92,
+            299.54,
+            5.05,
+            5.07
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 98,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1419",
+          "id": "1419",
+          "name": "Freeform 127",
+          "bbox": [
+            352.99,
+            260.46,
+            5.16,
+            5.07
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 99,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1420",
+          "id": "1420",
+          "name": "Freeform 128",
+          "bbox": [
+            410.68,
+            254.2,
+            5.16,
+            5.18
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 100,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1421",
+          "id": "1421",
+          "name": "Freeform 129",
+          "bbox": [
+            418.31,
+            198.4,
+            8.17,
+            8.1
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 101,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1422",
+          "id": "1422",
+          "name": "Freeform 130",
+          "bbox": [
+            456.02,
+            262.08,
+            5.16,
+            5.18
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 102,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1423",
+          "id": "1423",
+          "name": "Freeform 131",
+          "bbox": [
+            512.97,
+            227.33,
+            5.16,
+            5.18
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 103,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1424",
+          "id": "1424",
+          "name": "Freeform 132",
+          "bbox": [
+            523.17,
+            271.91,
+            4.73,
+            4.75
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 104,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1425",
+          "id": "1425",
+          "name": "Freeform 133",
+          "bbox": [
+            483.42,
+            321.45,
+            5.59,
+            5.5
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 105,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1426",
+          "id": "1426",
+          "name": "Freeform 134",
+          "bbox": [
+            590.64,
+            263.27,
+            4.73,
+            4.75
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 106,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1427",
+          "id": "1427",
+          "name": "Freeform 135",
+          "bbox": [
+            606.01,
+            194.3,
+            4.73,
+            4.64
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 107,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1428",
+          "id": "1428",
+          "name": "Freeform 136",
+          "bbox": [
+            613.74,
+            243.19,
+            7.52,
+            7.45
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 108,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1429",
+          "id": "1429",
+          "name": "Freeform 137",
+          "bbox": [
+            544.34,
+            198.83,
+            7.74,
+            7.88
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 109,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1430",
+          "id": "1430",
+          "name": "Freeform 138",
+          "bbox": [
+            372.65,
+            339.69,
+            3.98,
+            3.99
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "#45D8FF",
+          "lineWidth": 0
+        },
+        {
+          "order": 110,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1431",
+          "id": "1431",
+          "name": "Freeform 91",
+          "bbox": [
+            242.75,
+            407.48,
+            10.53,
+            9.28
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 111,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1432",
+          "id": "1432",
+          "name": "Freeform 92",
+          "bbox": [
+            111.78,
+            469.76,
+            10.53,
+            9.28
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 112,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1433",
+          "id": "1433",
+          "name": "Freeform 93",
+          "bbox": [
+            16.38,
+            467.71,
+            7.2,
+            6.37
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 113,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1434",
+          "id": "1434",
+          "name": "Freeform 94",
+          "bbox": [
+            195.8,
+            280.76,
+            7.41,
+            6.48
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 114,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1435",
+          "id": "1435",
+          "name": "Freeform 95",
+          "bbox": [
+            294.32,
+            308.5,
+            16.33,
+            14.46
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 115,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1436",
+          "id": "1436",
+          "name": "Freeform 96",
+          "bbox": [
+            306.57,
+            537.22,
+            11.71,
+            10.36
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 116,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1437",
+          "id": "1437",
+          "name": "Freeform 97",
+          "bbox": [
+            335.9,
+            434.79,
+            7.2,
+            6.26
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 117,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1438",
+          "id": "1438",
+          "name": "Freeform 98",
+          "bbox": [
+            456.99,
+            425.18,
+            10.42,
+            9.17
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 118,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1439",
+          "id": "1439",
+          "name": "Freeform 99",
+          "bbox": [
+            458.71,
+            346.06,
+            6.34,
+            5.5
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 119,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1440",
+          "id": "1440",
+          "name": "Freeform 100",
+          "bbox": [
+            426.37,
+            258.63,
+            14.29,
+            12.52
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 120,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1441",
+          "id": "1441",
+          "name": "Freeform 101",
+          "bbox": [
+            395.21,
+            246.97,
+            7.52,
+            6.69
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 121,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1442",
+          "id": "1442",
+          "name": "Freeform 102",
+          "bbox": [
+            440.98,
+            113.45,
+            7.52,
+            6.58
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 122,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1443",
+          "id": "1443",
+          "name": "Freeform 103",
+          "bbox": [
+            513.61,
+            167.53,
+            10.53,
+            9.17
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 123,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1444",
+          "id": "1444",
+          "name": "Freeform 104",
+          "bbox": [
+            504.8,
+            240.5,
+            17.19,
+            15.11
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 124,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1445",
+          "id": "1445",
+          "name": "Freeform 105",
+          "bbox": [
+            582.59,
+            253.77,
+            9.99,
+            8.74
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 125,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1446",
+          "id": "1446",
+          "name": "Freeform 106",
+          "bbox": [
+            667.03,
+            187.28,
+            4.62,
+            4.1
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 126,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1447",
+          "id": "1447",
+          "name": "Freeform 107",
+          "bbox": [
+            722.8,
+            331.27,
+            4.51,
+            3.99
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 127,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1448",
+          "id": "1448",
+          "name": "Freeform 173",
+          "bbox": [
+            -16.5,
+            437.59,
+            70.91,
+            71.24
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.05)",
+          "lineWidth": 0
+        },
+        {
+          "order": 128,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1449",
+          "id": "1449",
+          "name": "Freeform 174",
+          "bbox": [
+            443.34,
+            411.69,
+            40.29,
+            40.48
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.05)",
+          "lineWidth": 0
+        },
+        {
+          "order": 129,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1450",
+          "id": "1450",
+          "name": "Freeform 175",
+          "bbox": [
+            391.56,
+            62.61,
+            108.73,
+            109.45
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.05)",
+          "lineWidth": 0
+        },
+        {
+          "order": 130,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1451",
+          "id": "1451",
+          "name": "Freeform 176",
+          "bbox": [
+            474.29,
+            208.55,
+            81.12,
+            81.49
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.05)",
+          "lineWidth": 0
+        },
+        {
+          "order": 131,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1452",
+          "id": "1452",
+          "name": "Freeform 177",
+          "bbox": [
+            239.75,
+            471.49,
+            146.44,
+            147.23
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.05)",
+          "lineWidth": 0
+        },
+        {
+          "order": 132,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1453",
+          "id": "1453",
+          "name": "Freeform 178",
+          "bbox": [
+            7.67,
+            461.88,
+            22.67,
+            22.67
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.05)",
+          "lineWidth": 0
+        },
+        {
+          "order": 133,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1454",
+          "id": "1454",
+          "name": "Freeform 179",
+          "bbox": [
+            428.62,
+            99.85,
+            34.6,
+            34.86
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.05)",
+          "lineWidth": 0
+        },
+        {
+          "order": 134,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1455",
+          "id": "1455",
+          "name": "Freeform 180",
+          "bbox": [
+            493.41,
+            227.76,
+            42.87,
+            43.07
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.05)",
+          "lineWidth": 0
+        },
+        {
+          "order": 135,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1456",
+          "id": "1456",
+          "name": "Freeform 181",
+          "bbox": [
+            275.31,
+            507.32,
+            75.32,
+            75.56
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.05)",
+          "lineWidth": 0
+        },
+        {
+          "order": 136,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1457",
+          "id": "1457",
+          "name": "Freeform 182",
+          "bbox": [
+            165.93,
+            179.62,
+            273.97,
+            275.25
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.05)",
+          "lineWidth": 0
+        },
+        {
+          "order": 137,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1458",
+          "id": "1458",
+          "name": "Freeform 183",
+          "bbox": [
+            294.22,
+            526.21,
+            37.5,
+            37.78
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.05)",
+          "lineWidth": 0
+        },
+        {
+          "order": 138,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1459",
+          "id": "1459",
+          "name": "Freeform 184",
+          "bbox": [
+            206.98,
+            220.85,
+            191.89,
+            192.78
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.05)",
+          "lineWidth": 0
+        },
+        {
+          "order": 139,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1460",
+          "id": "1460",
+          "name": "Freeform 142",
+          "bbox": [
+            575.5,
+            204.01,
+            85.63,
+            85.92
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.15)",
+          "lineWidth": 0
+        },
+        {
+          "order": 140,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1461",
+          "id": "1461",
+          "name": "Freeform 143",
+          "bbox": [
+            596.12,
+            224.63,
+            44.48,
+            44.69
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.15)",
+          "lineWidth": 0
+        },
+        {
+          "order": 141,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1462",
+          "id": "1462",
+          "name": "Freeform 144",
+          "bbox": [
+            387.48,
+            167.2,
+            70.37,
+            70.81
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 142,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1463",
+          "id": "1463",
+          "name": "Freeform 145",
+          "bbox": [
+            404.02,
+            183.83,
+            37.28,
+            37.46
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 143,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1464",
+          "id": "1464",
+          "name": "Freeform 146",
+          "bbox": [
+            363.73,
+            240.71,
+            143.75,
+            144.42
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 144,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1465",
+          "id": "1465",
+          "name": "Freeform 147",
+          "bbox": [
+            385.65,
+            262.62,
+            100.03,
+            100.49
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 145,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1466",
+          "id": "1466",
+          "name": "Freeform 148",
+          "bbox": [
+            218.79,
+            360.31,
+            35.78,
+            36.05
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 146,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1467",
+          "id": "1467",
+          "name": "Freeform 149",
+          "bbox": [
+            318.39,
+            334.94,
+            36.64,
+            36.81
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 147,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1468",
+          "id": "1468",
+          "name": "Freeform 150",
+          "bbox": [
+            212.46,
+            271.15,
+            99.49,
+            99.95
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.15)",
+          "lineWidth": 0
+        },
+        {
+          "order": 148,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1469",
+          "id": "1469",
+          "name": "Freeform 151",
+          "bbox": [
+            237.06,
+            295.76,
+            50.39,
+            50.73
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.15)",
+          "lineWidth": 0
+        },
+        {
+          "order": 149,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1470",
+          "id": "1470",
+          "name": "Freeform 152",
+          "bbox": [
+            151.97,
+            405.1,
+            71.02,
+            71.35
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.1)",
+          "lineWidth": 0
+        },
+        {
+          "order": 150,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1471",
+          "id": "1471",
+          "name": "Freeform 153",
+          "bbox": [
+            169.05,
+            422.16,
+            36.96,
+            37.13
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.1)",
+          "lineWidth": 0
+        },
+        {
+          "order": 151,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1472",
+          "id": "1472",
+          "name": "Freeform 154",
+          "bbox": [
+            530.8,
+            185.12,
+            35.78,
+            35.94
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 152,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1473",
+          "id": "1473",
+          "name": "Freeform 155",
+          "bbox": [
+            335.58,
+            374.34,
+            77.79,
+            78.26
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.15)",
+          "lineWidth": 0
+        },
+        {
+          "order": 153,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1474",
+          "id": "1474",
+          "name": "Freeform 156",
+          "bbox": [
+            227.39,
+            369.05,
+            18.48,
+            18.57
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 154,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1475",
+          "id": "1475",
+          "name": "Freeform 157",
+          "bbox": [
+            178.5,
+            431.66,
+            18.05,
+            18.13
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.1)",
+          "lineWidth": 0
+        },
+        {
+          "order": 155,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1476",
+          "id": "1476",
+          "name": "Freeform 158",
+          "bbox": [
+            607.4,
+            235.96,
+            21.81,
+            22.02
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.15)",
+          "lineWidth": 0
+        },
+        {
+          "order": 156,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1477",
+          "id": "1477",
+          "name": "Freeform 159",
+          "bbox": [
+            248.98,
+            307.85,
+            26.54,
+            26.55
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.15)",
+          "lineWidth": 0
+        },
+        {
+          "order": 157,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1478",
+          "id": "1478",
+          "name": "Freeform 160",
+          "bbox": [
+            327.2,
+            343.79,
+            18.91,
+            19.11
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 158,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1479",
+          "id": "1479",
+          "name": "Freeform 161",
+          "bbox": [
+            425.19,
+            302.34,
+            21.06,
+            21.16
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 159,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1480",
+          "id": "1480",
+          "name": "Freeform 162",
+          "bbox": [
+            354.92,
+            393.77,
+            39.22,
+            39.4
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.15)",
+          "lineWidth": 0
+        },
+        {
+          "order": 160,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1481",
+          "id": "1481",
+          "name": "Freeform 163",
+          "bbox": [
+            364.05,
+            402.94,
+            20.84,
+            21.05
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.15)",
+          "lineWidth": 0
+        },
+        {
+          "order": 161,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1482",
+          "id": "1482",
+          "name": "Freeform 164",
+          "bbox": [
+            346.33,
+            253.77,
+            18.8,
+            18.89
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 162,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1483",
+          "id": "1483",
+          "name": "Freeform 165",
+          "bbox": [
+            183.12,
+            321.77,
+            18.8,
+            18.89
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 163,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1484",
+          "id": "1484",
+          "name": "Freeform 166",
+          "bbox": [
+            239.85,
+            420.11,
+            18.8,
+            19
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 164,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1485",
+          "id": "1485",
+          "name": "Freeform 167",
+          "bbox": [
+            412.83,
+            192.79,
+            19.66,
+            19.65
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 165,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1486",
+          "id": "1486",
+          "name": "Freeform 168",
+          "bbox": [
+            516.3,
+            265.11,
+            19.12,
+            19.21
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 166,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1487",
+          "id": "1487",
+          "name": "Freeform 169",
+          "bbox": [
+            539.29,
+            193.65,
+            18.8,
+            18.89
+          ],
+          "geometry": "custom",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 3.9,
+              "right": 7.8,
+              "bottom": 3.9,
+              "left": 7.8
+            }
+          },
+          "fillColor": "rgba(69, 216, 255, 0.2)",
+          "lineWidth": 0
+        },
+        {
+          "order": 167,
+          "kind": "image",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout5.xml/1489",
+          "id": "1489",
+          "name": "图片 4",
+          "bbox": [
+            7.6,
+            3.77,
+            297.83,
+            119.33
+          ],
+          "contentType": "image/png",
+          "imageCrop": {
+            "left": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "asset": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 205301
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 205301
+          }
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "标题占位符 1",
+          "bbox": [
+            60.48,
+            28.76,
+            1088.7,
+            119.69
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版标题样式",
+          "textPreview": "单击此处编辑母版标题样式",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.51,
+              "right": 9.02,
+              "bottom": 4.51,
+              "left": 9.02
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版标题样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版标题样式"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "文本占位符 2",
+          "bbox": [
+            60.48,
+            167.57,
+            1088.7,
+            473.96
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版文本样式\n第二级\n第三级\n第四级\n第五级",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.51,
+              "right": 9.02,
+              "bottom": 4.51,
+              "left": 9.02
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版文本样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版文本样式"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "第二级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第二级"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "第三级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第三级"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "第四级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第四级"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "第五级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第五级"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "日期占位符 3",
+          "bbox": [
+            60.48,
+            665.63,
+            282.26,
+            38.24
+          ],
+          "geometry": "rect",
+          "text": "2020-07-08",
+          "textPreview": "2020-07-08",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.51,
+              "right": 9.02,
+              "bottom": 4.51,
+              "left": 9.02
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2020-07-08",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2020-07-08"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "页脚占位符 4",
+          "bbox": [
+            413.3,
+            665.63,
+            383.06,
+            38.24
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.51,
+              "right": 9.02,
+              "bottom": 4.51,
+              "left": 9.02
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            866.93,
+            665.63,
+            282.26,
+            38.24
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.51,
+              "right": 9.02,
+              "bottom": 4.51,
+              "left": 9.02
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cvixczed",
+      "id": "2",
+      "name": "TextBox 1",
+      "bbox": [
+        438.52,
+        203.16,
+        672.83,
+        112.89
+      ],
+      "geometry": "rect",
+      "text": "减少DTY破管数量",
+      "textPreview": "减少DTY破管数量",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "fontSize": 22.67,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 3.9,
+          "right": 7.8,
+          "bottom": 3.9,
+          "left": 7.8
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "减少DTY"
+          },
+          {
+            "index": 2,
+            "text": "破管数量"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "减少DTY破管数量",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "减少",
+              "fontSize": 86.67,
+              "typeface": "幼圆",
+              "color": "bg1"
+            },
+            {
+              "index": 2,
+              "text": "DTY",
+              "fontSize": 86.67,
+              "typeface": "幼圆",
+              "color": "bg1"
+            },
+            {
+              "index": 3,
+              "text": "破管数量",
+              "fontSize": 86.67,
+              "typeface": "幼圆",
+              "color": "bg1"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gbq1ory",
+      "id": "3",
+      "name": "直接连接符 2",
+      "bbox": [
+        476.32,
+        334.79,
+        612.35,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#009AC4",
+      "lineWidth": 7
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cj6tovah",
+      "id": "6",
+      "name": "文本框 459",
+      "bbox": [
+        650.19,
+        364.96,
+        438.47,
+        74.32
+      ],
+      "geometry": "rect",
+      "text": "ZCP05加弹车间",
+      "textPreview": "ZCP05加弹车间",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "fontSize": 32,
+        "typeface": "微软雅黑",
+        "color": "tx1",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ZCP05加弹车间"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ZCP05加弹车间",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ZCP05",
+              "fontSize": 53.33,
+              "typeface": "Arial",
+              "color": "#45D8FF"
+            },
+            {
+              "index": 2,
+              "text": "加弹车间",
+              "fontSize": 53.33,
+              "typeface": "+mn-ea",
+              "color": "#45D8FF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/54zidony",
+      "id": "7",
+      "name": "Text Box 60",
+      "bbox": [
+        855.42,
+        548.08,
+        233.24,
+        106.63
+      ],
+      "geometry": "rect",
+      "text": "汇报人：2020年6月",
+      "textPreview": "汇报人：2020年6月",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "fontSize": 22.67,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "汇报人："
+          },
+          {
+            "index": 2,
+            "text": "2020年6月"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "汇报人：2020年6月",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "汇报人：",
+              "fontSize": 40,
+              "typeface": "华文新魏",
+              "color": "bg1"
+            },
+            {
+              "index": 2,
+              "text": "2020",
+              "fontSize": 40,
+              "typeface": "华文新魏",
+              "color": "bg1"
+            },
+            {
+              "index": 3,
+              "text": "年",
+              "fontSize": 40,
+              "typeface": "华文新魏",
+              "color": "bg1"
+            },
+            {
+              "index": 4,
+              "text": "6",
+              "fontSize": 40,
+              "typeface": "华文新魏",
+              "color": "bg1"
+            },
+            {
+              "index": 5,
+              "text": "月",
+              "fontSize": 40,
+              "typeface": "华文新魏",
+              "color": "bg1"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 1
+    }
+  ],
+  "composeRuns": []
+}

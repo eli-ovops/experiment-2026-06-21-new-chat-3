@@ -1,0 +1,2134 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/mlkjm1cf",
+    "id": "mlkjm1cf",
+    "slide": 5,
+    "layoutId": "/ppt/slideLayouts/slideLayout4.xml",
+    "layoutName": "3_标题幻灯片",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1209.67,
+      "height": 718.17
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "宋体",
+      "幼圆",
+      "微软雅黑",
+      "方正舒体",
+      "黑体"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout4.xml",
+      "name": "3_标题幻灯片",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "image",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/13",
+          "id": "13",
+          "name": "Picture 2",
+          "bbox": [
+            0.01,
+            -0.01,
+            1216.04,
+            721.04
+          ],
+          "contentType": "image/png",
+          "imageCrop": {
+            "left": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "asset": {
+            "assetId": "/ppt/media/image3.png",
+            "contentType": "image/png",
+            "byteLength": 338438
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image3.png",
+            "contentType": "image/png",
+            "byteLength": 338438
+          }
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/3",
+          "id": "3",
+          "name": "直接连接符 2",
+          "bbox": [
+            1118.91,
+            86.93,
+            143.64,
+            0
+          ],
+          "geometry": "line",
+          "lineColor": "#009AC4",
+          "lineWidth": 3
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/4",
+          "id": "4",
+          "name": "直接连接符 3",
+          "bbox": [
+            -45.41,
+            86.93,
+            831.68,
+            0
+          ],
+          "geometry": "line",
+          "lineColor": "#009AC4",
+          "lineWidth": 3
+        },
+        {
+          "order": 4,
+          "kind": "image",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/14",
+          "id": "14",
+          "name": "图片 5",
+          "bbox": [
+            19.93,
+            3.77,
+            63.79,
+            98.28
+          ],
+          "rotation": 0,
+          "contentType": "image/png",
+          "imageCrop": {
+            "left": 0,
+            "top": 0,
+            "right": 0.71896,
+            "bottom": 0
+          },
+          "asset": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 205301
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 205301
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/8",
+          "id": "8",
+          "name": "TextBox 4",
+          "bbox": [
+            69.81,
+            18.63,
+            271.16,
+            37.16
+          ],
+          "rotation": 0,
+          "geometry": "rect",
+          "text": "桐乡市中维化纤有限公司",
+          "textPreview": "桐乡市中维化纤有限公司",
+          "resolvedTextStyle": {
+            "wrap": "none",
+            "autoFit": "resizeShapeToFitText"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "桐乡市中维化纤有限公司",
+              "spaceAfter": 0,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "桐乡市中维化纤有限公司",
+                  "fontSize": 22.67,
+                  "typeface": "宋体",
+                  "color": "bg1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/9",
+          "id": "9",
+          "name": "TextBox 6",
+          "bbox": [
+            73.98,
+            52.99,
+            553.54,
+            24.23
+          ],
+          "rotation": 0,
+          "geometry": "rect",
+          "text": "TONGXIANG ZHONGWEI CHEMICAL FIBER CO.,LTD.",
+          "textPreview": "TONGXIANG ZHONGWEI CHEMICAL FIBER CO.,LTD.",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "TONGXIANG ZHONGWEI CHEMICAL FIBER CO.,LTD.",
+              "spaceAfter": 0,
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "TONGXIANG ZHONGWEI CHEMICAL FIBER CO.,LTD.",
+                  "fontSize": 12,
+                  "typeface": "Calibri",
+                  "color": "bg1",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout4.xml/12",
+          "id": "12",
+          "name": "TextBox 11",
+          "bbox": [
+            1.14,
+            671.87,
+            1216.04,
+            50.08
+          ],
+          "geometry": "rect",
+          "text": "提供优质纤维       创造美好生活",
+          "textPreview": "提供优质纤维       创造美好生活",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "提供优质纤维       创造美好生活",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "提供优质纤维",
+                  "fontSize": 33.33,
+                  "typeface": "方正舒体",
+                  "color": {
+                    "type": "theme",
+                    "value": "tx2",
+                    "transform": {
+                      "lighten": 0.8
+                    }
+                  }
+                },
+                {
+                  "index": 2,
+                  "text": "       创造美好生活",
+                  "fontSize": 33.33,
+                  "typeface": "方正舒体",
+                  "color": {
+                    "type": "theme",
+                    "value": "tx2",
+                    "transform": {
+                      "lighten": 0.8
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "标题占位符 1",
+          "bbox": [
+            60.48,
+            28.76,
+            1088.7,
+            119.69
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版标题样式",
+          "textPreview": "单击此处编辑母版标题样式",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.51,
+              "right": 9.02,
+              "bottom": 4.51,
+              "left": 9.02
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版标题样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版标题样式"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "文本占位符 2",
+          "bbox": [
+            60.48,
+            167.57,
+            1088.7,
+            473.96
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版文本样式\n第二级\n第三级\n第四级\n第五级",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.51,
+              "right": 9.02,
+              "bottom": 4.51,
+              "left": 9.02
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版文本样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版文本样式"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "第二级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第二级"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "第三级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第三级"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "第四级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第四级"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "第五级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第五级"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "日期占位符 3",
+          "bbox": [
+            60.48,
+            665.63,
+            282.26,
+            38.24
+          ],
+          "geometry": "rect",
+          "text": "2020-07-08",
+          "textPreview": "2020-07-08",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.51,
+              "right": 9.02,
+              "bottom": 4.51,
+              "left": 9.02
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2020-07-08",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2020-07-08"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "页脚占位符 4",
+          "bbox": [
+            413.3,
+            665.63,
+            383.06,
+            38.24
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.51,
+              "right": 9.02,
+              "bottom": 4.51,
+              "left": 9.02
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            866.93,
+            665.63,
+            282.26,
+            38.24
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.51,
+              "right": 9.02,
+              "bottom": 4.51,
+              "left": 9.02
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "chart",
+      "scope": "slide",
+      "aid": "ch/qd4vmtwr",
+      "id": "185",
+      "name": "图表 12",
+      "bbox": [
+        195.86,
+        180.65,
+        346.93,
+        231.29
+      ],
+      "chartType": "pie"
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6dcbulwv",
+      "id": "8",
+      "name": "直接连接符 7",
+      "bbox": [
+        245.64,
+        266.86,
+        47.67,
+        26.37
+      ],
+      "horizontalFlip": true,
+      "verticalFlip": true,
+      "geometry": "line",
+      "lineColor": "bg1",
+      "lineWidth": 2
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/psfil0rq",
+      "id": "45",
+      "name": "直接连接符 44",
+      "bbox": [
+        216.65,
+        267.45,
+        29.77,
+        0
+      ],
+      "horizontalFlip": true,
+      "verticalFlip": true,
+      "geometry": "line",
+      "lineColor": "bg1",
+      "lineWidth": 2
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58z25kb6",
+      "id": "16",
+      "name": "TextBox 15",
+      "bbox": [
+        72.32,
+        183.11,
+        172.31,
+        37.17
+      ],
+      "geometry": "rect",
+      "text": "断头多:11.7%",
+      "textPreview": "断头多:11.7%",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "fontSize": 22.67,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "断头多:11.7%"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "断头多:11.7%",
+          "runs": [
+            {
+              "index": 1,
+              "text": "断头多",
+              "fontSize": 22.68,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": ":11.7%",
+              "fontSize": 22.68,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wfyxobm5",
+      "id": "48",
+      "name": "TextBox 47",
+      "bbox": [
+        33.2,
+        302.74,
+        199.48,
+        37.17
+      ],
+      "geometry": "rect",
+      "text": "染色不良:29.6%",
+      "textPreview": "染色不良:29.6%",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "fontSize": 22.67,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "染色不良:29.6%"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "染色不良:29.6%",
+          "runs": [
+            {
+              "index": 1,
+              "text": "染色不良",
+              "fontSize": 22.68,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": ":29.6%",
+              "fontSize": 22.68,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l0rqd4vm",
+      "id": "49",
+      "name": "直接连接符 48",
+      "bbox": [
+        274.4,
+        204.55,
+        44.62,
+        33.31
+      ],
+      "horizontalFlip": true,
+      "verticalFlip": true,
+      "geometry": "line",
+      "lineColor": "bg1",
+      "lineWidth": 2
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b2hwfyxo",
+      "id": "50",
+      "name": "直接连接符 49",
+      "bbox": [
+        244.63,
+        204.34,
+        29.77,
+        0
+      ],
+      "horizontalFlip": true,
+      "verticalFlip": true,
+      "geometry": "line",
+      "lineColor": "bg1",
+      "lineWidth": 2
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t83itgfm",
+      "id": "52",
+      "name": "直接连接符 51",
+      "bbox": [
+        453.64,
+        382.5,
+        29.77,
+        0
+      ],
+      "horizontalFlip": true,
+      "verticalFlip": true,
+      "geometry": "line",
+      "lineColor": "bg1",
+      "lineWidth": 2
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4nap4r65",
+      "id": "53",
+      "name": "TextBox 52",
+      "bbox": [
+        479.61,
+        360.97,
+        225.84,
+        38.71
+      ],
+      "geometry": "rect",
+      "text": "退绕不良:44.1%",
+      "textPreview": "退绕不良:44.1%",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "fontSize": 22.67,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "退绕不良:44.1%"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "退绕不良:44.1%",
+          "runs": [
+            {
+              "index": 1,
+              "text": "退绕不良",
+              "fontSize": 23.95,
+              "typeface": "黑体",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": ":44.1%",
+              "fontSize": 23.95,
+              "typeface": "黑体",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bq1oryts",
+      "id": "54",
+      "name": "直接连接符 53",
+      "bbox": [
+        249.99,
+        325.04,
+        36.1,
+        16.95
+      ],
+      "horizontalFlip": true,
+      "verticalFlip": true,
+      "geometry": "line",
+      "lineColor": "bg1",
+      "lineWidth": 2
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m58z25kb",
+      "id": "55",
+      "name": "TextBox 54",
+      "bbox": [
+        73.28,
+        245.58,
+        152.85,
+        37.17
+      ],
+      "geometry": "rect",
+      "text": "网差:11.7%",
+      "textPreview": "网差:11.7%",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "fontSize": 22.67,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "网差:11.7%"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "网差:11.7%",
+          "runs": [
+            {
+              "index": 1,
+              "text": "网差",
+              "fontSize": 22.68,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": ":11.7%",
+              "fontSize": 22.68,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/twra5gbq",
+      "id": "56",
+      "name": "直接连接符 55",
+      "bbox": [
+        361.83,
+        176.62,
+        2.86,
+        21.33
+      ],
+      "horizontalFlip": true,
+      "geometry": "line",
+      "lineColor": "bg1",
+      "lineWidth": 2
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1cfa9w3",
+      "id": "59",
+      "name": "TextBox 58",
+      "bbox": [
+        286.09,
+        140.89,
+        144.82,
+        37.17
+      ],
+      "geometry": "rect",
+      "text": "其他，2.9%",
+      "textPreview": "其他，2.9%",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "fontSize": 22.67,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "其他，2.9%"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "其他，2.9%",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "其他，",
+              "fontSize": 22.68,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "2.9%",
+              "fontSize": 22.68,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ovahoza1",
+      "id": "2",
+      "name": "矩形 1",
+      "bbox": [
+        105.88,
+        429.2,
+        441.64,
+        43.29
+      ],
+      "geometry": "rect",
+      "text": "2019年1-12月份客户使用不良反馈",
+      "textPreview": "2019年1-12月份客户使用不良反馈",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "fontSize": 22.67,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2019年1-12月份客户使用不良反馈"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2019年1-12月份客户使用不良反馈",
+          "runs": [
+            {
+              "index": 1,
+              "text": "2019",
+              "fontSize": 27.72,
+              "typeface": "黑体",
+              "color": "#99FFCC",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "年",
+              "fontSize": 27.72,
+              "typeface": "黑体",
+              "color": "#99FFCC",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "1-12",
+              "fontSize": 27.72,
+              "typeface": "黑体",
+              "color": "#99FFCC",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "月份客户使用不良反馈",
+              "fontSize": 27.72,
+              "typeface": "黑体",
+              "color": "#99FFCC",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/83itgfml",
+      "id": "186",
+      "name": "图片 5",
+      "bbox": [
+        362.92,
+        178.54,
+        141.66,
+        223.72
+      ],
+      "contentType": "image/png",
+      "imageCrop": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "asset": {
+        "assetId": "/ppt/media/image9.png",
+        "contentType": "image/png",
+        "byteLength": 9681
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image9.png",
+        "contentType": "image/png",
+        "byteLength": 9681
+      }
+    },
+    {
+      "order": 16,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/xobm58z2",
+      "id": "187",
+      "name": "图片 11",
+      "bbox": [
+        699.68,
+        176.62,
+        365.94,
+        238.32
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image10.png",
+        "contentType": "image/png",
+        "byteLength": 34097
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image10.png",
+        "contentType": "image/png",
+        "byteLength": 34097
+      }
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mhk3q5o7",
+      "id": "51",
+      "name": "直接连接符 50",
+      "bbox": [
+        415.84,
+        339.39,
+        39.09,
+        43.11
+      ],
+      "horizontalFlip": true,
+      "verticalFlip": true,
+      "geometry": "line",
+      "lineColor": "bg1",
+      "lineWidth": 2
+    },
+    {
+      "order": 18,
+      "kind": "chart",
+      "scope": "slide",
+      "aid": "ch/fmlkjm1c",
+      "id": "188",
+      "name": "图表 32",
+      "bbox": [
+        709.19,
+        176.62,
+        346.93,
+        237.77
+      ],
+      "chartType": "pie"
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lszqtcj6",
+      "id": "34",
+      "name": "直接连接符 33",
+      "bbox": [
+        954.35,
+        237.86,
+        36.75,
+        29.59
+      ],
+      "horizontalFlip": true,
+      "geometry": "line",
+      "lineColor": "bg1",
+      "lineWidth": 2
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s72x4nap",
+      "id": "35",
+      "name": "直接连接符 34",
+      "bbox": [
+        988.74,
+        238.13,
+        29.77,
+        0
+      ],
+      "horizontalFlip": true,
+      "verticalFlip": true,
+      "geometry": "line",
+      "lineColor": "bg1",
+      "lineWidth": 2
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3m94fu18",
+      "id": "36",
+      "name": "直接连接符 35",
+      "bbox": [
+        757.06,
+        280.04,
+        55.97,
+        33.89
+      ],
+      "horizontalFlip": true,
+      "geometry": "line",
+      "lineColor": "bg1",
+      "lineWidth": 2
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a5gbq1or",
+      "id": "37",
+      "name": "直接连接符 36",
+      "bbox": [
+        727.29,
+        313.72,
+        29.77,
+        0
+      ],
+      "horizontalFlip": true,
+      "geometry": "line",
+      "lineColor": "bg1",
+      "lineWidth": 2
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hoza1gvy",
+      "id": "38",
+      "name": "直接连接符 37",
+      "bbox": [
+        921.04,
+        177.54,
+        44.12,
+        45.85
+      ],
+      "horizontalFlip": true,
+      "geometry": "line",
+      "lineColor": "bg1",
+      "lineWidth": 2
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s36hcrmh",
+      "id": "39",
+      "name": "直接连接符 38",
+      "bbox": [
+        975.32,
+        330.31,
+        55.59,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "bg1",
+      "lineWidth": 2
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wval87ed",
+      "id": "40",
+      "name": "直接连接符 39",
+      "bbox": [
+        963.06,
+        282.23,
+        42.87,
+        26.57
+      ],
+      "horizontalFlip": true,
+      "geometry": "line",
+      "lineColor": "bg1",
+      "lineWidth": 2
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pg3ex0nu",
+      "id": "41",
+      "name": "直接连接符 40",
+      "bbox": [
+        1005.68,
+        281.58,
+        29.77,
+        0
+      ],
+      "horizontalFlip": true,
+      "verticalFlip": true,
+      "geometry": "line",
+      "lineColor": "bg1",
+      "lineWidth": 2
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e1w7mp0b",
+      "id": "46",
+      "name": "直接连接符 45",
+      "bbox": [
+        220.22,
+        325.04,
+        29.77,
+        0
+      ],
+      "horizontalFlip": true,
+      "verticalFlip": true,
+      "geometry": "line",
+      "lineColor": "bg1",
+      "lineWidth": 2
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7mp0bi9s",
+      "id": "47",
+      "name": "TextBox 46",
+      "bbox": [
+        536.79,
+        291.04,
+        201.27,
+        38.71
+      ],
+      "geometry": "rect",
+      "text": "纸管破管:63.2%",
+      "textPreview": "纸管破管:63.2%",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "fontSize": 22.67,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "纸管破管:63.2%"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "纸管破管:63.2%",
+          "runs": [
+            {
+              "index": 1,
+              "text": "纸管破管",
+              "fontSize": 23.95,
+              "typeface": "黑体",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": ":63.2%",
+              "fontSize": 23.95,
+              "typeface": "黑体",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4byhgn29",
+      "id": "57",
+      "name": "TextBox 56",
+      "bbox": [
+        991.09,
+        159.22,
+        203.41,
+        37.17
+      ],
+      "geometry": "rect",
+      "text": "废丝夹杂:19.3%",
+      "textPreview": "废丝夹杂:19.3%",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "fontSize": 22.67,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "废丝夹杂:19.3%"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "废丝夹杂:19.3%",
+          "runs": [
+            {
+              "index": 1,
+              "text": "废丝夹杂",
+              "fontSize": 22.68,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": ":19.3%",
+              "fontSize": 22.68,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bm58z25k",
+      "id": "58",
+      "name": "直接连接符 57",
+      "bbox": [
+        963.06,
+        177.66,
+        29.77,
+        0
+      ],
+      "horizontalFlip": true,
+      "verticalFlip": true,
+      "geometry": "line",
+      "lineColor": "bg1",
+      "lineWidth": 2
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q5o7qpg3",
+      "id": "60",
+      "name": "TextBox 59",
+      "bbox": [
+        1013.03,
+        219.76,
+        215.06,
+        37.17
+      ],
+      "geometry": "rect",
+      "text": "张力异常:7.5%",
+      "textPreview": "张力异常:7.5%",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "fontSize": 22.67,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "张力异常:7.5%"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "张力异常:7.5%",
+          "runs": [
+            {
+              "index": 1,
+              "text": "张力异常",
+              "fontSize": 22.68,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": ":7.5%",
+              "fontSize": 22.68,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jqh0fepk",
+      "id": "61",
+      "name": "TextBox 60",
+      "bbox": [
+        1030.91,
+        261.72,
+        144.57,
+        37.17
+      ],
+      "geometry": "rect",
+      "text": "碰毛:7.5%",
+      "textPreview": "碰毛:7.5%",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "fontSize": 22.67,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "碰毛:7.5%"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "碰毛:7.5%",
+          "runs": [
+            {
+              "index": 1,
+              "text": "碰毛",
+              "fontSize": 22.68,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": ":7.5%",
+              "fontSize": 22.68,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8bat47y1",
+      "id": "62",
+      "name": "TextBox 61",
+      "bbox": [
+        1013.11,
+        311.98,
+        144.75,
+        37.17
+      ],
+      "geometry": "rect",
+      "text": "其他:2.5%",
+      "textPreview": "其他:2.5%",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "fontSize": 22.67,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "其他:2.5%"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "其他:2.5%",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "其他",
+              "fontSize": 22.68,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": ":2.5%",
+              "fontSize": 22.68,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8nqxs72x",
+      "id": "66",
+      "name": "矩形 65",
+      "bbox": [
+        733.35,
+        429.2,
+        385.09,
+        43.29
+      ],
+      "geometry": "rect",
+      "text": "2019年客户退绕不良原因比例",
+      "textPreview": "2019年客户退绕不良原因比例",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "fontSize": 22.67,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2019年客户退绕不良原因比例"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2019年客户退绕不良原因比例",
+          "runs": [
+            {
+              "index": 1,
+              "text": "2019",
+              "fontSize": 27.72,
+              "typeface": "黑体",
+              "color": "#99FFCC",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "年客户退绕不良原因比例",
+              "fontSize": 27.72,
+              "typeface": "黑体",
+              "color": "#99FFCC",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3itgfmlk",
+      "id": "175",
+      "name": "文本框 176",
+      "bbox": [
+        786.27,
+        41.57,
+        332.64,
+        71.81
+      ],
+      "horizontalFlip": true,
+      "geometry": "rect",
+      "text": "2、课题选择",
+      "textPreview": "2、课题选择",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 22.67,
+        "typeface": "微软雅黑",
+        "color": "#45D8FF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 7.56,
+          "right": 9.6,
+          "bottom": 7.56,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2、课题选择"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2、课题选择",
+          "runs": [
+            {
+              "index": 1,
+              "text": "2",
+              "fontSize": 46.67,
+              "color": "bg1"
+            },
+            {
+              "index": 2,
+              "text": "、课题选择",
+              "fontSize": 46.67,
+              "color": "bg1"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lc7u54zi",
+      "id": "182",
+      "name": "MH_Text_1",
+      "bbox": [
+        173.92,
+        502.31,
+        874.38,
+        155.92
+      ],
+      "geometry": "rect",
+      "text": "    根据ZCP05 加弹2019年1-12月份客户使用不良反馈饼图中可以看出，DTY退绕不良反馈占比最大，达到了44.1%，成为最主要的质量问题之一，而反馈的退绕不良问题中，“纸管破管”占比最多，占总次数的63.2%。\n",
+      "textPreview": "根据ZCP05 加弹2019年1-12月份客户使用不良反馈饼图中可以看出，DTY退绕不良反馈占比最大，达到了44.1%，成为最主要的质量问题之一，而反馈的退绕不良问题中，“纸管破管”占比最多，占总次数的63.2%。 |",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22.67,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 9.13,
+          "bottom": 0,
+          "left": 9.13
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "    根据ZCP05 加弹2019年1-12月份客户使用不良反馈饼图中可以看出，"
+          },
+          {
+            "index": 2,
+            "text": "DTY退绕不良反馈占比最大，达到了44.1%"
+          },
+          {
+            "index": 3,
+            "text": "，成为最主要的质量问题之一，而反馈的退绕不良问题中，“纸管破管”占"
+          },
+          {
+            "index": 4,
+            "text": "比最多，占总次数的63.2%。"
+          },
+          {
+            "index": 5,
+            "text": ""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "    根据ZCP05 加弹2019年1-12月份客户使用不良反馈饼图中可以看出，DTY退绕不良反馈占比最大，达到了44.1%，成为最主要的质量问题之一，而反馈的退绕不良问题中，“纸管破管”占比最多，占总次数的63.2%。",
+          "lineSpacingPercent": 120000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "    ",
+              "fontSize": 26.67,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "根据",
+              "fontSize": 26.67,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "ZCP05 ",
+              "fontSize": 26.67,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "加弹",
+              "fontSize": 26.67,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 5,
+              "text": "2019",
+              "fontSize": 26.67,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 6,
+              "text": "年",
+              "fontSize": 26.67,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 7,
+              "text": "1-12",
+              "fontSize": 26.67,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 8,
+              "text": "月份客户使用不良反馈饼图中可以看出，",
+              "fontSize": 26.67,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 9,
+              "text": "DTY",
+              "fontSize": 26.67,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 10,
+              "text": "退绕不良反馈占比最大，达到了",
+              "fontSize": 26.67,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 11,
+              "text": "44.1%",
+              "fontSize": 26.67,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 12,
+              "text": "，成为最主要的质量问题之一，而反馈的退绕不良问题中，“纸管破管”占比最多，占总次数的",
+              "fontSize": 26.67,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 13,
+              "text": "63.2%",
+              "fontSize": 26.67,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 14,
+              "text": "。",
+              "fontSize": 26.67,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wra5gbq1",
+      "id": "183",
+      "name": "Rounded Rectangle 114",
+      "bbox": [
+        173.92,
+        487.6,
+        874.38,
+        142.39
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 22.67,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 8.88,
+          "right": 17.76,
+          "bottom": 8.88,
+          "left": 17.76
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "lineColor": "#6699FF",
+      "lineWidth": 2
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7u54zido",
+      "id": "184",
+      "name": "MH_Text_1",
+      "bbox": [
+        173.92,
+        521.98,
+        874.38,
+        155.92
+      ],
+      "geometry": "rect",
+      "text": "减少DTY破管数量",
+      "textPreview": "减少DTY破管数量",
+      "resolvedFontSize": 22.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22.67,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 9.13,
+          "bottom": 0,
+          "left": 9.13
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "减少DTY破管数量"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "减少DTY破管数量",
+          "lineSpacingPercent": 120000,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "减少",
+              "fontSize": 53.33,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "DTY",
+              "fontSize": 53.33,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "破管数量",
+              "fontSize": 53.33,
+              "typeface": "幼圆",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,1475 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/n8jdat",
+    "id": "n8jdat",
+    "slide": 6,
+    "layoutId": "b1185ac3-62be-4c1b-ae3d-85f699780300",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "ca8ec65b-ffd0-4138-8a73-2d35909f9ca7",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F4F6F8",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "b1185ac3-62be-4c1b-ae3d-85f699780300",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "ca8ec65b-ffd0-4138-8a73-2d35909f9ca7",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "ca8ec65b-ffd0-4138-8a73-2d35909f9ca7",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x4nap4r6",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        18,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#0A2742",
+      "lineColor": "#0A2742",
+      "lineWidth": 1
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qd4vmtwr",
+      "id": "2",
+      "bbox": [
+        18,
+        0,
+        5,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#0E9A9A",
+      "lineColor": "#0E9A9A",
+      "lineWidth": 1
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fyxobm58",
+      "id": "3",
+      "bbox": [
+        62,
+        36,
+        44,
+        22
+      ],
+      "geometry": "rect",
+      "text": "06",
+      "textPreview": "06",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Microsoft YaHei",
+        "color": "#0E9A9A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "06"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "06",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Microsoft YaHei",
+            "color": "#0E9A9A",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "06",
+              "fontSize": 14,
+              "typeface": "Microsoft YaHei",
+              "color": "#0E9A9A",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8v6psfil",
+      "id": "4",
+      "bbox": [
+        116,
+        36,
+        180,
+        22
+      ],
+      "geometry": "rect",
+      "text": "QCC成果报告",
+      "textPreview": "QCC成果报告",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "Microsoft YaHei",
+        "color": "#667386",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "QCC成果报告"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "QCC成果报告",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Microsoft YaHei",
+            "color": "#667386",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "QCC成果报告",
+              "fontSize": 13,
+              "typeface": "Microsoft YaHei",
+              "color": "#667386",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xczed8v6",
+      "id": "5",
+      "bbox": [
+        62,
+        72,
+        900,
+        48
+      ],
+      "geometry": "rect",
+      "text": "非要因排除：多项调整/试验均未解决",
+      "textPreview": "非要因排除：多项调整/试验均未解决",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Microsoft YaHei",
+        "color": "#102033",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "非要因排除：多项调整/试验均未解决"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "非要因排除：多项调整/试验均未解决",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Microsoft YaHei",
+            "color": "#102033",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "非要因排除：多项调整/试验均未解决",
+              "fontSize": 34,
+              "typeface": "Microsoft YaHei",
+              "color": "#102033",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpg3ex0n",
+      "id": "6",
+      "bbox": [
+        62,
+        130,
+        1156,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D8DEE8",
+      "lineColor": "#D8DEE8",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fa9w3m94",
+      "id": "7",
+      "bbox": [
+        62,
+        686,
+        520,
+        18
+      ],
+      "geometry": "rect",
+      "text": "长空之王QC小组｜提高55/72黑丝优等率",
+      "textPreview": "长空之王QC小组｜提高55/72黑丝优等率",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Microsoft YaHei",
+        "color": "#667386",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "长空之王QC小组｜提高55/72黑丝优等率"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "长空之王QC小组｜提高55/72黑丝优等率",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Microsoft YaHei",
+            "color": "#667386",
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "长空之王QC小组｜提高55/72黑丝优等率",
+              "fontSize": 11,
+              "typeface": "Microsoft YaHei",
+              "color": "#667386",
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8z25kb6x",
+      "id": "8",
+      "bbox": [
+        1178,
+        686,
+        40,
+        18
+      ],
+      "geometry": "rect",
+      "text": "06",
+      "textPreview": "06",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Microsoft YaHei",
+        "color": "#667386",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "06"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "06",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Microsoft YaHei",
+            "color": "#667386",
+            "alignment": "right",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "06",
+              "fontSize": 11,
+              "typeface": "Microsoft YaHei",
+              "color": "#667386",
+              "alignment": "right",
+              "lineSpacing": 1.08
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/cvixczed",
+      "id": "9",
+      "bbox": [
+        62,
+        150,
+        1156,
+        352
+      ],
+      "text": "时间/项目 | 尝试或变化内容 | 验证结果 | 结论定位\n5/9 POY来源 | 前纺CP5 12线POY上机 | 上机后即出现断头、C切及张力CV异常 | 现状起点，非要因\n5/12 换线生产 | 后续马上切换至前纺8线生产 | 换线后问题未得到根本解决 | 线别非主要要因\n5/16 油剂试验 | 进行竹本油剂试验 | 改善无明显效果 | 油剂品种试验非要因\n二罗拉速度 | 650m/min降至620m/min | 无明显效果 | DTY端前期尝试\n张力CV报警阈值 | 报警阈值调至8；瞬间最高约20 | 无明显效果 | 异常现象/排查\n冷却板 | 调整部分锭位冷却板 | 无明显效果 | DTY端前期尝试\nDTY端油相关排查 | 油轮、导丝器等早期排查 | 不作为要因 | 排除项",
+      "textPreview": "时间/项目 | 尝试或变化内容 | 验证结果 | 结论定位 | 5/9 POY来源 | 前纺CP5 12线POY上机 | 上机后即出现断头、C切及张力CV异常 | 现状起点，非要因 | 5/12 换线生产 | 后续马上切换至前纺8线生产 | 换线后问题未得到根本解决 | 线...",
+      "rows": 8,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            62,
+            150,
+            289,
+            44
+          ],
+          "text": "时间/项目",
+          "textPreview": "时间/项目",
+          "fillColor": "#B9403A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "时间/项目",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "时间/项目"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            351,
+            150,
+            289,
+            44
+          ],
+          "text": "尝试或变化内容",
+          "textPreview": "尝试或变化内容",
+          "fillColor": "#B9403A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "尝试或变化内容",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "尝试或变化内容"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            640,
+            150,
+            289,
+            44
+          ],
+          "text": "验证结果",
+          "textPreview": "验证结果",
+          "fillColor": "#B9403A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "验证结果",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "验证结果"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            929,
+            150,
+            289,
+            44
+          ],
+          "text": "结论定位",
+          "textPreview": "结论定位",
+          "fillColor": "#B9403A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "结论定位",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "结论定位"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            62,
+            194,
+            289,
+            44
+          ],
+          "text": "5/9 POY来源",
+          "textPreview": "5/9 POY来源",
+          "fillColor": "#FFF3DA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5/9 POY来源",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5/9 POY来源"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            351,
+            194,
+            289,
+            44
+          ],
+          "text": "前纺CP5 12线POY上机",
+          "textPreview": "前纺CP5 12线POY上机",
+          "fillColor": "#FFF3DA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "前纺CP5 12线POY上机",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "前纺CP5 12线POY上机"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            640,
+            194,
+            289,
+            44
+          ],
+          "text": "上机后即出现断头、C切及张力CV异常",
+          "textPreview": "上机后即出现断头、C切及张力CV异常",
+          "fillColor": "#FFF3DA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "上机后即出现断头、C切及张力CV异常",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "上机后即出现断头、C切及张力CV异常"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            929,
+            194,
+            289,
+            44
+          ],
+          "text": "现状起点，非要因",
+          "textPreview": "现状起点，非要因",
+          "fillColor": "#F9E3E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "现状起点，非要因",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "现状起点，非要因"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            62,
+            238,
+            289,
+            44
+          ],
+          "text": "5/12 换线生产",
+          "textPreview": "5/12 换线生产",
+          "fillColor": "#FFF3DA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5/12 换线生产",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5/12 换线生产"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            351,
+            238,
+            289,
+            44
+          ],
+          "text": "后续马上切换至前纺8线生产",
+          "textPreview": "后续马上切换至前纺8线生产",
+          "fillColor": "#FFF3DA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "后续马上切换至前纺8线生产",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "后续马上切换至前纺8线生产"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            640,
+            238,
+            289,
+            44
+          ],
+          "text": "换线后问题未得到根本解决",
+          "textPreview": "换线后问题未得到根本解决",
+          "fillColor": "#FFF3DA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "换线后问题未得到根本解决",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "换线后问题未得到根本解决"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            929,
+            238,
+            289,
+            44
+          ],
+          "text": "线别非主要要因",
+          "textPreview": "线别非主要要因",
+          "fillColor": "#F9E3E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "线别非主要要因",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "线别非主要要因"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            62,
+            282,
+            289,
+            44
+          ],
+          "text": "5/16 油剂试验",
+          "textPreview": "5/16 油剂试验",
+          "fillColor": "#FFF3DA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5/16 油剂试验",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5/16 油剂试验"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            351,
+            282,
+            289,
+            44
+          ],
+          "text": "进行竹本油剂试验",
+          "textPreview": "进行竹本油剂试验",
+          "fillColor": "#FFF3DA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "进行竹本油剂试验",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "进行竹本油剂试验"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            640,
+            282,
+            289,
+            44
+          ],
+          "text": "改善无明显效果",
+          "textPreview": "改善无明显效果",
+          "fillColor": "#FFF3DA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "改善无明显效果",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "改善无明显效果"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            929,
+            282,
+            289,
+            44
+          ],
+          "text": "油剂品种试验非要因",
+          "textPreview": "油剂品种试验非要因",
+          "fillColor": "#F9E3E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "油剂品种试验非要因",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "油剂品种试验非要因"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            62,
+            326,
+            289,
+            44
+          ],
+          "text": "二罗拉速度",
+          "textPreview": "二罗拉速度",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "二罗拉速度",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "二罗拉速度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            351,
+            326,
+            289,
+            44
+          ],
+          "text": "650m/min降至620m/min",
+          "textPreview": "650m/min降至620m/min",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "650m/min降至620m/min",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "650m/min降至620m/min"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            640,
+            326,
+            289,
+            44
+          ],
+          "text": "无明显效果",
+          "textPreview": "无明显效果",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "无明显效果",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "无明显效果"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            929,
+            326,
+            289,
+            44
+          ],
+          "text": "DTY端前期尝试",
+          "textPreview": "DTY端前期尝试",
+          "fillColor": "#F9E3E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "DTY端前期尝试",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "DTY端前期尝试"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            62,
+            370,
+            289,
+            44
+          ],
+          "text": "张力CV报警阈值",
+          "textPreview": "张力CV报警阈值",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "张力CV报警阈值",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "张力CV报警阈值"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            351,
+            370,
+            289,
+            44
+          ],
+          "text": "报警阈值调至8；瞬间最高约20",
+          "textPreview": "报警阈值调至8；瞬间最高约20",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "报警阈值调至8；瞬间最高约20",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "报警阈值调至8；瞬间最高约20"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            640,
+            370,
+            289,
+            44
+          ],
+          "text": "无明显效果",
+          "textPreview": "无明显效果",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "无明显效果",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "无明显效果"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            929,
+            370,
+            289,
+            44
+          ],
+          "text": "异常现象/排查",
+          "textPreview": "异常现象/排查",
+          "fillColor": "#F9E3E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "异常现象/排查",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "异常现象/排查"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            62,
+            414,
+            289,
+            44
+          ],
+          "text": "冷却板",
+          "textPreview": "冷却板",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "冷却板",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "冷却板"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            351,
+            414,
+            289,
+            44
+          ],
+          "text": "调整部分锭位冷却板",
+          "textPreview": "调整部分锭位冷却板",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "调整部分锭位冷却板",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "调整部分锭位冷却板"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            640,
+            414,
+            289,
+            44
+          ],
+          "text": "无明显效果",
+          "textPreview": "无明显效果",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "无明显效果",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "无明显效果"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 7,
+          "column": 4,
+          "bbox": [
+            929,
+            414,
+            289,
+            44
+          ],
+          "text": "DTY端前期尝试",
+          "textPreview": "DTY端前期尝试",
+          "fillColor": "#F9E3E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "DTY端前期尝试",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "DTY端前期尝试"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 29,
+          "row": 8,
+          "column": 1,
+          "bbox": [
+            62,
+            458,
+            289,
+            44
+          ],
+          "text": "DTY端油相关排查",
+          "textPreview": "DTY端油相关排查",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "DTY端油相关排查",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "DTY端油相关排查"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "row": 8,
+          "column": 2,
+          "bbox": [
+            351,
+            458,
+            289,
+            44
+          ],
+          "text": "油轮、导丝器等早期排查",
+          "textPreview": "油轮、导丝器等早期排查",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "油轮、导丝器等早期排查",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "油轮、导丝器等早期排查"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 31,
+          "row": 8,
+          "column": 3,
+          "bbox": [
+            640,
+            458,
+            289,
+            44
+          ],
+          "text": "不作为要因",
+          "textPreview": "不作为要因",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "不作为要因",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "不作为要因"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "row": 8,
+          "column": 4,
+          "bbox": [
+            929,
+            458,
+            289,
+            44
+          ],
+          "text": "排除项",
+          "textPreview": "排除项",
+          "fillColor": "#F9E3E0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "排除项",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "排除项"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pg3ex0nu",
+      "id": "10",
+      "bbox": [
+        62,
+        532,
+        1156,
+        64
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFF3DA",
+      "lineColor": "#D99116",
+      "lineWidth": 1
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wval87ed",
+      "id": "11",
+      "bbox": [
+        86,
+        553,
+        70,
+        22
+      ],
+      "geometry": "rect",
+      "text": "边界",
+      "textPreview": "边界",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Microsoft YaHei",
+        "color": "#D99116",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "边界"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "边界",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft YaHei",
+            "color": "#D99116",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "边界",
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#D99116",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7adsji5s",
+      "id": "12",
+      "bbox": [
+        160,
+        551,
+        900,
+        24
+      ],
+      "geometry": "rect",
+      "text": "CP5 12线、8线切换、竹本油剂试验及DTY端调整均归为非要因；最终转向POY含油率控制不足。",
+      "textPreview": "CP5 12线、8线切换、竹本油剂试验及DTY端调整均归为非要因；最终转向POY含油率控制不足。",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Microsoft YaHei",
+        "color": "#102033",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CP5 12线、8线切换、竹本油剂试验及DTY端调整均归为非要因；最终转向POY含油率控制不足。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CP5 12线、8线切换、竹本油剂试验及DTY端调整均归为非要因；最终转向POY含油率控制不足。",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Microsoft YaHei",
+            "color": "#102033",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CP5 12线、8线切换、竹本油剂试验及DTY端调整均归为非要因；最终转向POY含油率控制不足。",
+              "fontSize": 19,
+              "typeface": "Microsoft YaHei",
+              "color": "#102033",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

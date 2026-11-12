@@ -1,0 +1,18 @@
+Sources used:
+- Longkongzhiwang QC project handoff markdown: project facts, data, final cause, forbidden wording, suggested PPT structure.
+- Problem-solving QCC case PDF: QCC report sequence and formal presentation conventions.
+- XFM03-QC(2022A)-16 management policy PDF: QC reward/evaluation context.
+- XFM03-QC(2022B)-32 implementation rules PDF: SMART objective, 5W1H countermeasure, at least one month effect validation, standardization requirements, scoring criteria.
+
+Delivery decision:
+- User confirmed PPTX output format.
+- Final artifact should be a local PowerPoint deck only.
+
+Known data limits:
+- No daily or batch-by-batch superior-grade rate data was provided.
+- The deck must not invent an improved superior-grade rate.
+- Use head breakage and C-cut target completion as support for improving the superior-grade rate to 85%+.
+
+Non-negotiable content rule:
+- Final cause is POY oil-agent control insufficiency causing low POY yarn oil content.
+- DTY-side speed, tension CV alarm threshold, cooling plate, oil wheel and guide checks are early failed attempts only.

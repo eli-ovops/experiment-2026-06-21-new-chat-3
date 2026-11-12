@@ -1,0 +1,1433 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/61032lsz",
+    "id": "61032lsz",
+    "slide": 25,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "5_标题和内容",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1350,
+      "height": 759.33
+    }
+  },
+  "theme": {
+    "colorSchemeName": "自定义 360",
+    "colors": {
+      "accent1": "#02994F",
+      "accent2": "#92D050",
+      "accent3": "#02994F",
+      "accent4": "#92D050",
+      "accent5": "#02994F",
+      "accent6": "#92D050",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#02994F",
+      "folHlink": "#92D050"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "+mn-ea",
+      "Calibri",
+      "Calibri Light",
+      "华文新魏",
+      "华文行楷"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "5_标题和内容",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "标题占位符 1",
+          "bbox": [
+            92.83,
+            40.5,
+            1164.33,
+            146.67
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版标题样式",
+          "textPreview": "单击此处编辑母版标题样式",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版标题样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版标题样式"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "文本占位符 2",
+          "bbox": [
+            92.83,
+            202.17,
+            1164.33,
+            481.83
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版文本样式\n第二级\n第三级\n第四级\n第五级",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版文本样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版文本样式"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "第二级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第二级"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "第三级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第三级"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "第四级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第四级"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "第五级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第五级"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "日期占位符 3",
+          "bbox": [
+            92.83,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "2021-04-13",
+          "textPreview": "2021-04-13",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2021-04-13",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2021-04-13"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "页脚占位符 4",
+          "bbox": [
+            447.17,
+            703.83,
+            455.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            953.5,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "kind": "image",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/10",
+          "id": "10",
+          "name": "图片 6",
+          "bbox": [
+            -0.18,
+            1.67,
+            221.53,
+            83.16
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 56029
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 56029
+          }
+        },
+        {
+          "order": 7,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/9",
+          "id": "9",
+          "name": "TextBox 8",
+          "bbox": [
+            0,
+            715.66,
+            1350,
+            42.01
+          ],
+          "geometry": "rect",
+          "text": "提供优质纤维         创造美好生活",
+          "textPreview": "提供优质纤维         创造美好生活",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "提供优质纤维         创造美好生活",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "提供优质纤维         创造美好生活",
+                  "fontSize": 26.67,
+                  "typeface": "华文行楷"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yd0z6103",
+      "id": "11",
+      "name": "矩形 10",
+      "bbox": [
+        70.21,
+        183.11,
+        566.99,
+        58.77
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "   "
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "lineSpacingPercent": 150000,
+          "spaceBefore": 0,
+          "spaceAfter": 0,
+          "runs": [
+            {
+              "index": 1,
+              "text": "   ",
+              "fontSize": 32,
+              "typeface": "+mn-ea"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rmhk3q5o",
+      "id": "14",
+      "name": "矩形 13",
+      "bbox": [
+        469.67,
+        108.85,
+        454.81,
+        96.94
+      ],
+      "geometry": "rect",
+      "text": "安装顺序：拆下原来75mm的无风区板，换上新的5mm石棉垫+25mm石膏板+乌硅板。",
+      "textPreview": "安装顺序：拆下原来75mm的无风区板，换上新的5mm石棉垫+25mm石膏板+乌硅板。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "安装顺序：拆下原来75mm"
+          },
+          {
+            "index": 2,
+            "text": "的无风区板，换上新的5mm石棉垫"
+          },
+          {
+            "index": 3,
+            "text": "+25mm石膏板+乌硅板。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "安装顺序：拆下原来75mm的无风区板，换上新的5mm石棉垫+25mm石膏板+乌硅板。",
+          "lineSpacingPercent": 150000,
+          "spaceBefore": 0,
+          "spaceAfter": 0,
+          "runs": [
+            {
+              "index": 1,
+              "text": "安装顺序：拆下原来",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 2,
+              "text": "75mm",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 3,
+              "text": "的无风区板，换上新的",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 4,
+              "text": "5mm",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 5,
+              "text": "石棉垫",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 6,
+              "text": "+25mm",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 7,
+              "text": "石膏板",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 8,
+              "text": "+",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 9,
+              "text": "乌硅板。",
+              "typeface": "+mn-ea"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": {
+        "type": "theme",
+        "value": "bg1",
+        "transform": {
+          "darken": 0.05
+        }
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ixczed8v",
+      "id": "8",
+      "name": "矩形 1",
+      "bbox": [
+        946.91,
+        154.06,
+        357.98,
+        459.65
+      ],
+      "rotation": 25,
+      "geometry": "custom",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "accent1",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bi9s36hc",
+      "id": "9",
+      "name": "矩形 8",
+      "bbox": [
+        970.74,
+        124.03,
+        331.17,
+        459.98
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "accent2",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yxobm58z",
+      "id": "19",
+      "name": "矩形 1",
+      "bbox": [
+        83.57,
+        176.55,
+        348.2,
+        437.5
+      ],
+      "rotation": 22.03,
+      "geometry": "custom",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "accent1",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/61032lsz",
+      "id": "20",
+      "name": "矩形 19",
+      "bbox": [
+        82.35,
+        178.32,
+        320.5,
+        458.38
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "accent2",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/il0rqd4v",
+      "id": "4",
+      "name": "TextBox 3",
+      "bbox": [
+        160.93,
+        589.73,
+        154.86,
+        42.01
+      ],
+      "geometry": "rect",
+      "text": "更换前深度",
+      "textPreview": "更换前深度",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "更换前深度"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "更换前深度",
+          "runs": [
+            {
+              "index": 1,
+              "text": "更换",
+              "fontSize": 26.67,
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "前深度",
+              "fontSize": 26.67,
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vy90je9c",
+      "id": "25",
+      "name": "TextBox 24",
+      "bbox": [
+        1052.99,
+        539.62,
+        154.86,
+        42.01
+      ],
+      "geometry": "rect",
+      "text": "更换后深度",
+      "textPreview": "更换后深度",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "更换后深度"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "更换后深度",
+          "runs": [
+            {
+              "index": 1,
+              "text": "更换后深度",
+              "fontSize": 26.67,
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y1kre1w7",
+      "id": "15",
+      "name": "Rectangle 3",
+      "bbox": [
+        0,
+        20.28,
+        1350,
+        53.1
+      ],
+      "geometry": "rect",
+      "text": "对策实施",
+      "textPreview": "对策实施",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "对策实施"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "对策实施",
+          "lineSpacingPercent": 90000,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "对策实施",
+              "fontSize": 42.67,
+              "typeface": "华文新魏",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9s36hcrm",
+      "id": "16",
+      "name": "TextBox 15",
+      "bbox": [
+        92.89,
+        106.53,
+        291.88,
+        54.93
+      ],
+      "geometry": "rect",
+      "text": "2、无风区太深",
+      "textPreview": "2、无风区太深",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2、无风区太深"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2、无风区太深",
+          "runs": [
+            {
+              "index": 1,
+              "text": "2",
+              "fontSize": 37.33,
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "、无风区太深",
+              "fontSize": 37.33,
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#00B0F0"
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b6xkf6dc",
+      "id": "5",
+      "name": "TextBox 4",
+      "bbox": [
+        486,
+        269.28,
+        355.32,
+        96.94
+      ],
+      "geometry": "rect",
+      "text": "无风区板安装完成后测量方式\n每个无风区孔深度保持一致\n深度要求：35mm±0.5mm",
+      "textPreview": "无风区板安装完成后测量方式 | 每个无风区孔深度保持一致 | 深度要求：35mm±0.5mm",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "无风区板安装完成后测量方式"
+          },
+          {
+            "index": 2,
+            "text": "每个无风区孔深度保持一致"
+          },
+          {
+            "index": 3,
+            "text": "深度要求：35mm±0.5mm"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "无风区板安装完成后测量方式",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "无风区板安装完成后测量方式",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "每个无风区孔深度保持一致",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "每个无风区孔深度保持一致",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "深度要求：35mm±0.5mm",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "深度",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "要求：",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "35mm±0.5mm",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": {
+        "type": "theme",
+        "value": "accent5",
+        "transform": {
+          "lighten": 0.8
+        }
+      }
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0rqd4vmt",
+      "id": "6",
+      "name": "TextBox 5",
+      "bbox": [
+        463.32,
+        453.68,
+        394.46,
+        213.26
+      ],
+      "geometry": "rect",
+      "text": "科普一下\n为什么无风区深度65毫米，实际测量确实35毫米左右呢，因为风筒有效出风上限到无风区乌硅板的距离为30毫米左右，这也是无风区的一部分，所以我们实际测量的无风区深度是35mm=65mm-30mm",
+      "textPreview": "科普一下 | 为什么无风区深度65毫米，实际测量确实35毫米左右呢，因为风筒有效出风上限到无风区乌硅板的距离为30毫米左右，这也是无风区的一部分，所以我们实际测量的无风区深度是35mm=65mm-30mm",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 8,
+        "lines": [
+          {
+            "index": 1,
+            "text": "科普一下"
+          },
+          {
+            "index": 2,
+            "text": "为什么无风区深度65"
+          },
+          {
+            "index": 3,
+            "text": "毫米，实际测量确实35"
+          },
+          {
+            "index": 4,
+            "text": "毫米左右呢，因为风筒有效出风上"
+          },
+          {
+            "index": 5,
+            "text": "限到无风区乌硅板的距离为30"
+          },
+          {
+            "index": 6,
+            "text": "毫米左右，这也是无风区的一部分"
+          },
+          {
+            "index": 7,
+            "text": "，所以我们实际测量的无风区深度"
+          },
+          {
+            "index": 8,
+            "text": "是35mm=65mm-30mm"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "科普一下",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "科普一下",
+              "color": "#FF0000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "为什么无风区深度65毫米，实际测量确实35毫米左右呢，因为风筒有效出风上限到无风区乌硅板的距离为30毫米左右，这也是无风区的一部分，所以我们实际测量的无风区深度是35mm=65mm-30mm",
+          "runs": [
+            {
+              "index": 1,
+              "text": "为什么无风区深度"
+            },
+            {
+              "index": 2,
+              "text": "65"
+            },
+            {
+              "index": 3,
+              "text": "毫米，实际测量确实"
+            },
+            {
+              "index": 4,
+              "text": "35"
+            },
+            {
+              "index": 5,
+              "text": "毫米左右呢，因为风筒有效出风上限到无风区乌硅板的距离为"
+            },
+            {
+              "index": 6,
+              "text": "30"
+            },
+            {
+              "index": 7,
+              "text": "毫米左右，这也是无风区的一部分，所以我们实际测量的无风区深度是"
+            },
+            {
+              "index": 8,
+              "text": "35mm=65mm-30mm"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFF00"
+    },
+    {
+      "order": 13,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/fu18jqh0",
+      "id": "53",
+      "name": "图片 6",
+      "bbox": [
+        82.35,
+        178.14,
+        320.5,
+        408.73
+      ],
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0.38162,
+        "top": 0.23484,
+        "right": 0.31164,
+        "bottom": 0.46333
+      },
+      "asset": {
+        "assetId": "/ppt/media/image24.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 1471356
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image24.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 1471356
+      }
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g7adsji5",
+      "id": "17",
+      "name": "直接连接符 16",
+      "bbox": [
+        130.69,
+        514.45,
+        151.2,
+        26.47
+      ],
+      "geometry": "line",
+      "lineColor": "#FF0000",
+      "lineWidth": 4
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d4vmtwra",
+      "id": "27",
+      "name": "直接连接符 26",
+      "bbox": [
+        130.69,
+        269.28,
+        45.36,
+        246.46
+      ],
+      "horizontalFlip": true,
+      "geometry": "line",
+      "lineColor": "#FF0000",
+      "lineWidth": 4
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/at47y1kr",
+      "id": "37",
+      "name": "TextBox 36",
+      "bbox": [
+        175.98,
+        538.13,
+        102.02,
+        38.78
+      ],
+      "rotation": 10,
+      "geometry": "rect",
+      "text": "45.5mm",
+      "textPreview": "45.5mm",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "45.5mm"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "45.5mm",
+          "runs": [
+            {
+              "index": 1,
+              "text": "45.5mm",
+              "color": "#FF0000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "bg1"
+    },
+    {
+      "order": 17,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/83itgfml",
+      "id": "54",
+      "name": "图片 38",
+      "bbox": [
+        970.74,
+        124.14,
+        331.73,
+        405.43
+      ],
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0.28976,
+        "top": 0,
+        "right": 0.06963,
+        "bottom": 0.40783
+      },
+      "asset": {
+        "assetId": "/ppt/media/image25.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 365520
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image25.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 365520
+      }
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0fepkzup",
+      "id": "40",
+      "name": "直接连接符 39",
+      "bbox": [
+        1048.33,
+        372.11,
+        151.2,
+        9.35
+      ],
+      "verticalFlip": true,
+      "geometry": "line",
+      "lineColor": "#FF0000",
+      "lineWidth": 4
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0bi9s36",
+      "id": "41",
+      "name": "直接连接符 40",
+      "bbox": [
+        1030.32,
+        215.35,
+        18.01,
+        167.16
+      ],
+      "geometry": "line",
+      "lineColor": "#FF0000",
+      "lineWidth": 4
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1cfa9w3m",
+      "id": "52",
+      "name": "TextBox 51",
+      "bbox": [
+        1101.09,
+        382.72,
+        102.02,
+        38.78
+      ],
+      "rotation": 356.53,
+      "geometry": "rect",
+      "text": "35.5mm",
+      "textPreview": "35.5mm",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "35.5mm"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "35.5mm",
+          "runs": [
+            {
+              "index": 1,
+              "text": "3",
+              "color": "#FF0000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "5.5mm",
+              "color": "#FF0000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "bg1"
+    }
+  ],
+  "composeRuns": []
+}

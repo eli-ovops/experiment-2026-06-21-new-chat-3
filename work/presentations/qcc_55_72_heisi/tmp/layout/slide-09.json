@@ -1,0 +1,972 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/bn5g3a",
+    "id": "bn5g3a",
+    "slide": 9,
+    "layoutId": "e04a6690-e229-4c02-9769-4a86552dc366",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "43e65835-90b8-4915-81d6-fb8cc23861cd",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F7F9FC",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "e04a6690-e229-4c02-9769-4a86552dc366",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "43e65835-90b8-4915-81d6-fb8cc23861cd",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "43e65835-90b8-4915-81d6-fb8cc23861cd",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qd4vmtwr",
+      "id": "1",
+      "bbox": [
+        58,
+        30,
+        46,
+        28
+      ],
+      "geometry": "rect",
+      "text": "09",
+      "textPreview": "09",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#28A6C7",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "09",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#28A6C7",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.12
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "09",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#28A6C7",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.12
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x4nap4r6",
+      "id": "2",
+      "bbox": [
+        108,
+        30,
+        180,
+        28
+      ],
+      "geometry": "rect",
+      "text": "QCC成果报告",
+      "textPreview": "QCC成果报告",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Microsoft YaHei",
+        "color": "#5B677A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "QCC成果报告"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "QCC成果报告",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Microsoft YaHei",
+            "color": "#5B677A",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.12
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "QCC成果报告",
+              "fontSize": 14,
+              "typeface": "Microsoft YaHei",
+              "color": "#5B677A",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.12
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8jqh0fep",
+      "id": "3",
+      "bbox": [
+        58,
+        62,
+        850,
+        48
+      ],
+      "geometry": "rect",
+      "text": "制定对策：5W1H闭环",
+      "textPreview": "制定对策：5W1H闭环",
+      "resolvedFontSize": 36,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 36,
+        "typeface": "Microsoft YaHei",
+        "color": "#102033",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "制定对策：5W1H闭环"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "制定对策：5W1H闭环",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 36,
+            "typeface": "Microsoft YaHei",
+            "color": "#102033",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.12
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "制定对策：5W1H闭环",
+              "fontSize": 36,
+              "typeface": "Microsoft YaHei",
+              "color": "#102033",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.12
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fa9w3m94",
+      "id": "4",
+      "bbox": [
+        58,
+        118,
+        1164,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#D4DAE3",
+      "lineWidth": 1
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpg3ex0n",
+      "id": "5",
+      "bbox": [
+        58,
+        682,
+        520,
+        22
+      ],
+      "geometry": "rect",
+      "text": "长空之王QC小组｜提高55/72黑丝优等率",
+      "textPreview": "长空之王QC小组｜提高55/72黑丝优等率",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "color": "#5B677A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "长空之王QC小组｜提高55/72黑丝优等率"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "长空之王QC小组｜提高55/72黑丝优等率",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Microsoft YaHei",
+            "color": "#5B677A",
+            "alignment": "left",
+            "lineSpacing": 1.12
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "长空之王QC小组｜提高55/72黑丝优等率",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#5B677A",
+              "alignment": "left",
+              "lineSpacing": 1.12
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xczed8v6",
+      "id": "6",
+      "bbox": [
+        1172,
+        682,
+        50,
+        22
+      ],
+      "geometry": "rect",
+      "text": "09",
+      "textPreview": "09",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 12,
+        "typeface": "Microsoft YaHei",
+        "color": "#5B677A",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "09",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Microsoft YaHei",
+            "color": "#5B677A",
+            "alignment": "right",
+            "lineSpacing": 1.12
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "09",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#5B677A",
+              "alignment": "right",
+              "lineSpacing": 1.12
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/pkzupwb2",
+      "id": "7",
+      "bbox": [
+        58,
+        150,
+        1164,
+        390
+      ],
+      "text": "5W1H | 本项目对策\nWhat | 优化55/72黑丝配套POY油剂控制，提高POY原丝含油率稳定性。\nWhy | 控制断头≤90个/日、C切≤50个/日，为优等率提升至85%以上提供支撑。\nWho | 前纺工艺、DTY工艺、质量、QC小组成员协同负责。\nWhere | 前道POY工序及10#机DTY 55/72黑丝验证现场。\nWhen | 5月19日0.55%打样，5月21日0.60%打样，5月25日0.60%整体执行。\nHow | 取样检测POY含油率；优化油剂添加控制；上机验证断头、C切、张力CV；固化控制标准。",
+      "textPreview": "5W1H | 本项目对策 | What | 优化55/72黑丝配套POY油剂控制，提高POY原丝含油率稳定性。 | Why | 控制断头≤90个/日、C切≤50个/日，为优等率提升至85%以上提供支撑。 | Who | 前纺工艺、DTY工艺、质量、QC小组成员协同负责。 |...",
+      "rows": 7,
+      "cols": 2,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            58,
+            150,
+            582,
+            55.71
+          ],
+          "text": "5W1H",
+          "textPreview": "5W1H",
+          "fillColor": "#2B6CB0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5W1H",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5W1H"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            640,
+            150,
+            582,
+            55.71
+          ],
+          "text": "本项目对策",
+          "textPreview": "本项目对策",
+          "fillColor": "#2B6CB0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "本项目对策",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "本项目对策"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            58,
+            205.71,
+            582,
+            55.71
+          ],
+          "text": "What",
+          "textPreview": "What",
+          "fillColor": "#F2F5F8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "What",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "What"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            640,
+            205.71,
+            582,
+            55.71
+          ],
+          "text": "优化55/72黑丝配套POY油剂控制，提高POY原丝含油率稳定性。",
+          "textPreview": "优化55/72黑丝配套POY油剂控制，提高POY原丝含油率稳定性。",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "优化55/72黑丝配套POY油剂控制，提高POY原丝含油率稳定性。",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "优化55/72黑丝配套POY油剂控制，提高POY原丝含油率稳定性。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            58,
+            261.43,
+            582,
+            55.71
+          ],
+          "text": "Why",
+          "textPreview": "Why",
+          "fillColor": "#F2F5F8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Why",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Why"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            640,
+            261.43,
+            582,
+            55.71
+          ],
+          "text": "控制断头≤90个/日、C切≤50个/日，为优等率提升至85%以上提供支撑。",
+          "textPreview": "控制断头≤90个/日、C切≤50个/日，为优等率提升至85%以上提供支撑。",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "控制断头≤90个/日、C切≤50个/日，为优等率提升至85%以上提供支撑。",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "控制断头≤90个/日、C切≤50个/日，为优等率提升至85%以上提供支撑。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            58,
+            317.14,
+            582,
+            55.71
+          ],
+          "text": "Who",
+          "textPreview": "Who",
+          "fillColor": "#F2F5F8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Who",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Who"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            640,
+            317.14,
+            582,
+            55.71
+          ],
+          "text": "前纺工艺、DTY工艺、质量、QC小组成员协同负责。",
+          "textPreview": "前纺工艺、DTY工艺、质量、QC小组成员协同负责。",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "前纺工艺、DTY工艺、质量、QC小组成员协同负责。",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "前纺工艺、DTY工艺、质量、QC小组成员协同负责。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            58,
+            372.86,
+            582,
+            55.71
+          ],
+          "text": "Where",
+          "textPreview": "Where",
+          "fillColor": "#F2F5F8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Where",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Where"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            640,
+            372.86,
+            582,
+            55.71
+          ],
+          "text": "前道POY工序及10#机DTY 55/72黑丝验证现场。",
+          "textPreview": "前道POY工序及10#机DTY 55/72黑丝验证现场。",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "前道POY工序及10#机DTY 55/72黑丝验证现场。",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "前道POY工序及10#机DTY 55/72黑丝验证现场。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            58,
+            428.57,
+            582,
+            55.71
+          ],
+          "text": "When",
+          "textPreview": "When",
+          "fillColor": "#F2F5F8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "When",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "When"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            640,
+            428.57,
+            582,
+            55.71
+          ],
+          "text": "5月19日0.55%打样，5月21日0.60%打样，5月25日0.60%整体执行。",
+          "textPreview": "5月19日0.55%打样，5月21日0.60%打样，5月25日0.60%整体执行。",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5月19日0.55%打样，5月21日0.60%打样，5月25日0.60%整体执行。",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5月19日0.55%打样，5月21日0.60%打样，5月25日0.60%整体执行。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            58,
+            484.29,
+            582,
+            55.71
+          ],
+          "text": "How",
+          "textPreview": "How",
+          "fillColor": "#F2F5F8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "How",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "How"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            640,
+            484.29,
+            582,
+            55.71
+          ],
+          "text": "取样检测POY含油率；优化油剂添加控制；上机验证断头、C切、张力CV；固化控制标准。",
+          "textPreview": "取样检测POY含油率；优化油剂添加控制；上机验证断头、C切、张力CV；固化控制标准。",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "取样检测POY含油率；优化油剂添加控制；上机验证断头、C切、张力CV；固化控制标准。",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "取样检测POY含油率；优化油剂添加控制；上机验证断头、C切、张力CV；固化控制标准。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/je9cvixc",
+      "id": "8",
+      "bbox": [
+        58,
+        582,
+        1164,
+        66
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFF1D8",
+      "lineColor": "#E68A00",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qtcj6tov",
+      "id": "9",
+      "bbox": [
+        76,
+        596,
+        54,
+        24
+      ],
+      "geometry": "rect",
+      "text": "结论",
+      "textPreview": "结论",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#E68A00",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "结论"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "结论",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#E68A00",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.12
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "结论",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#E68A00",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.12
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/svu9knih",
+      "id": "10",
+      "bbox": [
+        136,
+        595,
+        1068,
+        38
+      ],
+      "geometry": "rect",
+      "text": "对策仅针对主要要因POY油剂控制制定；DTY端调整不纳入最终有效对策。",
+      "textPreview": "对策仅针对主要要因POY油剂控制制定；DTY端调整不纳入最终有效对策。",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "Microsoft YaHei",
+        "color": "#102033",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "对策仅针对主要要因POY油剂控制制定；DTY端调整不纳入最终有效对策。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "对策仅针对主要要因POY油剂控制制定；DTY端调整不纳入最终有效对策。",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Microsoft YaHei",
+            "color": "#102033",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "对策仅针对主要要因POY油剂控制制定；DTY端调整不纳入最终有效对策。",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#102033",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

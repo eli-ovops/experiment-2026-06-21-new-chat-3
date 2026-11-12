@@ -1,0 +1,1284 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/pg3ex0nu",
+    "id": "pg3ex0nu",
+    "slide": 2,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "标题和内容",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 960,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "凸显",
+    "colors": {
+      "accent1": "#FE8637",
+      "accent2": "#7598D9",
+      "accent3": "#B32C16",
+      "accent4": "#F5CD2D",
+      "accent5": "#AEBAD5",
+      "accent6": "#777C84",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#575F6D",
+      "lt2": "#FFF39D",
+      "hlink": "#D2611C",
+      "folHlink": "#3B435B"
+    },
+    "fontScheme": {
+      "name": "凸显",
+      "majorFont": {
+        "latinTypeface": "Century Schoolbook"
+      },
+      "minorFont": {
+        "latinTypeface": "Century Schoolbook"
+      }
+    },
+    "typefaces": [
+      "+mn-ea",
+      "Century Schoolbook",
+      "Times New Roman",
+      "华文行楷",
+      "宋体",
+      "黑体"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "标题和内容",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "image",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/13",
+          "id": "13",
+          "name": "图片 10",
+          "bbox": [
+            0,
+            0,
+            181.27,
+            110.52
+          ],
+          "contentType": "image/png",
+          "imageCrop": {
+            "left": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "asset": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 28068
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image2.png",
+            "contentType": "image/png",
+            "byteLength": 28068
+          }
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/12",
+          "id": "12",
+          "name": "艺术字 4",
+          "bbox": [
+            268.32,
+            677.52,
+            415.79,
+            33.48
+          ],
+          "geometry": "rect",
+          "text": "提供优质纤维   创造美好生活",
+          "textPreview": "提供优质纤维   创造美好生活",
+          "resolvedTextStyle": {
+            "wrap": "none"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "提供优质纤维   创造美好生活",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "提供优质纤维   创造美好生活",
+                  "fontSize": 21.33,
+                  "typeface": "华文行楷",
+                  "color": "#000000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/16",
+          "id": "16",
+          "name": "直接连接符 15",
+          "bbox": [
+            920,
+            0,
+            0,
+            720
+          ],
+          "geometry": "line",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "lineColor": {
+            "type": "theme",
+            "value": "accent1",
+            "transform": {
+              "opacity": 0.93,
+              "lighten": 0.4
+            }
+          },
+          "lineWidth": 4
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/22",
+          "id": "22",
+          "name": "标题占位符 21",
+          "bbox": [
+            48,
+            28.83,
+            784,
+            120
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版标题样式",
+          "textPreview": "单击此处编辑母版标题样式",
+          "resolvedTextStyle": {
+            "anchor": 3,
+            "vertical": 1,
+            "verticalAlignment": "bottom",
+            "autoFit": "shrinkText"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版标题样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版标题样式"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/13",
+          "id": "13",
+          "name": "文本占位符 12",
+          "bbox": [
+            48,
+            168,
+            784,
+            511.68
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版文本样式\n第二级\n第三级\n第四级\n第五级",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版文本样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版文本样式"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "第二级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第二级"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "第三级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第三级"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "第四级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第四级"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "第五级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第五级"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/14",
+          "id": "14",
+          "name": "日期占位符 13",
+          "bbox": [
+            796.8,
+            113.58,
+            211.2,
+            40.32
+          ],
+          "rotation": 90,
+          "geometry": "rect",
+          "text": "2018-06-07",
+          "textPreview": "2018-06-07",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2018-06-07",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2018-06-07"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "页脚占位符 2",
+          "bbox": [
+            733.88,
+            392.36,
+            336,
+            38.4
+          ],
+          "rotation": 90,
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle"
+          }
+        },
+        {
+          "order": 6,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/7",
+          "id": "7",
+          "name": "直接连接符 6",
+          "bbox": [
+            8,
+            0,
+            0,
+            720
+          ],
+          "geometry": "line",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "lineColor": {
+            "type": "theme",
+            "value": "accent1",
+            "transform": {
+              "lighten": 0.4
+            }
+          },
+          "lineWidth": 6
+        },
+        {
+          "order": 7,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/9",
+          "id": "9",
+          "name": "直接连接符 8",
+          "bbox": [
+            944,
+            0,
+            0,
+            720
+          ],
+          "geometry": "line",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "lineColor": "accent1",
+          "lineWidth": 2
+        },
+        {
+          "order": 8,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/10",
+          "id": "10",
+          "name": "矩形 9",
+          "bbox": [
+            928,
+            0,
+            32,
+            720
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "fillColor": {
+            "type": "theme",
+            "value": "accent1",
+            "transform": {
+              "opacity": 0.87,
+              "lighten": 0.4
+            }
+          },
+          "lineWidth": 4
+        },
+        {
+          "order": 9,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/11",
+          "id": "11",
+          "name": "直接连接符 10",
+          "bbox": [
+            936,
+            0,
+            0,
+            720
+          ],
+          "geometry": "line",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "wrap": "square",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "lineColor": "accent1",
+          "lineWidth": 1
+        },
+        {
+          "order": 10,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/12",
+          "id": "12",
+          "name": "椭圆 11",
+          "bbox": [
+            856.32,
+            600,
+            57.6,
+            57.6
+          ],
+          "geometry": "ellipse",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "verticalAlignment": "middle"
+          },
+          "lineWidth": 4
+        },
+        {
+          "order": 11,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/23",
+          "id": "23",
+          "name": "灯片编号占位符 22",
+          "bbox": [
+            853.44,
+            602,
+            64,
+            54.72
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r65wjudg",
+      "id": "4",
+      "name": "Rectangle 2",
+      "bbox": [
+        41.53,
+        110.33,
+        347.83,
+        45.5
+      ],
+      "geometry": "rect",
+      "text": "小组基本情况：",
+      "textPreview": "小组基本情况：",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "fontSize": 32,
+        "typeface": "Century Schoolbook",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": "小组基本情况："
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "小组基本情况：",
+          "lineSpacingPercent": 80000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "小组基本情况：",
+              "fontSize": 37.33,
+              "typeface": "黑体",
+              "color": "#CC6600",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 274320,
+          "indent": -274320,
+          "spaceBefore": 600
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/9w3m94fu",
+      "id": "7",
+      "name": "Group 5",
+      "bbox": [
+        49.33,
+        156,
+        854.17,
+        468.66
+      ],
+      "text": "小组名称 | 雄鹰QC小组 | 成立时间 | 2018年4月\n课题名称 | 降低IGV运行过程中产生的机器碰毛数量\n课题类型 | 攻关型 | 组长 | 朱昌波\n活动日期 | 2018.04～2018.05 | 小组成员 | 6人",
+      "textPreview": "小组名称 | 雄鹰QC小组 | 成立时间 | 2018年4月 | 课题名称 | 降低IGV运行过程中产生的机器碰毛数量 | 课题类型 | 攻关型 | 组长 | 朱昌波 | 活动日期 | 2018.04～2018.05 | 小组成员 | 6人",
+      "rows": 4,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            49.33,
+            156,
+            146,
+            110.5
+          ],
+          "text": "小组名称",
+          "textPreview": "小组名称",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "小组名称",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "小组名称",
+                  "fontSize": 26.67,
+                  "typeface": "宋体",
+                  "color": "#216AD5",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            195.33,
+            156,
+            306.67,
+            110.5
+          ],
+          "text": "雄鹰QC小组",
+          "textPreview": "雄鹰QC小组",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "雄鹰QC小组",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "雄鹰",
+                  "fontSize": 26.67,
+                  "typeface": "Times New Roman",
+                  "color": "#216AD5",
+                  "textTransform": "none"
+                },
+                {
+                  "index": 2,
+                  "text": "QC",
+                  "fontSize": 26.67,
+                  "typeface": "Times New Roman",
+                  "color": "#216AD5",
+                  "textTransform": "none"
+                },
+                {
+                  "index": 3,
+                  "text": "小组",
+                  "fontSize": 26.67,
+                  "typeface": "Times New Roman",
+                  "color": "#216AD5",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            502,
+            156,
+            160.67,
+            110.5
+          ],
+          "text": "成立时间",
+          "textPreview": "成立时间",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "成立时间",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "成立时间",
+                  "fontSize": 26.67,
+                  "typeface": "宋体",
+                  "color": "#216AD5",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            662.67,
+            156,
+            240.83,
+            110.5
+          ],
+          "text": "2018年4月",
+          "textPreview": "2018年4月",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2018年4月",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2018",
+                  "fontSize": 26.67,
+                  "typeface": "宋体",
+                  "color": "#216AD5",
+                  "textTransform": "none"
+                },
+                {
+                  "index": 2,
+                  "text": "年",
+                  "fontSize": 26.67,
+                  "typeface": "宋体",
+                  "color": "#216AD5",
+                  "textTransform": "none"
+                },
+                {
+                  "index": 3,
+                  "text": "4",
+                  "fontSize": 26.67,
+                  "typeface": "宋体",
+                  "color": "#216AD5",
+                  "textTransform": "none"
+                },
+                {
+                  "index": 4,
+                  "text": "月",
+                  "fontSize": 26.67,
+                  "typeface": "宋体",
+                  "color": "#216AD5",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            49.33,
+            266.5,
+            146,
+            117.83
+          ],
+          "text": "课题名称",
+          "textPreview": "课题名称",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "课题名称",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "课题名称",
+                  "fontSize": 26.67,
+                  "typeface": "Times New Roman",
+                  "color": "#216AD5",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "colSpan": 3,
+          "bbox": [
+            195.33,
+            266.5,
+            708.17,
+            117.83
+          ],
+          "text": "降低IGV运行过程中产生的机器碰毛数量",
+          "textPreview": "降低IGV运行过程中产生的机器碰毛数量",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "降低IGV运行过程中产生的机器碰毛数量",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "降低",
+                  "fontSize": 32,
+                  "typeface": "+mn-ea",
+                  "color": "tx1",
+                  "bold": true,
+                  "textTransform": "none"
+                },
+                {
+                  "index": 2,
+                  "text": "IGV",
+                  "fontSize": 32,
+                  "typeface": "+mn-ea",
+                  "color": "tx1",
+                  "bold": true,
+                  "textTransform": "none"
+                },
+                {
+                  "index": 3,
+                  "text": "运行过程中产生的机器碰毛数量",
+                  "fontSize": 32,
+                  "typeface": "+mn-ea",
+                  "color": "tx1",
+                  "bold": true,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            502,
+            266.5,
+            160.67,
+            117.83
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            662.67,
+            266.5,
+            240.83,
+            117.83
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            49.33,
+            384.33,
+            146,
+            121
+          ],
+          "text": "课题类型",
+          "textPreview": "课题类型",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "课题类型",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "课题类型",
+                  "fontSize": 26.67,
+                  "typeface": "宋体",
+                  "color": "#216AD5",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            195.33,
+            384.33,
+            306.67,
+            121
+          ],
+          "text": "攻关型",
+          "textPreview": "攻关型",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "攻关型",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "攻关型",
+                  "fontSize": 26.67,
+                  "typeface": "Times New Roman",
+                  "color": "#216AD5",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            502,
+            384.33,
+            160.67,
+            121
+          ],
+          "text": "组长",
+          "textPreview": "组长",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "组长",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "组长",
+                  "fontSize": 26.67,
+                  "typeface": "宋体",
+                  "color": "#216AD5",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            662.67,
+            384.33,
+            240.83,
+            121
+          ],
+          "text": "朱昌波",
+          "textPreview": "朱昌波",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "朱昌波",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "朱昌波",
+                  "fontSize": 26.67,
+                  "typeface": "Times New Roman",
+                  "color": "#216AD5",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            49.33,
+            505.33,
+            146,
+            119.33
+          ],
+          "text": "活动日期",
+          "textPreview": "活动日期",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "活动日期",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "活动日期",
+                  "fontSize": 26.67,
+                  "typeface": "宋体",
+                  "color": "#216AD5",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            195.33,
+            505.33,
+            306.67,
+            119.33
+          ],
+          "text": "2018.04～2018.05",
+          "textPreview": "2018.04～2018.05",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2018.04～2018.05",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2018.04",
+                  "fontSize": 26.67,
+                  "typeface": "宋体",
+                  "color": "#216AD5",
+                  "textTransform": "none"
+                },
+                {
+                  "index": 2,
+                  "text": "～",
+                  "fontSize": 26.67,
+                  "typeface": "宋体",
+                  "color": "#216AD5",
+                  "textTransform": "none"
+                },
+                {
+                  "index": 3,
+                  "text": "2018.05",
+                  "fontSize": 26.67,
+                  "typeface": "宋体",
+                  "color": "#216AD5",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            502,
+            505.33,
+            160.67,
+            119.33
+          ],
+          "text": "小组成员",
+          "textPreview": "小组成员",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "小组成员",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "小组成员",
+                  "fontSize": 26.67,
+                  "typeface": "宋体",
+                  "color": "#216AD5",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            662.67,
+            505.33,
+            240.83,
+            119.33
+          ],
+          "text": "6人",
+          "textPreview": "6人",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "6人",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "6",
+                  "fontSize": 26.67,
+                  "typeface": "宋体",
+                  "color": "#216AD5",
+                  "textTransform": "none"
+                },
+                {
+                  "index": 2,
+                  "text": "人",
+                  "fontSize": 26.67,
+                  "typeface": "宋体",
+                  "color": "#216AD5",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cvixcze",
+      "id": "6",
+      "name": "TextBox 5",
+      "bbox": [
+        283.44,
+        27.36,
+        377.99,
+        61.39
+      ],
+      "geometry": "rect",
+      "text": "一、小组简介",
+      "textPreview": "一、小组简介",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "fontSize": 18.67,
+        "typeface": "Century Schoolbook",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "一、小组简介"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "一、小组简介",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "一、小组简介",
+              "fontSize": 42.67,
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

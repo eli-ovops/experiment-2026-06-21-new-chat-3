@@ -1,0 +1,1340 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/7y1kre1w",
+    "id": "7y1kre1w",
+    "slide": 15,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F4F6F8",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/90je9cvi",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        18,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#0A2742",
+      "lineColor": "#0A2742",
+      "lineWidth": 1
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yd0z6103",
+      "id": "2",
+      "bbox": [
+        18,
+        0,
+        5,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#0E9A9A",
+      "lineColor": "#0E9A9A",
+      "lineWidth": 1
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rytsvu9k",
+      "id": "3",
+      "bbox": [
+        62,
+        36,
+        44,
+        22
+      ],
+      "geometry": "rect",
+      "text": "15",
+      "textPreview": "15",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "15"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "15",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Microsoft YaHei",
+            "color": "#0E9A9A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "15",
+              "fontSize": 14,
+              "typeface": "Microsoft YaHei",
+              "color": "#0E9A9A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g7adsji5",
+      "id": "4",
+      "bbox": [
+        116,
+        36,
+        180,
+        22
+      ],
+      "geometry": "rect",
+      "text": "QCC成果报告",
+      "textPreview": "QCC成果报告",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "QCC成果报告"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "QCC成果报告",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Microsoft YaHei",
+            "color": "#667386",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "QCC成果报告",
+              "fontSize": 13,
+              "typeface": "Microsoft YaHei",
+              "color": "#667386",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9s36hcrm",
+      "id": "5",
+      "bbox": [
+        62,
+        72,
+        900,
+        48
+      ],
+      "geometry": "rect",
+      "text": "标准化与防护措施",
+      "textPreview": "标准化与防护措施",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "标准化与防护措施"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "标准化与防护措施",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Microsoft YaHei",
+            "color": "#102033",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "标准化与防护措施",
+              "fontSize": 34,
+              "typeface": "Microsoft YaHei",
+              "color": "#102033",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y1kre1w7",
+      "id": "6",
+      "bbox": [
+        62,
+        130,
+        1156,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D8DEE8",
+      "lineColor": "#D8DEE8",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rmhk3q5o",
+      "id": "7",
+      "bbox": [
+        62,
+        686,
+        520,
+        18
+      ],
+      "geometry": "rect",
+      "text": "长空之王QC小组｜提高55/72黑丝优等率",
+      "textPreview": "长空之王QC小组｜提高55/72黑丝优等率",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "长空之王QC小组｜提高55/72黑丝优等率"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "长空之王QC小组｜提高55/72黑丝优等率",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Microsoft YaHei",
+            "color": "#667386",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "长空之王QC小组｜提高55/72黑丝优等率",
+              "fontSize": 11,
+              "typeface": "Microsoft YaHei",
+              "color": "#667386"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g3ex0nux",
+      "id": "8",
+      "bbox": [
+        1178,
+        686,
+        40,
+        18
+      ],
+      "geometry": "rect",
+      "text": "15",
+      "textPreview": "15",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "15"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "15",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Microsoft YaHei",
+            "color": "#667386",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "15",
+              "fontSize": 11,
+              "typeface": "Microsoft YaHei",
+              "color": "#667386"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/1gvy90je",
+      "id": "13",
+      "bbox": [
+        62,
+        150,
+        1156,
+        356
+      ],
+      "text": "序号 | 标准化/防护项目 | 控制要求 | 记录/验证方式\n1 | POY油剂控制标准固化 | 55/72黑丝配套POY含油率控制值按0.60%执行，允许范围以工艺文件/通知单为准。 | POY含油率检测记录、工艺通知单\n2 | POY含油率首批确认 | 上机前确认批号、含油率检测结果和工艺调整状态，未经确认不得批量转入DTY验证。 | 首批确认记录、交接记录\n3 | DTY关键过程指标跟踪 | 每日跟踪断头、C切和张力CV异常；断头>90或C切>50时启动异常反馈。 | 每日目标跟踪表\n4 | 异常联动处置 | 优先追溯配套POY含油率、油剂批次和前纺执行情况；DTY端调整仅作为排查项。 | 异常分析单、纠正措施记录\n5 | 换批/换规格防护 | 油剂系统或工艺参数调整后，先小批量打样验证，稳定后再整体推行。 | 小样验证记录",
+      "textPreview": "序号 | 标准化/防护项目 | 控制要求 | 记录/验证方式 | 1 | POY油剂控制标准固化 | 55/72黑丝配套POY含油率控制值按0.60%执行，允许范围以工艺文件/通知单为准。 | POY含油率检测记录、工艺通知单 | 2 | POY含油率首批确认 | 上机前确...",
+      "rows": 6,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            62,
+            150,
+            58,
+            59.33
+          ],
+          "text": "序号",
+          "textPreview": "序号",
+          "fillColor": "#0A2742",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "序号",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "序号",
+                  "fontSize": 15,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            120,
+            150,
+            190,
+            59.33
+          ],
+          "text": "标准化/防护项目",
+          "textPreview": "标准化/防护项目",
+          "fillColor": "#0A2742",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "标准化/防护项目",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "标准化/防护项目",
+                  "fontSize": 15,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            310,
+            150,
+            624.25,
+            59.33
+          ],
+          "text": "控制要求",
+          "textPreview": "控制要求",
+          "fillColor": "#0A2742",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "控制要求",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "控制要求",
+                  "fontSize": 15,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            934.25,
+            150,
+            283.75,
+            59.33
+          ],
+          "text": "记录/验证方式",
+          "textPreview": "记录/验证方式",
+          "fillColor": "#0A2742",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "记录/验证方式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "记录/验证方式",
+                  "fontSize": 15,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            62,
+            209.33,
+            58,
+            59.33
+          ],
+          "text": "1",
+          "textPreview": "1",
+          "fillColor": "#EAF0F6",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#0A2742",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            120,
+            209.33,
+            190,
+            59.33
+          ],
+          "text": "POY油剂控制标准固化",
+          "textPreview": "POY油剂控制标准固化",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "POY油剂控制标准固化",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "POY油剂控制标准固化",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            310,
+            209.33,
+            624.25,
+            59.33
+          ],
+          "text": "55/72黑丝配套POY含油率控制值按0.60%执行，允许范围以工艺文件/通知单为准。",
+          "textPreview": "55/72黑丝配套POY含油率控制值按0.60%执行，允许范围以工艺文件/通知单为准。",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "55/72黑丝配套POY含油率控制值按0.60%执行，允许范围以工艺文件/通知单为准。",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "55/72黑丝配套POY含油率控制值按0.60%执行，允许范围以工艺文件/通知单为准。",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            934.25,
+            209.33,
+            283.75,
+            59.33
+          ],
+          "text": "POY含油率检测记录、工艺通知单",
+          "textPreview": "POY含油率检测记录、工艺通知单",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "POY含油率检测记录、工艺通知单",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "POY含油率检测记录、工艺通知单",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            62,
+            268.67,
+            58,
+            59.33
+          ],
+          "text": "2",
+          "textPreview": "2",
+          "fillColor": "#EAF0F6",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#0A2742",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            120,
+            268.67,
+            190,
+            59.33
+          ],
+          "text": "POY含油率首批确认",
+          "textPreview": "POY含油率首批确认",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "POY含油率首批确认",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "POY含油率首批确认",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            310,
+            268.67,
+            624.25,
+            59.33
+          ],
+          "text": "上机前确认批号、含油率检测结果和工艺调整状态，未经确认不得批量转入DTY验证。",
+          "textPreview": "上机前确认批号、含油率检测结果和工艺调整状态，未经确认不得批量转入DTY验证。",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "上机前确认批号、含油率检测结果和工艺调整状态，未经确认不得批量转入DTY验证。",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "上机前确认批号、含油率检测结果和工艺调整状态，未经确认不得批量转入DTY验证。",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            934.25,
+            268.67,
+            283.75,
+            59.33
+          ],
+          "text": "首批确认记录、交接记录",
+          "textPreview": "首批确认记录、交接记录",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "首批确认记录、交接记录",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "首批确认记录、交接记录",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            62,
+            328,
+            58,
+            59.33
+          ],
+          "text": "3",
+          "textPreview": "3",
+          "fillColor": "#EAF0F6",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#0A2742",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            120,
+            328,
+            190,
+            59.33
+          ],
+          "text": "DTY关键过程指标跟踪",
+          "textPreview": "DTY关键过程指标跟踪",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "DTY关键过程指标跟踪",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "DTY关键过程指标跟踪",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            310,
+            328,
+            624.25,
+            59.33
+          ],
+          "text": "每日跟踪断头、C切和张力CV异常；断头>90或C切>50时启动异常反馈。",
+          "textPreview": "每日跟踪断头、C切和张力CV异常；断头>90或C切>50时启动异常反馈。",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "每日跟踪断头、C切和张力CV异常；断头>90或C切>50时启动异常反馈。",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "每日跟踪断头、C切和张力CV异常；断头>90或C切>50时启动异常反馈。",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            934.25,
+            328,
+            283.75,
+            59.33
+          ],
+          "text": "每日目标跟踪表",
+          "textPreview": "每日目标跟踪表",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "每日目标跟踪表",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "每日目标跟踪表",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            62,
+            387.33,
+            58,
+            59.33
+          ],
+          "text": "4",
+          "textPreview": "4",
+          "fillColor": "#EAF0F6",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#0A2742",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            120,
+            387.33,
+            190,
+            59.33
+          ],
+          "text": "异常联动处置",
+          "textPreview": "异常联动处置",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "异常联动处置",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "异常联动处置",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            310,
+            387.33,
+            624.25,
+            59.33
+          ],
+          "text": "优先追溯配套POY含油率、油剂批次和前纺执行情况；DTY端调整仅作为排查项。",
+          "textPreview": "优先追溯配套POY含油率、油剂批次和前纺执行情况；DTY端调整仅作为排查项。",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "优先追溯配套POY含油率、油剂批次和前纺执行情况；DTY端调整仅作为排查项。",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "优先追溯配套POY含油率、油剂批次和前纺执行情况；DTY端调整仅作为排查项。",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            934.25,
+            387.33,
+            283.75,
+            59.33
+          ],
+          "text": "异常分析单、纠正措施记录",
+          "textPreview": "异常分析单、纠正措施记录",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "异常分析单、纠正措施记录",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "异常分析单、纠正措施记录",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            62,
+            446.67,
+            58,
+            59.33
+          ],
+          "text": "5",
+          "textPreview": "5",
+          "fillColor": "#EAF0F6",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#0A2742",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            120,
+            446.67,
+            190,
+            59.33
+          ],
+          "text": "换批/换规格防护",
+          "textPreview": "换批/换规格防护",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "换批/换规格防护",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "换批/换规格防护",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            310,
+            446.67,
+            624.25,
+            59.33
+          ],
+          "text": "油剂系统或工艺参数调整后，先小批量打样验证，稳定后再整体推行。",
+          "textPreview": "油剂系统或工艺参数调整后，先小批量打样验证，稳定后再整体推行。",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "油剂系统或工艺参数调整后，先小批量打样验证，稳定后再整体推行。",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "油剂系统或工艺参数调整后，先小批量打样验证，稳定后再整体推行。",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            934.25,
+            446.67,
+            283.75,
+            59.33
+          ],
+          "text": "小样验证记录",
+          "textPreview": "小样验证记录",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "小样验证记录",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "小样验证记录",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gbq1ory",
+      "id": "10",
+      "bbox": [
+        62,
+        584,
+        1156,
+        58
+      ],
+      "geometry": "rect",
+      "fillColor": "#DDF3EC",
+      "lineColor": "#0E9A9A",
+      "lineWidth": 1
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cvixczed",
+      "id": "11",
+      "bbox": [
+        80,
+        601,
+        56,
+        22
+      ],
+      "geometry": "rect",
+      "text": "结论",
+      "textPreview": "结论",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "结论"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "结论",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#0E9A9A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "结论",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#0E9A9A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nap4r65w",
+      "id": "12",
+      "bbox": [
+        146,
+        599,
+        1052,
+        28
+      ],
+      "geometry": "rect",
+      "text": "标准化重点：POY油剂控制标准化 + 上机前确认 + DTY过程日跟踪 + 异常联动处置。",
+      "textPreview": "标准化重点：POY油剂控制标准化 + 上机前确认 + DTY过程日跟踪 + 异常联动处置。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "标准化重点：POY油剂控制标准化 + 上机前确认 + DTY过程日跟踪 + 异常联动处置。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "标准化重点：POY油剂控制标准化 + 上机前确认 + DTY过程日跟踪 + 异常联动处置。",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#102033",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "标准化重点：POY油剂控制标准化 + 上机前确认 + DTY过程日跟踪 + 异常联动处置。",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#102033",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

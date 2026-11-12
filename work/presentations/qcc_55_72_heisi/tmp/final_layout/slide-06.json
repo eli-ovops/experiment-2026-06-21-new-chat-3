@@ -1,0 +1,1339 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/58z25kb6",
+    "id": "58z25kb6",
+    "slide": 6,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F7F9FC",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cvixcze",
+      "id": "1",
+      "bbox": [
+        58,
+        30,
+        46,
+        28
+      ],
+      "geometry": "rect",
+      "text": "06",
+      "textPreview": "06",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "06"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "06",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#28A6C7",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "06",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#28A6C7",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ylc7u54z",
+      "id": "2",
+      "bbox": [
+        108,
+        30,
+        180,
+        28
+      ],
+      "geometry": "rect",
+      "text": "QCC成果报告",
+      "textPreview": "QCC成果报告",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "QCC成果报告"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "QCC成果报告",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Microsoft YaHei",
+            "color": "#5B677A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "QCC成果报告",
+              "fontSize": 14,
+              "typeface": "Microsoft YaHei",
+              "color": "#5B677A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r65wjudg",
+      "id": "3",
+      "bbox": [
+        58,
+        62,
+        850,
+        48
+      ],
+      "geometry": "rect",
+      "text": "前期尝试：DTY端排查均未解决",
+      "textPreview": "前期尝试：DTY端排查均未解决",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "前期尝试：DTY端排查均未解决"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "前期尝试：DTY端排查均未解决",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 36,
+            "typeface": "Microsoft YaHei",
+            "color": "#102033",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "前期尝试：DTY端排查均未解决",
+              "fontSize": 36,
+              "typeface": "Microsoft YaHei",
+              "color": "#102033",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g3ex0nux",
+      "id": "4",
+      "bbox": [
+        58,
+        118,
+        1164,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#D4DAE3",
+      "lineWidth": 1
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5o7qpg3e",
+      "id": "5",
+      "bbox": [
+        58,
+        682,
+        520,
+        22
+      ],
+      "geometry": "rect",
+      "text": "长空之王QC小组｜提高55/72黑丝优等率",
+      "textPreview": "长空之王QC小组｜提高55/72黑丝优等率",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "长空之王QC小组｜提高55/72黑丝优等率"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "长空之王QC小组｜提高55/72黑丝优等率",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Microsoft YaHei",
+            "color": "#5B677A",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "长空之王QC小组｜提高55/72黑丝优等率",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#5B677A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yxobm58z",
+      "id": "6",
+      "bbox": [
+        1172,
+        682,
+        50,
+        22
+      ],
+      "geometry": "rect",
+      "text": "06",
+      "textPreview": "06",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "06"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "06",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Microsoft YaHei",
+            "color": "#5B677A",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "06",
+              "fontSize": 12,
+              "typeface": "Microsoft YaHei",
+              "color": "#5B677A"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/65wjudg7",
+      "id": "14",
+      "bbox": [
+        58,
+        156,
+        1164,
+        272
+      ],
+      "text": "项目 | 尝试内容 | 结论 | 报告定位\n二罗拉速度 | 650m/min降至620m/min | 无明显效果 | 前期尝试\n张力CV报警阈值 | 报警阈值调至8；瞬间最高约20 | 无明显效果 | 异常现象/排查\n冷却板 | 调整部分锭位冷却板 | 无明显效果 | 前期尝试\nDTY端油相关排查 | 油轮、导丝器等早期排查 | 不作为要因 | 排除项",
+      "textPreview": "项目 | 尝试内容 | 结论 | 报告定位 | 二罗拉速度 | 650m/min降至620m/min | 无明显效果 | 前期尝试 | 张力CV报警阈值 | 报警阈值调至8；瞬间最高约20 | 无明显效果 | 异常现象/排查 | 冷却板 | 调整部分锭位冷却板 | 无明显效...",
+      "rows": 5,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            58,
+            156,
+            180,
+            54.4
+          ],
+          "text": "项目",
+          "textPreview": "项目",
+          "fillColor": "#C43D3D",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "项目",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "项目",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            238,
+            156,
+            704,
+            54.4
+          ],
+          "text": "尝试内容",
+          "textPreview": "尝试内容",
+          "fillColor": "#C43D3D",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "尝试内容",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "尝试内容",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            942,
+            156,
+            140,
+            54.4
+          ],
+          "text": "结论",
+          "textPreview": "结论",
+          "fillColor": "#C43D3D",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "结论",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "结论",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            1082,
+            156,
+            140,
+            54.4
+          ],
+          "text": "报告定位",
+          "textPreview": "报告定位",
+          "fillColor": "#C43D3D",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "报告定位",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "报告定位",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            58,
+            210.4,
+            180,
+            54.4
+          ],
+          "text": "二罗拉速度",
+          "textPreview": "二罗拉速度",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "二罗拉速度",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "二罗拉速度",
+                  "fontSize": 13,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            238,
+            210.4,
+            704,
+            54.4
+          ],
+          "text": "650m/min降至620m/min",
+          "textPreview": "650m/min降至620m/min",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "650m/min降至620m/min",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "650m/min降至620m/min",
+                  "fontSize": 13,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            942,
+            210.4,
+            140,
+            54.4
+          ],
+          "text": "无明显效果",
+          "textPreview": "无明显效果",
+          "fillColor": "#FBE4E4",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "无明显效果",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "无明显效果",
+                  "fontSize": 13,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#C43D3D",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            1082,
+            210.4,
+            140,
+            54.4
+          ],
+          "text": "前期尝试",
+          "textPreview": "前期尝试",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "前期尝试",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "前期尝试",
+                  "fontSize": 13,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            58,
+            264.8,
+            180,
+            54.4
+          ],
+          "text": "张力CV报警阈值",
+          "textPreview": "张力CV报警阈值",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "张力CV报警阈值",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "张力CV报警阈值",
+                  "fontSize": 13,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            238,
+            264.8,
+            704,
+            54.4
+          ],
+          "text": "报警阈值调至8；瞬间最高约20",
+          "textPreview": "报警阈值调至8；瞬间最高约20",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "报警阈值调至8；瞬间最高约20",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "报警阈值调至8；瞬间最高约20",
+                  "fontSize": 13,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            942,
+            264.8,
+            140,
+            54.4
+          ],
+          "text": "无明显效果",
+          "textPreview": "无明显效果",
+          "fillColor": "#FBE4E4",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "无明显效果",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "无明显效果",
+                  "fontSize": 13,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#C43D3D",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            1082,
+            264.8,
+            140,
+            54.4
+          ],
+          "text": "异常现象/排查",
+          "textPreview": "异常现象/排查",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "异常现象/排查",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "异常现象/排查",
+                  "fontSize": 13,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            58,
+            319.2,
+            180,
+            54.4
+          ],
+          "text": "冷却板",
+          "textPreview": "冷却板",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "冷却板",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "冷却板",
+                  "fontSize": 13,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            238,
+            319.2,
+            704,
+            54.4
+          ],
+          "text": "调整部分锭位冷却板",
+          "textPreview": "调整部分锭位冷却板",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "调整部分锭位冷却板",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "调整部分锭位冷却板",
+                  "fontSize": 13,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            942,
+            319.2,
+            140,
+            54.4
+          ],
+          "text": "无明显效果",
+          "textPreview": "无明显效果",
+          "fillColor": "#FBE4E4",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "无明显效果",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "无明显效果",
+                  "fontSize": 13,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#C43D3D",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            1082,
+            319.2,
+            140,
+            54.4
+          ],
+          "text": "前期尝试",
+          "textPreview": "前期尝试",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "前期尝试",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "前期尝试",
+                  "fontSize": 13,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            58,
+            373.6,
+            180,
+            54.4
+          ],
+          "text": "DTY端油相关排查",
+          "textPreview": "DTY端油相关排查",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "DTY端油相关排查",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "DTY端油相关排查",
+                  "fontSize": 13,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            238,
+            373.6,
+            704,
+            54.4
+          ],
+          "text": "油轮、导丝器等早期排查",
+          "textPreview": "油轮、导丝器等早期排查",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "油轮、导丝器等早期排查",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "油轮、导丝器等早期排查",
+                  "fontSize": 13,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            942,
+            373.6,
+            140,
+            54.4
+          ],
+          "text": "不作为要因",
+          "textPreview": "不作为要因",
+          "fillColor": "#FBE4E4",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "不作为要因",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "不作为要因",
+                  "fontSize": 13,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#C43D3D",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            1082,
+            373.6,
+            140,
+            54.4
+          ],
+          "text": "排除项",
+          "textPreview": "排除项",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "排除项",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "排除项",
+                  "fontSize": 13,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g7adsji5",
+      "id": "8",
+      "bbox": [
+        58,
+        464,
+        1164,
+        66
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFF1D8",
+      "lineColor": "#E68A00",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9s36hcrm",
+      "id": "9",
+      "bbox": [
+        76,
+        478,
+        54,
+        24
+      ],
+      "geometry": "rect",
+      "text": "结论",
+      "textPreview": "结论",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "结论"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "结论",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#E68A00",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "结论",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#E68A00",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d8v6psfi",
+      "id": "10",
+      "bbox": [
+        136,
+        477,
+        1068,
+        38
+      ],
+      "geometry": "rect",
+      "text": "上述内容只作为上机后前期排查和排除项，不作为最终要因，也不作为有效对策。",
+      "textPreview": "上述内容只作为上机后前期排查和排除项，不作为最终要因，也不作为有效对策。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "上述内容只作为上机后前期排查和排除项，不作为最终要因，也不作为有效对策。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "上述内容只作为上机后前期排查和排除项，不作为最终要因，也不作为有效对策。",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Microsoft YaHei",
+            "color": "#102033",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "上述内容只作为上机后前期排查和排除项，不作为最终要因，也不作为有效对策。",
+              "fontSize": 17,
+              "typeface": "Microsoft YaHei",
+              "color": "#102033",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/onyd0z61",
+      "id": "11",
+      "bbox": [
+        58,
+        558,
+        1164,
+        66
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#E7ECF3",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z25kb6xk",
+      "id": "12",
+      "bbox": [
+        80,
+        576,
+        110,
+        24
+      ],
+      "geometry": "rect",
+      "text": "分析转向",
+      "textPreview": "分析转向",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "分析转向"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "分析转向",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft YaHei",
+            "color": "#2B6CB0",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "分析转向",
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#2B6CB0",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6hcrmhk3",
+      "id": "13",
+      "bbox": [
+        190,
+        575,
+        920,
+        28
+      ],
+      "geometry": "rect",
+      "text": "DTY端单项调整未能消除张力CV瞬间冲高、断头和C切异常，课题进一步追溯前道POY油剂控制和原丝含油率。",
+      "textPreview": "DTY端单项调整未能消除张力CV瞬间冲高、断头和C切异常，课题进一步追溯前道POY油剂控制和原丝含油率。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DTY端单项调整未能消除张力CV瞬间冲高、断头和C切异常，课题进一步追溯前道POY油剂控制和原丝含油率。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DTY端单项调整未能消除张力CV瞬间冲高、断头和C切异常，课题进一步追溯前道POY油剂控制和原丝含油率。",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#102033",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DTY端单项调整未能消除张力CV瞬间冲高、断头和C切异常，课题进一步追溯前道POY油剂控制和原丝含油率。",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#102033"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

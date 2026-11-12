@@ -1,0 +1,3882 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/qh0fepkz",
+    "id": "qh0fepkz",
+    "slide": 9,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "空白",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1350,
+      "height": 759.33
+    }
+  },
+  "theme": {
+    "colorSchemeName": "自定义 85",
+    "colors": {
+      "accent1": "#4BC1DD",
+      "accent2": "#435F8E",
+      "accent3": "#4BC1DD",
+      "accent4": "#435F8E",
+      "accent5": "#4BC1DD",
+      "accent6": "#435F8E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#4BC1DD",
+      "folHlink": "#435F8E"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Arial",
+      "Calibri",
+      "Calibri Light",
+      "华文行楷",
+      "宋体"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "空白",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout1.xml/2",
+          "id": "2",
+          "name": "日期占位符 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": "2018-10-24",
+          "textPreview": "2018-10-24",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2018-10-24",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2018-10-24"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout1.xml/3",
+          "id": "3",
+          "name": "页脚占位符 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout1.xml/4",
+          "id": "4",
+          "name": "灯片编号占位符 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "标题占位符 1",
+          "bbox": [
+            92.83,
+            40.5,
+            1164.33,
+            146.67
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版标题样式",
+          "textPreview": "单击此处编辑母版标题样式",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版标题样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版标题样式"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "文本占位符 2",
+          "bbox": [
+            92.83,
+            202.17,
+            1164.33,
+            481.83
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版文本样式\n第二级\n第三级\n第四级\n第五级",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版文本样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版文本样式"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "第二级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第二级"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "第三级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第三级"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "第四级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第四级"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "第五级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第五级"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "日期占位符 3",
+          "bbox": [
+            92.83,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "2018-10-24",
+          "textPreview": "2018-10-24",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2018-10-24",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2018-10-24"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "页脚占位符 4",
+          "bbox": [
+            447.17,
+            703.83,
+            455.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            953.5,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "kind": "image",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/11",
+          "id": "11",
+          "name": "图片 6",
+          "bbox": [
+            0,
+            0,
+            254.92,
+            116.56
+          ],
+          "contentType": "image/png",
+          "imageCrop": {
+            "left": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "asset": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 28068
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 28068
+          }
+        },
+        {
+          "order": 7,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/10",
+          "id": "10",
+          "name": "艺术字 4",
+          "bbox": [
+            377.33,
+            714.53,
+            584.71,
+            35.31
+          ],
+          "geometry": "rect",
+          "text": "提供优质纤维   创造美好生活",
+          "textPreview": "提供优质纤维   创造美好生活",
+          "resolvedTextStyle": {
+            "wrap": "none",
+            "insets": {
+              "top": 6.03,
+              "right": 12.05,
+              "bottom": 6.03,
+              "left": 12.05
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "提供优质纤维   创造美好生活",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "提供优质纤维   创造美好生活",
+                  "fontSize": 26.67,
+                  "typeface": "华文行楷",
+                  "color": "bg1",
+                  "bold": true
+                }
+              ]
+            }
+          ],
+          "lineWidth": 0
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/3ylc7u54",
+      "id": "13",
+      "name": "表格 5",
+      "bbox": [
+        433.08,
+        228.47,
+        854.27,
+        453.55
+      ],
+      "text": "试验前\n参数 | 直径 | 成型角 | 直径 | 丝饼侧面测量数据 | 与最外侧相差的距离 | 动程 | 直径 | 接触压力\n开始 | 5.2  | 160 | 3.1  | (4.9) | 87.8 | 150\n141 | 5.2  | 180 | 2.9  | (5.1) | 88.2 | 136 | 150\n144 | 5.4  | 200 | 2.0  | (6.0) | 90 | 150 | 150\n150 | 5.6  | 220 | 1.6  | (6.4) | 90.8 | 175 | 150\n155 | 5.8  | 240 | 1.2  | (6.8) | 91.6 | 200 | 150\n165 | 6.0  | 260 | 0.8  | (7.2) | 92.4 | 250 | 150\n185 | 6.0  | 280 | 0.8  | (7.2) | 92.4 | 300 | 150\n255 | 5.6  | 300 | 1.2  | (6.8) | 91.6 | 350 | 150\n375 | 5.0  | 320 | 1.7  | (6.3) | 90.6 | 380 | 150\n切换 | 5.0  | 340 | 3.2  | (4.8) | 87.6 | 卷绕张力10.5cN　\n卷径 | 370.9 | 367.1 | 360 | 7.0  | (1.0) | 80\n最外面 | 8 | 0.0  | 78",
+      "textPreview": "试验前 | 参数 | 直径 | 成型角 | 直径 | 丝饼侧面测量数据 | 与最外侧相差的距离 | 动程 | 直径 | 接触压力 | 开始 | 5.2  | 160 | 3.1  | (4.9) | 87.8 | 150 | 141 | 5.2  | 180 | 2.9  ...",
+      "rows": 14,
+      "cols": 9,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "colSpan": 9,
+          "bbox": [
+            433.08,
+            228.47,
+            854.27,
+            32.4
+          ],
+          "text": "试验前",
+          "textPreview": "试验前",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "试验前",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "试验前",
+                  "fontSize": 21.33,
+                  "typeface": "宋体",
+                  "color": "#000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            506.86,
+            228.47,
+            73.77,
+            32.4
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            580.63,
+            228.47,
+            73.77,
+            32.4
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            654.4,
+            228.47,
+            73.77,
+            32.4
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 5,
+          "bbox": [
+            728.18,
+            228.47,
+            141.4,
+            32.4
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 6,
+          "bbox": [
+            869.57,
+            228.47,
+            175.86,
+            32.4
+          ]
+        },
+        {
+          "index": 7,
+          "row": 1,
+          "column": 7,
+          "bbox": [
+            1045.43,
+            228.47,
+            90.72,
+            32.4
+          ]
+        },
+        {
+          "index": 8,
+          "row": 1,
+          "column": 8,
+          "bbox": [
+            1136.15,
+            228.47,
+            83.16,
+            32.4
+          ]
+        },
+        {
+          "index": 9,
+          "row": 1,
+          "column": 9,
+          "bbox": [
+            1219.31,
+            228.47,
+            68.04,
+            32.4
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 1,
+          "rowSpan": 11,
+          "bbox": [
+            433.08,
+            260.86,
+            73.77,
+            356.35
+          ],
+          "text": "参数",
+          "textPreview": "参数",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "参数",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "参数",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            506.86,
+            260.86,
+            73.77,
+            32.4
+          ],
+          "text": "直径",
+          "textPreview": "直径",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "直径",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "直径",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            580.63,
+            260.86,
+            73.77,
+            32.4
+          ],
+          "text": "成型角",
+          "textPreview": "成型角",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "成型角",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "成型角",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            654.4,
+            260.86,
+            73.77,
+            32.4
+          ],
+          "text": "直径",
+          "textPreview": "直径",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "直径",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "直径",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 2,
+          "column": 5,
+          "bbox": [
+            728.18,
+            260.86,
+            141.4,
+            32.4
+          ],
+          "text": "丝饼侧面测量数据",
+          "textPreview": "丝饼侧面测量数据",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "丝饼侧面测量数据",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "丝饼侧面测量数据",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 2,
+          "column": 6,
+          "bbox": [
+            869.57,
+            260.86,
+            175.86,
+            32.4
+          ],
+          "text": "与最外侧相差的距离",
+          "textPreview": "与最外侧相差的距离",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "与最外侧相差的距离",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "与最外侧相差的距离",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 2,
+          "column": 7,
+          "bbox": [
+            1045.43,
+            260.86,
+            90.72,
+            32.4
+          ],
+          "text": "动程",
+          "textPreview": "动程",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "动程",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "动程",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 2,
+          "column": 8,
+          "bbox": [
+            1136.15,
+            260.86,
+            83.16,
+            32.4
+          ],
+          "text": "直径",
+          "textPreview": "直径",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "直径",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "直径",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 2,
+          "column": 9,
+          "bbox": [
+            1219.31,
+            260.86,
+            68.04,
+            32.4
+          ],
+          "text": "接触压力",
+          "textPreview": "接触压力",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "接触压力",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "接触压力",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            433.08,
+            293.26,
+            73.77,
+            32.4
+          ]
+        },
+        {
+          "index": 20,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            506.86,
+            293.26,
+            73.77,
+            32.4
+          ],
+          "text": "开始",
+          "textPreview": "开始",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "开始",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "开始",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            580.63,
+            293.26,
+            73.77,
+            32.4
+          ],
+          "text": "5.2 ",
+          "textPreview": "5.2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5.2 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5.2 ",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            654.4,
+            293.26,
+            73.77,
+            32.4
+          ],
+          "text": "160",
+          "textPreview": "160",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "160",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "160",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 3,
+          "column": 5,
+          "bbox": [
+            728.18,
+            293.26,
+            141.4,
+            32.4
+          ],
+          "text": "3.1 ",
+          "textPreview": "3.1",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3.1 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3.1 ",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 3,
+          "column": 6,
+          "bbox": [
+            869.57,
+            293.26,
+            175.86,
+            32.4
+          ],
+          "text": "(4.9)",
+          "textPreview": "(4.9)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "(4.9)",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "(4.9)",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 3,
+          "column": 7,
+          "bbox": [
+            1045.43,
+            293.26,
+            90.72,
+            32.4
+          ],
+          "text": "87.8",
+          "textPreview": "87.8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "87.8",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "87.8",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 3,
+          "column": 8,
+          "bbox": [
+            1136.15,
+            293.26,
+            83.16,
+            32.4
+          ],
+          "paragraphs": [
+            {
+              "index": 1,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "　",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 3,
+          "column": 9,
+          "bbox": [
+            1219.31,
+            293.26,
+            68.04,
+            32.4
+          ],
+          "text": "150",
+          "textPreview": "150",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "150",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "150",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            433.08,
+            325.66,
+            73.77,
+            32.4
+          ]
+        },
+        {
+          "index": 29,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            506.86,
+            325.66,
+            73.77,
+            32.4
+          ],
+          "text": "141",
+          "textPreview": "141",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "141",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "141",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            580.63,
+            325.66,
+            73.77,
+            32.4
+          ],
+          "text": "5.2 ",
+          "textPreview": "5.2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5.2 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5.2 ",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 31,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            654.4,
+            325.66,
+            73.77,
+            32.4
+          ],
+          "text": "180",
+          "textPreview": "180",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "180",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "180",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "row": 4,
+          "column": 5,
+          "bbox": [
+            728.18,
+            325.66,
+            141.4,
+            32.4
+          ],
+          "text": "2.9 ",
+          "textPreview": "2.9",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2.9 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2.9 ",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 33,
+          "row": 4,
+          "column": 6,
+          "bbox": [
+            869.57,
+            325.66,
+            175.86,
+            32.4
+          ],
+          "text": "(5.1)",
+          "textPreview": "(5.1)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "(5.1)",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "(5.1)",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 34,
+          "row": 4,
+          "column": 7,
+          "bbox": [
+            1045.43,
+            325.66,
+            90.72,
+            32.4
+          ],
+          "text": "88.2",
+          "textPreview": "88.2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "88.2",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "88.2",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 35,
+          "row": 4,
+          "column": 8,
+          "bbox": [
+            1136.15,
+            325.66,
+            83.16,
+            32.4
+          ],
+          "text": "136",
+          "textPreview": "136",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "136",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "136",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 36,
+          "row": 4,
+          "column": 9,
+          "bbox": [
+            1219.31,
+            325.66,
+            68.04,
+            32.4
+          ],
+          "text": "150",
+          "textPreview": "150",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "150",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "150",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 37,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            433.08,
+            358.05,
+            73.77,
+            32.4
+          ]
+        },
+        {
+          "index": 38,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            506.86,
+            358.05,
+            73.77,
+            32.4
+          ],
+          "text": "144",
+          "textPreview": "144",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "144",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "144",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 39,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            580.63,
+            358.05,
+            73.77,
+            32.4
+          ],
+          "text": "5.4 ",
+          "textPreview": "5.4",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5.4 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5.4 ",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 40,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            654.4,
+            358.05,
+            73.77,
+            32.4
+          ],
+          "text": "200",
+          "textPreview": "200",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "200",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "200",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 41,
+          "row": 5,
+          "column": 5,
+          "bbox": [
+            728.18,
+            358.05,
+            141.4,
+            32.4
+          ],
+          "text": "2.0 ",
+          "textPreview": "2.0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2.0 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2.0 ",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 42,
+          "row": 5,
+          "column": 6,
+          "bbox": [
+            869.57,
+            358.05,
+            175.86,
+            32.4
+          ],
+          "text": "(6.0)",
+          "textPreview": "(6.0)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "(6.0)",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "(6.0)",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 43,
+          "row": 5,
+          "column": 7,
+          "bbox": [
+            1045.43,
+            358.05,
+            90.72,
+            32.4
+          ],
+          "text": "90",
+          "textPreview": "90",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "90",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "90",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 44,
+          "row": 5,
+          "column": 8,
+          "bbox": [
+            1136.15,
+            358.05,
+            83.16,
+            32.4
+          ],
+          "text": "150",
+          "textPreview": "150",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "150",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "150",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 45,
+          "row": 5,
+          "column": 9,
+          "bbox": [
+            1219.31,
+            358.05,
+            68.04,
+            32.4
+          ],
+          "text": "150",
+          "textPreview": "150",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "150",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "150",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 46,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            433.08,
+            390.45,
+            73.77,
+            32.4
+          ]
+        },
+        {
+          "index": 47,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            506.86,
+            390.45,
+            73.77,
+            32.4
+          ],
+          "text": "150",
+          "textPreview": "150",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "150",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "150",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 48,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            580.63,
+            390.45,
+            73.77,
+            32.4
+          ],
+          "text": "5.6 ",
+          "textPreview": "5.6",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5.6 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5.6 ",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 49,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            654.4,
+            390.45,
+            73.77,
+            32.4
+          ],
+          "text": "220",
+          "textPreview": "220",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "220",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "220",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 50,
+          "row": 6,
+          "column": 5,
+          "bbox": [
+            728.18,
+            390.45,
+            141.4,
+            32.4
+          ],
+          "text": "1.6 ",
+          "textPreview": "1.6",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1.6 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1.6 ",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 51,
+          "row": 6,
+          "column": 6,
+          "bbox": [
+            869.57,
+            390.45,
+            175.86,
+            32.4
+          ],
+          "text": "(6.4)",
+          "textPreview": "(6.4)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "(6.4)",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "(6.4)",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 52,
+          "row": 6,
+          "column": 7,
+          "bbox": [
+            1045.43,
+            390.45,
+            90.72,
+            32.4
+          ],
+          "text": "90.8",
+          "textPreview": "90.8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "90.8",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "90.8",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 53,
+          "row": 6,
+          "column": 8,
+          "bbox": [
+            1136.15,
+            390.45,
+            83.16,
+            32.4
+          ],
+          "text": "175",
+          "textPreview": "175",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "175",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "175",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 54,
+          "row": 6,
+          "column": 9,
+          "bbox": [
+            1219.31,
+            390.45,
+            68.04,
+            32.4
+          ],
+          "text": "150",
+          "textPreview": "150",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "150",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "150",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 55,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            433.08,
+            422.84,
+            73.77,
+            32.4
+          ]
+        },
+        {
+          "index": 56,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            506.86,
+            422.84,
+            73.77,
+            32.4
+          ],
+          "text": "155",
+          "textPreview": "155",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "155",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "155",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 57,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            580.63,
+            422.84,
+            73.77,
+            32.4
+          ],
+          "text": "5.8 ",
+          "textPreview": "5.8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5.8 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5.8 ",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 58,
+          "row": 7,
+          "column": 4,
+          "bbox": [
+            654.4,
+            422.84,
+            73.77,
+            32.4
+          ],
+          "text": "240",
+          "textPreview": "240",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "240",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "240",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 59,
+          "row": 7,
+          "column": 5,
+          "bbox": [
+            728.18,
+            422.84,
+            141.4,
+            32.4
+          ],
+          "text": "1.2 ",
+          "textPreview": "1.2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1.2 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1.2 ",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 60,
+          "row": 7,
+          "column": 6,
+          "bbox": [
+            869.57,
+            422.84,
+            175.86,
+            32.4
+          ],
+          "text": "(6.8)",
+          "textPreview": "(6.8)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "(6.8)",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "(6.8)",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 61,
+          "row": 7,
+          "column": 7,
+          "bbox": [
+            1045.43,
+            422.84,
+            90.72,
+            32.4
+          ],
+          "text": "91.6",
+          "textPreview": "91.6",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "91.6",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "91.6",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 62,
+          "row": 7,
+          "column": 8,
+          "bbox": [
+            1136.15,
+            422.84,
+            83.16,
+            32.4
+          ],
+          "text": "200",
+          "textPreview": "200",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "200",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "200",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 63,
+          "row": 7,
+          "column": 9,
+          "bbox": [
+            1219.31,
+            422.84,
+            68.04,
+            32.4
+          ],
+          "text": "150",
+          "textPreview": "150",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "150",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "150",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 64,
+          "row": 8,
+          "column": 1,
+          "bbox": [
+            433.08,
+            455.24,
+            73.77,
+            32.4
+          ]
+        },
+        {
+          "index": 65,
+          "row": 8,
+          "column": 2,
+          "bbox": [
+            506.86,
+            455.24,
+            73.77,
+            32.4
+          ],
+          "text": "165",
+          "textPreview": "165",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "165",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "165",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 66,
+          "row": 8,
+          "column": 3,
+          "bbox": [
+            580.63,
+            455.24,
+            73.77,
+            32.4
+          ],
+          "text": "6.0 ",
+          "textPreview": "6.0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "6.0 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "6.0 ",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 67,
+          "row": 8,
+          "column": 4,
+          "bbox": [
+            654.4,
+            455.24,
+            73.77,
+            32.4
+          ],
+          "text": "260",
+          "textPreview": "260",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "260",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "260",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 68,
+          "row": 8,
+          "column": 5,
+          "bbox": [
+            728.18,
+            455.24,
+            141.4,
+            32.4
+          ],
+          "text": "0.8 ",
+          "textPreview": "0.8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0.8 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0.8 ",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 69,
+          "row": 8,
+          "column": 6,
+          "bbox": [
+            869.57,
+            455.24,
+            175.86,
+            32.4
+          ],
+          "text": "(7.2)",
+          "textPreview": "(7.2)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "(7.2)",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "(7.2)",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 70,
+          "row": 8,
+          "column": 7,
+          "bbox": [
+            1045.43,
+            455.24,
+            90.72,
+            32.4
+          ],
+          "text": "92.4",
+          "textPreview": "92.4",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "92.4",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "92.4",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 71,
+          "row": 8,
+          "column": 8,
+          "bbox": [
+            1136.15,
+            455.24,
+            83.16,
+            32.4
+          ],
+          "text": "250",
+          "textPreview": "250",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "250",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "250",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 72,
+          "row": 8,
+          "column": 9,
+          "bbox": [
+            1219.31,
+            455.24,
+            68.04,
+            32.4
+          ],
+          "text": "150",
+          "textPreview": "150",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "150",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "150",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 73,
+          "row": 9,
+          "column": 1,
+          "bbox": [
+            433.08,
+            487.64,
+            73.77,
+            32.4
+          ]
+        },
+        {
+          "index": 74,
+          "row": 9,
+          "column": 2,
+          "bbox": [
+            506.86,
+            487.64,
+            73.77,
+            32.4
+          ],
+          "text": "185",
+          "textPreview": "185",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "185",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "185",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 75,
+          "row": 9,
+          "column": 3,
+          "bbox": [
+            580.63,
+            487.64,
+            73.77,
+            32.4
+          ],
+          "text": "6.0 ",
+          "textPreview": "6.0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "6.0 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "6.0 ",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 76,
+          "row": 9,
+          "column": 4,
+          "bbox": [
+            654.4,
+            487.64,
+            73.77,
+            32.4
+          ],
+          "text": "280",
+          "textPreview": "280",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "280",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "280",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 77,
+          "row": 9,
+          "column": 5,
+          "bbox": [
+            728.18,
+            487.64,
+            141.4,
+            32.4
+          ],
+          "text": "0.8 ",
+          "textPreview": "0.8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0.8 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0.8 ",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 78,
+          "row": 9,
+          "column": 6,
+          "bbox": [
+            869.57,
+            487.64,
+            175.86,
+            32.4
+          ],
+          "text": "(7.2)",
+          "textPreview": "(7.2)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "(7.2)",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "(7.2)",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 79,
+          "row": 9,
+          "column": 7,
+          "bbox": [
+            1045.43,
+            487.64,
+            90.72,
+            32.4
+          ],
+          "text": "92.4",
+          "textPreview": "92.4",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "92.4",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "92.4",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 80,
+          "row": 9,
+          "column": 8,
+          "bbox": [
+            1136.15,
+            487.64,
+            83.16,
+            32.4
+          ],
+          "text": "300",
+          "textPreview": "300",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "300",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "300",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 81,
+          "row": 9,
+          "column": 9,
+          "bbox": [
+            1219.31,
+            487.64,
+            68.04,
+            32.4
+          ],
+          "text": "150",
+          "textPreview": "150",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "150",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "150",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 82,
+          "row": 10,
+          "column": 1,
+          "bbox": [
+            433.08,
+            520.03,
+            73.77,
+            32.4
+          ]
+        },
+        {
+          "index": 83,
+          "row": 10,
+          "column": 2,
+          "bbox": [
+            506.86,
+            520.03,
+            73.77,
+            32.4
+          ],
+          "text": "255",
+          "textPreview": "255",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "255",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "255",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 84,
+          "row": 10,
+          "column": 3,
+          "bbox": [
+            580.63,
+            520.03,
+            73.77,
+            32.4
+          ],
+          "text": "5.6 ",
+          "textPreview": "5.6",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5.6 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5.6 ",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 85,
+          "row": 10,
+          "column": 4,
+          "bbox": [
+            654.4,
+            520.03,
+            73.77,
+            32.4
+          ],
+          "text": "300",
+          "textPreview": "300",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "300",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "300",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 86,
+          "row": 10,
+          "column": 5,
+          "bbox": [
+            728.18,
+            520.03,
+            141.4,
+            32.4
+          ],
+          "text": "1.2 ",
+          "textPreview": "1.2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1.2 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1.2 ",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 87,
+          "row": 10,
+          "column": 6,
+          "bbox": [
+            869.57,
+            520.03,
+            175.86,
+            32.4
+          ],
+          "text": "(6.8)",
+          "textPreview": "(6.8)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "(6.8)",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "(6.8)",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 88,
+          "row": 10,
+          "column": 7,
+          "bbox": [
+            1045.43,
+            520.03,
+            90.72,
+            32.4
+          ],
+          "text": "91.6",
+          "textPreview": "91.6",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "91.6",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "91.6",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 89,
+          "row": 10,
+          "column": 8,
+          "bbox": [
+            1136.15,
+            520.03,
+            83.16,
+            32.4
+          ],
+          "text": "350",
+          "textPreview": "350",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "350",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "350",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 90,
+          "row": 10,
+          "column": 9,
+          "bbox": [
+            1219.31,
+            520.03,
+            68.04,
+            32.4
+          ],
+          "text": "150",
+          "textPreview": "150",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "150",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "150",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 91,
+          "row": 11,
+          "column": 1,
+          "bbox": [
+            433.08,
+            552.43,
+            73.77,
+            32.4
+          ]
+        },
+        {
+          "index": 92,
+          "row": 11,
+          "column": 2,
+          "bbox": [
+            506.86,
+            552.43,
+            73.77,
+            32.4
+          ],
+          "text": "375",
+          "textPreview": "375",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "375",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "375",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 93,
+          "row": 11,
+          "column": 3,
+          "bbox": [
+            580.63,
+            552.43,
+            73.77,
+            32.4
+          ],
+          "text": "5.0 ",
+          "textPreview": "5.0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5.0 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5.0 ",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 94,
+          "row": 11,
+          "column": 4,
+          "bbox": [
+            654.4,
+            552.43,
+            73.77,
+            32.4
+          ],
+          "text": "320",
+          "textPreview": "320",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "320",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "320",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 95,
+          "row": 11,
+          "column": 5,
+          "bbox": [
+            728.18,
+            552.43,
+            141.4,
+            32.4
+          ],
+          "text": "1.7 ",
+          "textPreview": "1.7",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1.7 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1.7 ",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 96,
+          "row": 11,
+          "column": 6,
+          "bbox": [
+            869.57,
+            552.43,
+            175.86,
+            32.4
+          ],
+          "text": "(6.3)",
+          "textPreview": "(6.3)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "(6.3)",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "(6.3)",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 97,
+          "row": 11,
+          "column": 7,
+          "bbox": [
+            1045.43,
+            552.43,
+            90.72,
+            32.4
+          ],
+          "text": "90.6",
+          "textPreview": "90.6",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "90.6",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "90.6",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 98,
+          "row": 11,
+          "column": 8,
+          "bbox": [
+            1136.15,
+            552.43,
+            83.16,
+            32.4
+          ],
+          "text": "380",
+          "textPreview": "380",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "380",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "380",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 99,
+          "row": 11,
+          "column": 9,
+          "bbox": [
+            1219.31,
+            552.43,
+            68.04,
+            32.4
+          ],
+          "text": "150",
+          "textPreview": "150",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "150",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "150",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 100,
+          "row": 12,
+          "column": 1,
+          "bbox": [
+            433.08,
+            584.82,
+            73.77,
+            32.4
+          ]
+        },
+        {
+          "index": 101,
+          "row": 12,
+          "column": 2,
+          "bbox": [
+            506.86,
+            584.82,
+            73.77,
+            32.4
+          ],
+          "text": "切换",
+          "textPreview": "切换",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "切换",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "切换",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 102,
+          "row": 12,
+          "column": 3,
+          "bbox": [
+            580.63,
+            584.82,
+            73.77,
+            32.4
+          ],
+          "text": "5.0 ",
+          "textPreview": "5.0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5.0 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5.0 ",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 103,
+          "row": 12,
+          "column": 4,
+          "bbox": [
+            654.4,
+            584.82,
+            73.77,
+            32.4
+          ],
+          "text": "340",
+          "textPreview": "340",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "340",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "340",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 104,
+          "row": 12,
+          "column": 5,
+          "bbox": [
+            728.18,
+            584.82,
+            141.4,
+            32.4
+          ],
+          "text": "3.2 ",
+          "textPreview": "3.2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3.2 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3.2 ",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 105,
+          "row": 12,
+          "column": 6,
+          "bbox": [
+            869.57,
+            584.82,
+            175.86,
+            32.4
+          ],
+          "text": "(4.8)",
+          "textPreview": "(4.8)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "(4.8)",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "(4.8)",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 106,
+          "row": 12,
+          "column": 7,
+          "bbox": [
+            1045.43,
+            584.82,
+            90.72,
+            32.4
+          ],
+          "text": "87.6",
+          "textPreview": "87.6",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "87.6",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "87.6",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 107,
+          "row": 12,
+          "column": 8,
+          "rowSpan": 3,
+          "colSpan": 2,
+          "bbox": [
+            1136.15,
+            584.82,
+            151.2,
+            97.19
+          ],
+          "text": "卷绕张力10.5cN　",
+          "textPreview": "卷绕张力10.5cN",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "卷绕张力10.5cN　",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "卷绕张力",
+                  "fontSize": 18.67
+                },
+                {
+                  "index": 2,
+                  "text": "10.5cN",
+                  "fontSize": 18.67
+                },
+                {
+                  "index": 3,
+                  "text": "　",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 108,
+          "row": 12,
+          "column": 9,
+          "rowSpan": 3,
+          "bbox": [
+            1219.31,
+            584.82,
+            68.04,
+            97.19
+          ]
+        },
+        {
+          "index": 109,
+          "row": 13,
+          "column": 1,
+          "bbox": [
+            433.08,
+            617.22,
+            73.77,
+            32.4
+          ],
+          "text": "卷径",
+          "textPreview": "卷径",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "卷径",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "卷径",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 110,
+          "row": 13,
+          "column": 2,
+          "bbox": [
+            506.86,
+            617.22,
+            73.77,
+            32.4
+          ],
+          "text": "370.9",
+          "textPreview": "370.9",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "370.9",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "370.9",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 111,
+          "row": 13,
+          "column": 3,
+          "bbox": [
+            580.63,
+            617.22,
+            73.77,
+            32.4
+          ],
+          "text": "367.1",
+          "textPreview": "367.1",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "367.1",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "367.1",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 112,
+          "row": 13,
+          "column": 4,
+          "bbox": [
+            654.4,
+            617.22,
+            73.77,
+            32.4
+          ],
+          "text": "360",
+          "textPreview": "360",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "360",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "360",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 113,
+          "row": 13,
+          "column": 5,
+          "bbox": [
+            728.18,
+            617.22,
+            141.4,
+            32.4
+          ],
+          "text": "7.0 ",
+          "textPreview": "7.0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "7.0 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "7.0 ",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 114,
+          "row": 13,
+          "column": 6,
+          "bbox": [
+            869.57,
+            617.22,
+            175.86,
+            32.4
+          ],
+          "text": "(1.0)",
+          "textPreview": "(1.0)",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "(1.0)",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "(1.0)",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 115,
+          "row": 13,
+          "column": 7,
+          "bbox": [
+            1045.43,
+            617.22,
+            90.72,
+            32.4
+          ],
+          "text": "80",
+          "textPreview": "80",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "80",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "80",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 116,
+          "row": 13,
+          "column": 8,
+          "colSpan": 2,
+          "bbox": [
+            1136.15,
+            617.22,
+            151.2,
+            32.4
+          ]
+        },
+        {
+          "index": 117,
+          "row": 13,
+          "column": 9,
+          "bbox": [
+            1219.31,
+            617.22,
+            68.04,
+            32.4
+          ]
+        },
+        {
+          "index": 118,
+          "row": 14,
+          "column": 1,
+          "colSpan": 3,
+          "bbox": [
+            433.08,
+            649.62,
+            221.32,
+            32.4
+          ],
+          "paragraphs": [
+            {
+              "index": 1,
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "　",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 119,
+          "row": 14,
+          "column": 2,
+          "bbox": [
+            506.86,
+            649.62,
+            73.77,
+            32.4
+          ]
+        },
+        {
+          "index": 120,
+          "row": 14,
+          "column": 3,
+          "bbox": [
+            580.63,
+            649.62,
+            73.77,
+            32.4
+          ]
+        },
+        {
+          "index": 121,
+          "row": 14,
+          "column": 4,
+          "bbox": [
+            654.4,
+            649.62,
+            73.77,
+            32.4
+          ],
+          "text": "最外面",
+          "textPreview": "最外面",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "最外面",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "最外面",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 122,
+          "row": 14,
+          "column": 5,
+          "bbox": [
+            728.18,
+            649.62,
+            141.4,
+            32.4
+          ],
+          "text": "8",
+          "textPreview": "8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "8",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "8",
+                  "fontSize": 18.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 123,
+          "row": 14,
+          "column": 6,
+          "bbox": [
+            869.57,
+            649.62,
+            175.86,
+            32.4
+          ],
+          "text": "0.0 ",
+          "textPreview": "0.0",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0.0 ",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0.0 ",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 124,
+          "row": 14,
+          "column": 7,
+          "bbox": [
+            1045.43,
+            649.62,
+            90.72,
+            32.4
+          ],
+          "text": "78",
+          "textPreview": "78",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "78",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "78",
+                  "fontSize": 18.67,
+                  "color": "#FF0000",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 125,
+          "row": 14,
+          "column": 8,
+          "colSpan": 2,
+          "bbox": [
+            1136.15,
+            649.62,
+            151.2,
+            32.4
+          ]
+        },
+        {
+          "index": 126,
+          "row": 14,
+          "column": 9,
+          "bbox": [
+            1219.31,
+            649.62,
+            68.04,
+            32.4
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/wfyxobm5",
+      "id": "14",
+      "name": "图片 3",
+      "bbox": [
+        32.41,
+        228.47,
+        347.76,
+        453.64
+      ],
+      "contentType": "image/jpeg",
+      "asset": {
+        "assetId": "/ppt/media/image7.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 163812
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image7.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 163812
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5wjudg7a",
+      "id": "12",
+      "name": "TextBox 11",
+      "bbox": [
+        440.62,
+        27.36,
+        468.73,
+        80.15
+      ],
+      "geometry": "rect",
+      "text": "对策实施",
+      "textPreview": "对策实施",
+      "resolvedFontSize": 58.67,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 58.67,
+        "typeface": "Calibri",
+        "color": "lt1",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "对策实施"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "对策实施",
+          "runs": [
+            {
+              "index": 1,
+              "text": "对策实施"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d8v6psfi",
+      "id": "7",
+      "name": "Text Box 3",
+      "bbox": [
+        70.21,
+        137.75,
+        1194.46,
+        87.24
+      ],
+      "geometry": "rect",
+      "text": "从照片中可以看出中间突出段和丝饼最外面有明显差距，从实验数据也可以看出丝饼中间的动程与最外侧相差14.4mm，而且从丝饼凸出段到外侧变化量明显。",
+      "textPreview": "从照片中可以看出中间突出段和丝饼最外面有明显差距，从实验数据也可以看出丝饼中间的动程与最外侧相差14.4mm，而且从丝饼凸出段到外侧变化量明显。",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "fontSize": 32,
+        "typeface": "Arial",
+        "color": "accent1",
+        "bold": true,
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "从照片中可以看出中间突出段和丝饼最外面有明显差距，从实验数据也可以看出丝"
+          },
+          {
+            "index": 2,
+            "text": "饼中间的动程与最外侧相差14.4mm，而且从丝饼凸出段到外侧变化量明显。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "从照片中可以看出中间突出段和丝饼最外面有明显差距，从实验数据也可以看出丝饼中间的动程与最外侧相差14.4mm，而且从丝饼凸出段到外侧变化量明显。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "从照片中可以看出中间突出段和丝饼最外面有明显差距，从实验数据也可以看出丝饼中间的动程与最外侧相差"
+            },
+            {
+              "index": 2,
+              "text": "14.4mm"
+            },
+            {
+              "index": 3,
+              "text": "，而且从丝饼凸出段到外侧变化量明显。"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

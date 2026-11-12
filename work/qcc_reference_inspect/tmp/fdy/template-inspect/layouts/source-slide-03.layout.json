@@ -1,0 +1,1974 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/s72x4nap",
+    "id": "s72x4nap",
+    "slide": 3,
+    "layoutId": "/ppt/slideLayouts/slideLayout3.xml",
+    "layoutName": "标题和内容",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1350,
+      "height": 759.33
+    }
+  },
+  "theme": {
+    "colorSchemeName": "自定义 85",
+    "colors": {
+      "accent1": "#4BC1DD",
+      "accent2": "#435F8E",
+      "accent3": "#4BC1DD",
+      "accent4": "#435F8E",
+      "accent5": "#4BC1DD",
+      "accent6": "#435F8E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#4BC1DD",
+      "folHlink": "#435F8E"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "华文行楷",
+      "黑体"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout3.xml",
+      "name": "标题和内容",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "image",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout3.xml/1",
+          "id": "1",
+          "name": "图片 10",
+          "bbox": [
+            0,
+            0,
+            254.92,
+            116.56
+          ],
+          "contentType": "image/png",
+          "imageCrop": {
+            "left": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "asset": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 28068
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 28068
+          }
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "标题占位符 1",
+          "bbox": [
+            92.83,
+            40.5,
+            1164.33,
+            146.67
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版标题样式",
+          "textPreview": "单击此处编辑母版标题样式",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版标题样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版标题样式"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "文本占位符 2",
+          "bbox": [
+            92.83,
+            202.17,
+            1164.33,
+            481.83
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版文本样式\n第二级\n第三级\n第四级\n第五级",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版文本样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版文本样式"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "第二级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第二级"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "第三级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第三级"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "第四级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第四级"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "第五级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第五级"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "日期占位符 3",
+          "bbox": [
+            92.83,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "2018-10-24",
+          "textPreview": "2018-10-24",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2018-10-24",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2018-10-24"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "页脚占位符 4",
+          "bbox": [
+            447.17,
+            703.83,
+            455.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            953.5,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "kind": "image",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/11",
+          "id": "11",
+          "name": "图片 6",
+          "bbox": [
+            0,
+            0,
+            254.92,
+            116.56
+          ],
+          "contentType": "image/png",
+          "imageCrop": {
+            "left": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "asset": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 28068
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 28068
+          }
+        },
+        {
+          "order": 7,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/10",
+          "id": "10",
+          "name": "艺术字 4",
+          "bbox": [
+            377.33,
+            714.53,
+            584.71,
+            35.31
+          ],
+          "geometry": "rect",
+          "text": "提供优质纤维   创造美好生活",
+          "textPreview": "提供优质纤维   创造美好生活",
+          "resolvedTextStyle": {
+            "wrap": "none",
+            "insets": {
+              "top": 6.03,
+              "right": 12.05,
+              "bottom": 6.03,
+              "left": 12.05
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "提供优质纤维   创造美好生活",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "提供优质纤维   创造美好生活",
+                  "fontSize": 26.67,
+                  "typeface": "华文行楷",
+                  "color": "bg1",
+                  "bold": true
+                }
+              ]
+            }
+          ],
+          "lineWidth": 0
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/lkjm1cfa",
+      "id": "6",
+      "name": "Group 5",
+      "bbox": [
+        69.38,
+        172.61,
+        1211.72,
+        486.11
+      ],
+      "text": "序号 | 组员 | 性别 | 文化程度 | QC职务 | 组内分工\n1 | 朱昌波 | 男 | 大专 | 组长 | 组织策划\n2 | 周志华 | 男 | 本科 | 组员 | 活动实施\n3 | 王峰杰 | 男 | 本科 | 组员 | 活动实施\n4 | 钟    杰 | 男 | 本科 | 组员 | 活动实施\n5 | 徐伟豪 | 男 | 本科 | 组员 | 活动实施\n6 | 徐振天 | 男 | 大专 | 组员 | 活动实施",
+      "textPreview": "序号 | 组员 | 性别 | 文化程度 | QC职务 | 组内分工 | 1 | 朱昌波 | 男 | 大专 | 组长 | 组织策划 | 2 | 周志华 | 男 | 本科 | 组员 | 活动实施 | 3 | 王峰杰 | 男 | 本科 | 组员 | 活动实施 | 4 | 钟   ...",
+      "rows": 7,
+      "cols": 6,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            69.38,
+            172.61,
+            201.8,
+            70.29
+          ],
+          "text": "序号",
+          "textPreview": "序号",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "序号",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "序号",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            271.17,
+            172.61,
+            202.03,
+            70.29
+          ],
+          "text": "组员",
+          "textPreview": "组员",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "组员",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "组员",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            473.2,
+            172.61,
+            192.19,
+            70.29
+          ],
+          "text": "性别",
+          "textPreview": "性别",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "性别",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "性别",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            665.39,
+            172.61,
+            217.73,
+            70.29
+          ],
+          "text": "文化程度",
+          "textPreview": "文化程度",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "文化程度",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "文化程度",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 5,
+          "bbox": [
+            883.13,
+            172.61,
+            199.45,
+            70.29
+          ],
+          "text": "QC职务",
+          "textPreview": "QC职务",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "QC职务",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "QC",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                },
+                {
+                  "index": 2,
+                  "text": "职务",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 1,
+          "column": 6,
+          "bbox": [
+            1082.58,
+            172.61,
+            198.52,
+            70.29
+          ],
+          "text": "组内分工",
+          "textPreview": "组内分工",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "组内分工",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "组内分工",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            69.38,
+            242.89,
+            201.8,
+            70.29
+          ],
+          "text": "1",
+          "textPreview": "1",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            271.17,
+            242.89,
+            202.03,
+            70.29
+          ],
+          "text": "朱昌波",
+          "textPreview": "朱昌波",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "朱昌波",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "朱昌波",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            473.2,
+            242.89,
+            192.19,
+            70.29
+          ],
+          "text": "男",
+          "textPreview": "男",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "男",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "男",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            665.39,
+            242.89,
+            217.73,
+            70.29
+          ],
+          "text": "大专",
+          "textPreview": "大专",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "大专",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "大专",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 2,
+          "column": 5,
+          "bbox": [
+            883.13,
+            242.89,
+            199.45,
+            70.29
+          ],
+          "text": "组长",
+          "textPreview": "组长",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "组长",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "组长",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 2,
+          "column": 6,
+          "bbox": [
+            1082.58,
+            242.89,
+            198.52,
+            70.29
+          ],
+          "text": "组织策划",
+          "textPreview": "组织策划",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "组织策划",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "组织策划",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            69.38,
+            313.18,
+            201.8,
+            70.29
+          ],
+          "text": "2",
+          "textPreview": "2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            271.17,
+            313.18,
+            202.03,
+            70.29
+          ],
+          "text": "周志华",
+          "textPreview": "周志华",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "周志华",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "周志华",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            473.2,
+            313.18,
+            192.19,
+            70.29
+          ],
+          "text": "男",
+          "textPreview": "男",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "男",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "男",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            665.39,
+            313.18,
+            217.73,
+            70.29
+          ],
+          "text": "本科",
+          "textPreview": "本科",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "本科",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "本科",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 3,
+          "column": 5,
+          "bbox": [
+            883.13,
+            313.18,
+            199.45,
+            70.29
+          ],
+          "text": "组员",
+          "textPreview": "组员",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "组员",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "组员",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 3,
+          "column": 6,
+          "bbox": [
+            1082.58,
+            313.18,
+            198.52,
+            70.29
+          ],
+          "text": "活动实施",
+          "textPreview": "活动实施",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "活动实施",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "活动实施",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            69.38,
+            383.47,
+            201.8,
+            70.97
+          ],
+          "text": "3",
+          "textPreview": "3",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            271.17,
+            383.47,
+            202.03,
+            70.97
+          ],
+          "text": "王峰杰",
+          "textPreview": "王峰杰",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "王峰杰",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "王峰杰",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            473.2,
+            383.47,
+            192.19,
+            70.97
+          ],
+          "text": "男",
+          "textPreview": "男",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "男",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "男",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            665.39,
+            383.47,
+            217.73,
+            70.97
+          ],
+          "text": "本科",
+          "textPreview": "本科",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "本科",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "本科",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 4,
+          "column": 5,
+          "bbox": [
+            883.13,
+            383.47,
+            199.45,
+            70.97
+          ],
+          "text": "组员",
+          "textPreview": "组员",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "组员",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "组员",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 4,
+          "column": 6,
+          "bbox": [
+            1082.58,
+            383.47,
+            198.52,
+            70.97
+          ],
+          "text": "活动实施",
+          "textPreview": "活动实施",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "活动实施",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "活动实施",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            69.38,
+            454.43,
+            201.8,
+            70.29
+          ],
+          "text": "4",
+          "textPreview": "4",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            271.17,
+            454.43,
+            202.03,
+            70.29
+          ],
+          "text": "钟    杰",
+          "textPreview": "钟    杰",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "钟    杰",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "钟    杰",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            473.2,
+            454.43,
+            192.19,
+            70.29
+          ],
+          "text": "男",
+          "textPreview": "男",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "男",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "男",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            665.39,
+            454.43,
+            217.73,
+            70.29
+          ],
+          "text": "本科",
+          "textPreview": "本科",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "本科",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "本科",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 29,
+          "row": 5,
+          "column": 5,
+          "bbox": [
+            883.13,
+            454.43,
+            199.45,
+            70.29
+          ],
+          "text": "组员",
+          "textPreview": "组员",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "组员",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "组员",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "row": 5,
+          "column": 6,
+          "bbox": [
+            1082.58,
+            454.43,
+            198.52,
+            70.29
+          ],
+          "text": "活动实施",
+          "textPreview": "活动实施",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "活动实施",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "活动实施",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 31,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            69.38,
+            524.72,
+            201.8,
+            63.71
+          ],
+          "text": "5",
+          "textPreview": "5",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "5",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "5",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            271.17,
+            524.72,
+            202.03,
+            63.71
+          ],
+          "text": "徐伟豪",
+          "textPreview": "徐伟豪",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "徐伟豪",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "徐伟豪",
+                  "fontSize": 22.67,
+                  "typeface": "Calibri",
+                  "color": "#000000",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 33,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            473.2,
+            524.72,
+            192.19,
+            63.71
+          ],
+          "text": "男",
+          "textPreview": "男",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "男",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "男",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 34,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            665.39,
+            524.72,
+            217.73,
+            63.71
+          ],
+          "text": "本科",
+          "textPreview": "本科",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "本科",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "本科",
+                  "fontSize": 22.67,
+                  "typeface": "Calibri",
+                  "color": "#000000",
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 35,
+          "row": 6,
+          "column": 5,
+          "bbox": [
+            883.13,
+            524.72,
+            199.45,
+            63.71
+          ],
+          "text": "组员",
+          "textPreview": "组员",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "组员",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "组员",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 36,
+          "row": 6,
+          "column": 6,
+          "bbox": [
+            1082.58,
+            524.72,
+            198.52,
+            63.71
+          ],
+          "text": "活动实施",
+          "textPreview": "活动实施",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "活动实施",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "活动实施",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 37,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            69.38,
+            588.43,
+            201.8,
+            70.29
+          ],
+          "text": "6",
+          "textPreview": "6",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "6",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "6",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 38,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            271.17,
+            588.43,
+            202.03,
+            70.29
+          ],
+          "text": "徐振天",
+          "textPreview": "徐振天",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "徐振天",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "徐振天",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 39,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            473.2,
+            588.43,
+            192.19,
+            70.29
+          ],
+          "text": "男",
+          "textPreview": "男",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "男",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "男",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 40,
+          "row": 7,
+          "column": 4,
+          "bbox": [
+            665.39,
+            588.43,
+            217.73,
+            70.29
+          ],
+          "text": "大专",
+          "textPreview": "大专",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "大专",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "大专",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 41,
+          "row": 7,
+          "column": 5,
+          "bbox": [
+            883.13,
+            588.43,
+            199.45,
+            70.29
+          ],
+          "text": "组员",
+          "textPreview": "组员",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "组员",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "组员",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 42,
+          "row": 7,
+          "column": 6,
+          "bbox": [
+            1082.58,
+            588.43,
+            198.52,
+            70.29
+          ],
+          "text": "活动实施",
+          "textPreview": "活动实施",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "活动实施",
+              "marginLeft": 0,
+              "indent": 0,
+              "lineSpacingPercent": 100000,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "resolvedTextStyle": {
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "活动实施",
+                  "fontSize": 22.67,
+                  "textTransform": "none"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vy90je9c",
+      "id": "5",
+      "name": "Rectangle 2",
+      "bbox": [
+        58.4,
+        116.36,
+        489.14,
+        47.99
+      ],
+      "geometry": "rect",
+      "text": "小组成员简介：",
+      "textPreview": "小组成员简介：",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "fontSize": 32,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 6.03,
+          "right": 12.05,
+          "bottom": 6.03,
+          "left": 12.05
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": "小组成员简介："
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "小组成员简介：",
+          "lineSpacingPercent": 80000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "小组成员简介：",
+              "fontSize": 46.67,
+              "typeface": "黑体",
+              "color": {
+                "type": "theme",
+                "value": "accent1",
+                "transform": {
+                  "lighten": 0.4
+                }
+              },
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 274320,
+          "indent": -274320,
+          "spaceBefore": 600
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

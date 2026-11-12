@@ -1,0 +1,1309 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/8z25kb6x",
+    "id": "8z25kb6x",
+    "slide": 16,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "5_标题和内容",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1350,
+      "height": 759.33
+    }
+  },
+  "theme": {
+    "colorSchemeName": "自定义 360",
+    "colors": {
+      "accent1": "#02994F",
+      "accent2": "#92D050",
+      "accent3": "#02994F",
+      "accent4": "#92D050",
+      "accent5": "#02994F",
+      "accent6": "#92D050",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#02994F",
+      "folHlink": "#92D050"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "+mn-ea",
+      "Calibri",
+      "Calibri Light",
+      "华文新魏",
+      "华文行楷",
+      "微软雅黑"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "5_标题和内容",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "标题占位符 1",
+          "bbox": [
+            92.83,
+            40.5,
+            1164.33,
+            146.67
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版标题样式",
+          "textPreview": "单击此处编辑母版标题样式",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版标题样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版标题样式"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "文本占位符 2",
+          "bbox": [
+            92.83,
+            202.17,
+            1164.33,
+            481.83
+          ],
+          "geometry": "rect",
+          "text": "单击此处编辑母版文本样式\n第二级\n第三级\n第四级\n第五级",
+          "textPreview": "单击此处编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "单击此处编辑母版文本样式",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "单击此处编辑母版文本样式"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "第二级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第二级"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "第三级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第三级"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "第四级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第四级"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "第五级",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "第五级"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "日期占位符 3",
+          "bbox": [
+            92.83,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "2021-04-13",
+          "textPreview": "2021-04-13",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2021-04-13",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2021-04-13"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "页脚占位符 4",
+          "bbox": [
+            447.17,
+            703.83,
+            455.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            953.5,
+            703.83,
+            303.67,
+            40.33
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "kind": "image",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/10",
+          "id": "10",
+          "name": "图片 6",
+          "bbox": [
+            -0.18,
+            1.67,
+            221.53,
+            83.16
+          ],
+          "contentType": "image/png",
+          "asset": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 56029
+          },
+          "fillImage": {
+            "assetId": "/ppt/media/image1.png",
+            "contentType": "image/png",
+            "byteLength": 56029
+          }
+        },
+        {
+          "order": 7,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/9",
+          "id": "9",
+          "name": "TextBox 8",
+          "bbox": [
+            0,
+            715.66,
+            1350,
+            42.01
+          ],
+          "geometry": "rect",
+          "text": "提供优质纤维         创造美好生活",
+          "textPreview": "提供优质纤维         创造美好生活",
+          "resolvedTextStyle": {
+            "wrap": "square",
+            "autoFit": "resizeShapeToFitText"
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "提供优质纤维         创造美好生活",
+              "resolvedTextStyle": {
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "提供优质纤维         创造美好生活",
+                  "fontSize": 26.67,
+                  "typeface": "华文行楷"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zqtcj6to",
+      "id": "26",
+      "name": "Rectangle 3",
+      "bbox": [
+        0,
+        20.28,
+        1350,
+        53.1
+      ],
+      "geometry": "rect",
+      "text": "要因确认",
+      "textPreview": "要因确认",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "要因确认"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "要因确认",
+          "lineSpacingPercent": 90000,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "要因确认",
+              "fontSize": 42.67,
+              "typeface": "华文新魏",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d8v6psfi",
+      "id": "11",
+      "name": "矩形 10",
+      "bbox": [
+        70.21,
+        183.11,
+        566.99,
+        58.77
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "   "
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "lineSpacingPercent": 150000,
+          "spaceBefore": 0,
+          "spaceAfter": 0,
+          "runs": [
+            {
+              "index": 1,
+              "text": "   ",
+              "fontSize": 32,
+              "typeface": "+mn-ea"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6hcrmhk3",
+      "id": "12",
+      "name": "Oval 88",
+      "bbox": [
+        9.73,
+        99.95,
+        408.23,
+        54.53
+      ],
+      "geometry": "ellipse",
+      "text": "因素六：油架高度太低",
+      "textPreview": "因素六：油架高度太低",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "因素六：油架高度太低"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "因素六：油架高度太低",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "因素六：油架高度太低",
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#00B0F0",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z25kb6xk",
+      "id": "13",
+      "name": "Rectangle 10",
+      "bbox": [
+        433,
+        657.96,
+        506.6,
+        48.47
+      ],
+      "geometry": "rect",
+      "text": "结论：油架高低太低，属非要因。",
+      "textPreview": "结论：油架高低太低，属非要因。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "结论：油架高低太低，属非要因。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "结论：油架高低太低，属非要因。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "结论",
+              "fontSize": 32,
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "：",
+              "fontSize": 32,
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "油",
+              "fontSize": 32,
+              "typeface": "+mn-ea",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "架高低太低",
+              "fontSize": 32,
+              "typeface": "+mn-ea",
+              "bold": true
+            },
+            {
+              "index": 5,
+              "text": "，",
+              "fontSize": 32,
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 6,
+              "text": "属",
+              "fontSize": 32,
+              "color": "#000000",
+              "bold": true
+            },
+            {
+              "index": 7,
+              "text": "非要因",
+              "fontSize": 32,
+              "color": "#FF0000",
+              "bold": true
+            },
+            {
+              "index": 8,
+              "text": "。",
+              "fontSize": 32,
+              "color": "#000000",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ovahoza1",
+      "id": "14",
+      "name": "矩形 13",
+      "bbox": [
+        486,
+        114.62,
+        370.43,
+        533.16
+      ],
+      "geometry": "rect",
+      "text": "    考虑到之前FDY因为油架高度太高，丝束晃动严重，容易擦到风筒边缘产生毛丝，油架高度从800mm调整至600mm后有明显改善。\n    所以针对4线POY，也尝试抬高油架高度，选择4线20#和21#（这2个位丝束打转锭位多）待这两个位满卷后，从原900mm的油架高度逐步调整850mm、800mm、750mm，发现丝束打转情况没有明显改善，抬回900mm。试验结束后将试验小丝转掉钩废丝",
+      "textPreview": "考虑到之前FDY因为油架高度太高，丝束晃动严重，容易擦到风筒边缘产生毛丝，油架高度从800mm调整至600mm后有明显改善。 |     所以针对4线POY，也尝试抬高油架高度，选择4线20#和21#（这2个位丝束打转锭位多）待这两个位满卷后，从原900mm的油架高度逐步调...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "square",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 16,
+        "lines": [
+          {
+            "index": 1,
+            "text": "    考虑到之前FDY"
+          },
+          {
+            "index": 2,
+            "text": "因为油架高度太高，丝束晃动严"
+          },
+          {
+            "index": 3,
+            "text": "重，容易擦到风筒边缘产生毛丝"
+          },
+          {
+            "index": 4,
+            "text": "，油架高度从800mm调整至"
+          },
+          {
+            "index": 5,
+            "text": "600mm后有明显改善。"
+          },
+          {
+            "index": 6,
+            "text": "    所以针对4线POY"
+          },
+          {
+            "index": 7,
+            "text": "，也尝试抬高油架高度，选择4线"
+          },
+          {
+            "index": 8,
+            "text": "20#和21#（这2"
+          },
+          {
+            "index": 9,
+            "text": "个位丝束打转锭位多）待这两个"
+          },
+          {
+            "index": 10,
+            "text": "位满卷后，从原900mm"
+          },
+          {
+            "index": 11,
+            "text": "的油架高度逐步调整850mm、"
+          },
+          {
+            "index": 12,
+            "text": "800mm、750mm"
+          },
+          {
+            "index": 13,
+            "text": "，发现丝束打转情况没有明显改"
+          },
+          {
+            "index": 14,
+            "text": "善，抬回900mm"
+          },
+          {
+            "index": 15,
+            "text": "。试验结束后将试验小丝转掉钩"
+          },
+          {
+            "index": 16,
+            "text": "废丝"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "    考虑到之前FDY因为油架高度太高，丝束晃动严重，容易擦到风筒边缘产生毛丝，油架高度从800mm调整至600mm后有明显改善。",
+          "lineSpacingPercent": 150000,
+          "spaceBefore": 0,
+          "spaceAfter": 0,
+          "runs": [
+            {
+              "index": 1,
+              "text": "    考虑到之前",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 2,
+              "text": "FDY",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 3,
+              "text": "因为油架高度太高，丝束晃动严重，容易擦到风筒边缘产生毛丝，油架高度从",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 4,
+              "text": "800mm",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 5,
+              "text": "调整至",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 6,
+              "text": "600mm",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 7,
+              "text": "后有明显改善。",
+              "typeface": "+mn-ea"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "    所以针对4线POY，也尝试抬高油架高度，选择4线20#和21#（这2个位丝束打转锭位多）待这两个位满卷后，从原900mm的油架高度逐步调整850mm、800mm、750mm，发现丝束打转情况没有明显改善，抬回900mm。试验结束后将试验小丝转掉钩废丝",
+          "lineSpacingPercent": 150000,
+          "spaceBefore": 0,
+          "spaceAfter": 0,
+          "runs": [
+            {
+              "index": 1,
+              "text": "    所以针对",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 2,
+              "text": "4",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 3,
+              "text": "线",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 4,
+              "text": "POY",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 5,
+              "text": "，也尝试抬高油架高度，选择",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 6,
+              "text": "4",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 7,
+              "text": "线",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 8,
+              "text": "20#",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 9,
+              "text": "和",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 10,
+              "text": "21#",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 11,
+              "text": "（这",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 12,
+              "text": "2",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 13,
+              "text": "个位丝束打转锭位多）待这两个位满卷后，从原",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 14,
+              "text": "900mm",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 15,
+              "text": "的油架高度逐步调整",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 16,
+              "text": "850mm",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 17,
+              "text": "、",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 18,
+              "text": "800mm",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 19,
+              "text": "、",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 20,
+              "text": "750mm",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 21,
+              "text": "，发现丝束打转情况没有明显改善，抬回",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 22,
+              "text": "900mm",
+              "typeface": "+mn-ea"
+            },
+            {
+              "index": 23,
+              "text": "。试验结束后将试验小丝转掉钩废丝",
+              "typeface": "+mn-ea"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": {
+        "type": "theme",
+        "value": "bg1",
+        "transform": {
+          "darken": 0.05
+        }
+      }
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7u54zido",
+      "id": "8",
+      "name": "矩形 1",
+      "bbox": [
+        946.91,
+        154.06,
+        357.98,
+        459.65
+      ],
+      "rotation": 25,
+      "geometry": "custom",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "accent1",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ed8bat47",
+      "id": "9",
+      "name": "矩形 8",
+      "bbox": [
+        970.74,
+        124.03,
+        331.17,
+        459.98
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "accent2",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dsji5sne",
+      "id": "19",
+      "name": "矩形 1",
+      "bbox": [
+        83.57,
+        176.55,
+        348.2,
+        437.5
+      ],
+      "rotation": 22.03,
+      "geometry": "custom",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "accent1",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hk3q5o7q",
+      "id": "20",
+      "name": "矩形 19",
+      "bbox": [
+        82.35,
+        178.32,
+        320.5,
+        458.38
+      ],
+      "geometry": "rect",
+      "text": "900",
+      "textPreview": "900",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "900"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "900",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "900",
+              "fontSize": 33.75,
+              "typeface": "微软雅黑",
+              "color": "#FFFFFF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "accent2",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 10,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/d4vmtwra",
+      "id": "27",
+      "name": "图片 1",
+      "bbox": [
+        82.35,
+        179.44,
+        320.5,
+        404.57
+      ],
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0,
+        "top": 0.05326,
+        "right": 0,
+        "bottom": 0
+      },
+      "asset": {
+        "assetId": "/ppt/media/image13.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 235407
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image13.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 235407
+      }
+    },
+    {
+      "order": 11,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/6hcrmhk3",
+      "id": "28",
+      "name": "图片 2",
+      "bbox": [
+        970.74,
+        125.36,
+        331.17,
+        411.77
+      ],
+      "contentType": "image/jpeg",
+      "imageCrop": {
+        "left": 0,
+        "top": 0.06747,
+        "right": 0,
+        "bottom": 0
+      },
+      "asset": {
+        "assetId": "/ppt/media/image14.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 218297
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image14.jpeg",
+        "contentType": "image/jpeg",
+        "byteLength": 218297
+      }
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7mp0bi9s",
+      "id": "4",
+      "name": "TextBox 3",
+      "bbox": [
+        167.19,
+        587.14,
+        157.22,
+        42.01
+      ],
+      "geometry": "rect",
+      "text": "900mm油架",
+      "textPreview": "900mm油架",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "900mm油架"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "900mm油架",
+          "runs": [
+            {
+              "index": 1,
+              "text": "900mm",
+              "fontSize": 26.67,
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "油架",
+              "fontSize": 26.67,
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/obm58z25",
+      "id": "25",
+      "name": "TextBox 24",
+      "bbox": [
+        1075.67,
+        539.62,
+        158.23,
+        42.01
+      ],
+      "geometry": "rect",
+      "text": "800mm油架",
+      "textPreview": "800mm油架",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "wrap": "none",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "800mm油架"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "800mm油架",
+          "runs": [
+            {
+              "index": 1,
+              "text": "8",
+              "fontSize": 26.67,
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "00mm",
+              "fontSize": 26.67,
+              "color": "bg1",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "油架",
+              "fontSize": 26.67,
+              "color": "bg1",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

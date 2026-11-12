@@ -1,0 +1,1472 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/val87ed8",
+    "id": "val87ed8",
+    "slide": 4,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F4F6F8",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1gvy90je",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        18,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#0A2742",
+      "lineColor": "#0A2742",
+      "lineWidth": 1
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qtcj6tov",
+      "id": "2",
+      "bbox": [
+        18,
+        0,
+        5,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#0E9A9A",
+      "lineColor": "#0E9A9A",
+      "lineWidth": 1
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/je9cvixc",
+      "id": "3",
+      "bbox": [
+        62,
+        36,
+        44,
+        22
+      ],
+      "geometry": "rect",
+      "text": "04",
+      "textPreview": "04",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "04"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "04",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Microsoft YaHei",
+            "color": "#0E9A9A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "04",
+              "fontSize": 14,
+              "typeface": "Microsoft YaHei",
+              "color": "#0E9A9A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/87ed8bat",
+      "id": "4",
+      "bbox": [
+        116,
+        36,
+        180,
+        22
+      ],
+      "geometry": "rect",
+      "text": "QCC成果报告",
+      "textPreview": "QCC成果报告",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "QCC成果报告"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "QCC成果报告",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Microsoft YaHei",
+            "color": "#667386",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "QCC成果报告",
+              "fontSize": 13,
+              "typeface": "Microsoft YaHei",
+              "color": "#667386",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xs72x4na",
+      "id": "5",
+      "bbox": [
+        62,
+        72,
+        900,
+        48
+      ],
+      "geometry": "rect",
+      "text": "现状调查：问题集中在上机初期稳定性",
+      "textPreview": "现状调查：问题集中在上机初期稳定性",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "现状调查：问题集中在上机初期稳定性"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "现状调查：问题集中在上机初期稳定性",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Microsoft YaHei",
+            "color": "#102033",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "现状调查：问题集中在上机初期稳定性",
+              "fontSize": 34,
+              "typeface": "Microsoft YaHei",
+              "color": "#102033",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q1orytsv",
+      "id": "6",
+      "bbox": [
+        62,
+        130,
+        1156,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D8DEE8",
+      "lineColor": "#D8DEE8",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fmlkjm1c",
+      "id": "7",
+      "bbox": [
+        62,
+        686,
+        520,
+        18
+      ],
+      "geometry": "rect",
+      "text": "长空之王QC小组｜提高55/72黑丝优等率",
+      "textPreview": "长空之王QC小组｜提高55/72黑丝优等率",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "长空之王QC小组｜提高55/72黑丝优等率"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "长空之王QC小组｜提高55/72黑丝优等率",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Microsoft YaHei",
+            "color": "#667386",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "长空之王QC小组｜提高55/72黑丝优等率",
+              "fontSize": 11,
+              "typeface": "Microsoft YaHei",
+              "color": "#667386"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8jqh0fep",
+      "id": "8",
+      "bbox": [
+        1178,
+        686,
+        40,
+        18
+      ],
+      "geometry": "rect",
+      "text": "04",
+      "textPreview": "04",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "04"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "04",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Microsoft YaHei",
+            "color": "#667386",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "04",
+              "fontSize": 11,
+              "typeface": "Microsoft YaHei",
+              "color": "#667386"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/pwb2hwfy",
+      "id": "17",
+      "bbox": [
+        62,
+        152,
+        1156,
+        168
+      ],
+      "text": "阶段 | 日期范围 | 断头日均 | C切日均 | 判断\n0.45%阶段 | 05/09-05/18 | 164.3个 | 77.3个 | 断头、C切高位波动\n过渡试调 | 05/19-05/24 | 104.3个 | 21.5个 | C切下降，断头仍未稳定\n0.60%整体执行 | 05/25-06/14 | 33.5个 | 2个 | 连续21天达标",
+      "textPreview": "阶段 | 日期范围 | 断头日均 | C切日均 | 判断 | 0.45%阶段 | 05/09-05/18 | 164.3个 | 77.3个 | 断头、C切高位波动 | 过渡试调 | 05/19-05/24 | 104.3个 | 21.5个 | C切下降，断头仍未稳定 | 0...",
+      "rows": 4,
+      "cols": 5,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            62,
+            152,
+            178,
+            42
+          ],
+          "text": "阶段",
+          "textPreview": "阶段",
+          "fillColor": "#0A2742",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "阶段",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "阶段",
+                  "fontSize": 15,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            240,
+            152,
+            150,
+            42
+          ],
+          "text": "日期范围",
+          "textPreview": "日期范围",
+          "fillColor": "#0A2742",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "日期范围",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "日期范围",
+                  "fontSize": 15,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            390,
+            152,
+            130,
+            42
+          ],
+          "text": "断头日均",
+          "textPreview": "断头日均",
+          "fillColor": "#0A2742",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "断头日均",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "断头日均",
+                  "fontSize": 15,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            520,
+            152,
+            130,
+            42
+          ],
+          "text": "C切日均",
+          "textPreview": "C切日均",
+          "fillColor": "#0A2742",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "C切日均",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "C切日均",
+                  "fontSize": 15,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 5,
+          "bbox": [
+            650,
+            152,
+            568,
+            42
+          ],
+          "text": "判断",
+          "textPreview": "判断",
+          "fillColor": "#0A2742",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "判断",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "判断",
+                  "fontSize": 15,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            62,
+            194,
+            178,
+            42
+          ],
+          "text": "0.45%阶段",
+          "textPreview": "0.45%阶段",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0.45%阶段",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0.45%阶段",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            240,
+            194,
+            150,
+            42
+          ],
+          "text": "05/09-05/18",
+          "textPreview": "05/09-05/18",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "05/09-05/18",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "05/09-05/18",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            390,
+            194,
+            130,
+            42
+          ],
+          "text": "164.3个",
+          "textPreview": "164.3个",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "164.3个",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "164.3个",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            520,
+            194,
+            130,
+            42
+          ],
+          "text": "77.3个",
+          "textPreview": "77.3个",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "77.3个",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "77.3个",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 5,
+          "bbox": [
+            650,
+            194,
+            568,
+            42
+          ],
+          "text": "断头、C切高位波动",
+          "textPreview": "断头、C切高位波动",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "断头、C切高位波动",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "断头、C切高位波动",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            62,
+            236,
+            178,
+            42
+          ],
+          "text": "过渡试调",
+          "textPreview": "过渡试调",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "过渡试调",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "过渡试调",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            240,
+            236,
+            150,
+            42
+          ],
+          "text": "05/19-05/24",
+          "textPreview": "05/19-05/24",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "05/19-05/24",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "05/19-05/24",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            390,
+            236,
+            130,
+            42
+          ],
+          "text": "104.3个",
+          "textPreview": "104.3个",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "104.3个",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "104.3个",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            520,
+            236,
+            130,
+            42
+          ],
+          "text": "21.5个",
+          "textPreview": "21.5个",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "21.5个",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "21.5个",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 3,
+          "column": 5,
+          "bbox": [
+            650,
+            236,
+            568,
+            42
+          ],
+          "text": "C切下降，断头仍未稳定",
+          "textPreview": "C切下降，断头仍未稳定",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "C切下降，断头仍未稳定",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "C切下降，断头仍未稳定",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            62,
+            278,
+            178,
+            42
+          ],
+          "text": "0.60%整体执行",
+          "textPreview": "0.60%整体执行",
+          "fillColor": "#DDF3EC",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0.60%整体执行",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0.60%整体执行",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            240,
+            278,
+            150,
+            42
+          ],
+          "text": "05/25-06/14",
+          "textPreview": "05/25-06/14",
+          "fillColor": "#DDF3EC",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "05/25-06/14",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "05/25-06/14",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            390,
+            278,
+            130,
+            42
+          ],
+          "text": "33.5个",
+          "textPreview": "33.5个",
+          "fillColor": "#DDF3EC",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "33.5个",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "33.5个",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            520,
+            278,
+            130,
+            42
+          ],
+          "text": "2个",
+          "textPreview": "2个",
+          "fillColor": "#DDF3EC",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2个",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2个",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 4,
+          "column": 5,
+          "bbox": [
+            650,
+            278,
+            568,
+            42
+          ],
+          "text": "连续21天达标",
+          "textPreview": "连续21天达标",
+          "fillColor": "#DDF3EC",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "连续21天达标",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "连续21天达标",
+                  "fontSize": 14,
+                  "typeface": "Microsoft YaHei",
+                  "color": "#102033",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1w7mp0bi",
+      "id": "10",
+      "bbox": [
+        62,
+        338,
+        1156,
+        44
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D8DEE8",
+      "lineWidth": 1
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8bat47y1",
+      "id": "11",
+      "bbox": [
+        82,
+        351,
+        86,
+        18
+      ],
+      "geometry": "rect",
+      "text": "调查口径",
+      "textPreview": "调查口径",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "调查口径"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "调查口径",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#1E6AA8",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "调查口径",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#1E6AA8",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jqh0fepk",
+      "id": "12",
+      "bbox": [
+        180,
+        351,
+        900,
+        18
+      ],
+      "geometry": "rect",
+      "text": "对象：10#机55/72黑丝；指标：每日断头、C切、张力CV异常；分层：0.45%上机初期、0.55/0.60打样过渡、0.60整体执行。",
+      "textPreview": "对象：10#机55/72黑丝；指标：每日断头、C切、张力CV异常；分层：0.45%上机初期、0.55/0.60打样过渡、0.60整体执行。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "对象：10#机55/72黑丝；指标：每日断头、C切、张力CV异常；分层：0.45%上机初期、0.55/0.60打样过渡、0.60整体执行。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "对象：10#机55/72黑丝；指标：每日断头、C切、张力CV异常；分层：0.45%上机初期、0.55/0.60打样过渡、0.60整体执行。",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Microsoft YaHei",
+            "color": "#102033",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "对象：10#机55/72黑丝；指标：每日断头、C切、张力CV异常；分层：0.45%上机初期、0.55/0.60打样过渡、0.60整体执行。",
+              "fontSize": 15,
+              "typeface": "Microsoft YaHei",
+              "color": "#102033"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "chart",
+      "scope": "slide",
+      "aid": "ch/h0fepkzu",
+      "id": "18",
+      "name": "Chart",
+      "bbox": [
+        72,
+        410,
+        570,
+        202
+      ],
+      "chartType": "bar"
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/18jqh0fe",
+      "id": "14",
+      "bbox": [
+        704,
+        410,
+        480,
+        202
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D8DEE8",
+      "lineWidth": 1
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8nqxs72x",
+      "id": "15",
+      "bbox": [
+        732,
+        430,
+        180,
+        30
+      ],
+      "geometry": "rect",
+      "text": "现状结论",
+      "textPreview": "现状结论",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "现状结论"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "现状结论",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#B9403A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "现状结论",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#B9403A",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j2t83itg",
+      "id": "16",
+      "bbox": [
+        736,
+        474,
+        410,
+        98
+      ],
+      "geometry": "rect",
+      "text": "0.45%阶段断头、C切均超过目标线。\n0.55%试调后C切下降，但断头仍未稳定达标。\n张力CV尖峰与断头/C切偏多相互印证，问题症结是加工稳定性不足。\n0.60%整体执行后，过程指标进入稳定达标区间。",
+      "textPreview": "0.45%阶段断头、C切均超过目标线。 | 0.55%试调后C切下降，但断头仍未稳定达标。 | 张力CV尖峰与断头/C切偏多相互印证，问题症结是加工稳定性不足。 | 0.60%整体执行后，过程指标进入稳定达标区间。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "0.45%阶段断头、C切均超过目标线。"
+          },
+          {
+            "index": 2,
+            "text": "0.55%试调后C切下降，但断头仍未稳定达标。"
+          },
+          {
+            "index": 3,
+            "text": "张力CV尖峰与断头/C切偏多相互印证，问题症结是加"
+          },
+          {
+            "index": 4,
+            "text": "工稳定性不足。"
+          },
+          {
+            "index": 5,
+            "text": "0.60%整体执行后，过程指标进入稳定达标区间。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "0.45%阶段断头、C切均超过目标线。",
+          "marginLeft": 22,
+          "indent": -12,
+          "lineSpacingPercent": 110000,
+          "spaceAfter": 4,
+          "resolvedTextStyle": {
+            "fontSize": 16.51,
+            "typeface": "Microsoft YaHei",
+            "color": "#102033"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "0.45%阶段断头、C切均超过目标线。",
+              "fontSize": 16.51,
+              "typeface": "Microsoft YaHei",
+              "color": "#102033"
+            }
+          ],
+          "bulletCharacter": ""
+        },
+        {
+          "index": 2,
+          "text": "0.55%试调后C切下降，但断头仍未稳定达标。",
+          "marginLeft": 22,
+          "indent": -12,
+          "lineSpacingPercent": 110000,
+          "spaceAfter": 4,
+          "resolvedTextStyle": {
+            "fontSize": 16.51,
+            "typeface": "Microsoft YaHei",
+            "color": "#102033"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "0.55%试调后C切下降，但断头仍未稳定达标。",
+              "fontSize": 16.51,
+              "typeface": "Microsoft YaHei",
+              "color": "#102033"
+            }
+          ],
+          "bulletCharacter": ""
+        },
+        {
+          "index": 3,
+          "text": "张力CV尖峰与断头/C切偏多相互印证，问题症结是加工稳定性不足。",
+          "marginLeft": 22,
+          "indent": -12,
+          "lineSpacingPercent": 110000,
+          "spaceAfter": 4,
+          "resolvedTextStyle": {
+            "fontSize": 16.51,
+            "typeface": "Microsoft YaHei",
+            "color": "#102033"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "张力CV尖峰与断头/C切偏多相互印证，问题症结是加工稳定性不足。",
+              "fontSize": 16.51,
+              "typeface": "Microsoft YaHei",
+              "color": "#102033"
+            }
+          ],
+          "bulletCharacter": ""
+        },
+        {
+          "index": 4,
+          "text": "0.60%整体执行后，过程指标进入稳定达标区间。",
+          "marginLeft": 22,
+          "indent": -12,
+          "lineSpacingPercent": 110000,
+          "spaceAfter": 4,
+          "resolvedTextStyle": {
+            "fontSize": 16.51,
+            "typeface": "Microsoft YaHei",
+            "color": "#102033"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "0.60%整体执行后，过程指标进入稳定达标区间。",
+              "fontSize": 16.51,
+              "typeface": "Microsoft YaHei",
+              "color": "#102033"
+            }
+          ],
+          "bulletCharacter": ""
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}
